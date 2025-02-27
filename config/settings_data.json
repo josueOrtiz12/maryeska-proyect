@@ -2212,6 +2212,9 @@
           "6bd26ab1-cb98-4425-85c1-1e5d581e5dbb",
           "513e44ef-020d-40a4-8525-ee5bcaedffef"
         ],
+        "custom_css": [
+          ".gl_row.spb_row.gl_row-fluid {display: flex; align-items: center;}"
+        ],
         "settings": {
           "row_stretch": "default",
           "full_height": false,
