@@ -1700,7 +1700,7 @@
               "button_style": "link",
               "button_size": "large",
               "banner_alignment": "left",
-              "banner_vertical_alignment": "middle",
+              "banner_vertical_alignment": "bottom",
               "banner_effect": "default",
               "banner_content_style": "default",
               "banner_color": "light",
