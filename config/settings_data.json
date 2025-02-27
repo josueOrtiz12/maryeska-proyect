@@ -1871,34 +1871,6 @@
           "section_padding_left": ""
         }
       },
-      "a57b44f5-6e51-4f5d-b682-2a6246dd33ee": {
-        "type": "gl_section_title",
-        "custom_css": [
-          "h4 {font-size: 65px;}"
-        ],
-        "settings": {
-          "row_stretch": "stretch_row",
-          "grid_width": "12",
-          "title": "NUESTRA HISTORIA",
-          "sub_title": "",
-          "text_after_title": "",
-          "title_style": "default",
-          "title_color": "default",
-          "title_size": "default",
-          "subtitle_font": "default",
-          "title_align": "center",
-          "section_bg_color": "",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "",
-          "section_margin_top": "8%",
-          "section_margin_bottom": "",
-          "section_padding_top": "",
-          "section_padding_right": "",
-          "section_padding_bottom": "",
-          "section_padding_left": ""
-        }
-      },
       "7604a5af-360c-474b-8b7b-901acae7c962": {
         "type": "gl_section_image_with_text",
         "blocks": {
@@ -2271,6 +2243,66 @@
           "section_padding_left": "",
           "hidden_section": false
         }
+      },
+      "gl_section_promo_banner_f9xMjq": {
+        "type": "gl_section_promo_banner",
+        "blocks": {
+          "banner_MyPVLg": {
+            "type": "banner",
+            "settings": {
+              "banner_width": "12",
+              "hide_medium": false,
+              "hide_small": false,
+              "hide_extra_small": false,
+              "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923.webp",
+              "banner_content": "",
+              "banner_btn_title": "",
+              "banner_link": "",
+              "button_size": "small",
+              "button_color": "white",
+              "button_style_color": "default",
+              "banner_alignment": "center",
+              "banner_vertical_alignment": "top",
+              "banner_effect": "default",
+              "banner_content_style": "default",
+              "banner_color": "light",
+              "enable_increase": false,
+              "block_border_color": "",
+              "block_border_style": "solid",
+              "block_border": "",
+              "block_margin_top": "",
+              "block_margin_bottom": "",
+              "block_padding": "",
+              "position_text_block": "top",
+              "enable_text_block": false,
+              "heading": "Heading",
+              "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+              "banner_text_color": "light"
+            }
+          }
+        },
+        "block_order": [
+          "banner_MyPVLg"
+        ],
+        "settings": {
+          "row_stretch": "stretch_row_content_no_spaces",
+          "columns_gap": "inherit",
+          "button_label": "",
+          "button_link": "",
+          "button_color": "white",
+          "button_style": "bordered",
+          "button_size": "default",
+          "section_bg_color": "",
+          "section_border_color": "",
+          "section_border_style": "solid",
+          "section_border": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "",
+          "section_padding_left": ""
+        }
       }
     },
     "content_for_index": [
@@ -2279,7 +2311,6 @@
       "gl_section_title_RtKNnP",
       "gl_section_product_carousel_WwCzPF",
       "dca8f915-6e2a-480f-a7ae-e7002f93c861",
-      "a57b44f5-6e51-4f5d-b682-2a6246dd33ee",
       "7604a5af-360c-474b-8b7b-901acae7c962",
       "546d3eb2-c9ae-4f88-a440-bf7a3c6aaade",
       "6bad6e79-ee08-4b17-bef2-1dd179d114cc",
@@ -2288,7 +2319,8 @@
       "6e48995a-a085-4275-b3f8-414750032fc6",
       "1502247819093",
       "c22cb3f1-5344-4995-b423-8518569227ec",
-      "1502247626198"
+      "1502247626198",
+      "gl_section_promo_banner_f9xMjq"
     ]
   },
   "presets": {
