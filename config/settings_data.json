@@ -2206,11 +2206,38 @@
           "section_padding_bottom": "",
           "section_padding_left": ""
         }
+      },
+      "gl_section_title_RtKNnP": {
+        "type": "gl_section_title",
+        "custom_css": [],
+        "settings": {
+          "row_stretch": "default",
+          "grid_width": "12",
+          "title": "MI TIENDA",
+          "sub_title": "",
+          "text_after_title": "",
+          "title_style": "default",
+          "title_color": "alt",
+          "title_size": "default",
+          "subtitle_font": "default",
+          "title_align": "center",
+          "section_bg_color": "",
+          "section_border_color": "",
+          "section_border_style": "solid",
+          "section_border": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "",
+          "section_padding_left": ""
+        }
       }
     },
     "content_for_index": [
       "1547774880206",
       "af82ddcd-a698-4d20-ba25-072a26484a94",
+      "gl_section_title_RtKNnP",
       "dca8f915-6e2a-480f-a7ae-e7002f93c861",
       "a57b44f5-6e51-4f5d-b682-2a6246dd33ee",
       "7604a5af-360c-474b-8b7b-901acae7c962",
