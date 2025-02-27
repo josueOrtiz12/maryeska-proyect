@@ -9,6 +9,7 @@
 }
 .header-shop .main-nav .menu>li>a {
     text-transform: capitalize;
+    font-size: 16px;
 }
 
 
