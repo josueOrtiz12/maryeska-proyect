@@ -9,7 +9,7 @@
 }
 
 
-banner pri
+/* banner pricipal */
 .wrapper-content-baner::before {
     content: "";
     position: absolute;
@@ -20,8 +20,7 @@ banner pri
     background: linear-gradient(0deg, #282424c7, transparent);
 }
 
-
-
 .visible-pc.hidden-tb.hidden-mb h1 {
     font-size: 37px;
 }
+/* banner pricipal */
