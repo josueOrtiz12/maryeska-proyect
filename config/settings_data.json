@@ -2213,7 +2213,7 @@
           "513e44ef-020d-40a4-8525-ee5bcaedffef"
         ],
         "settings": {
-          "row_stretch": "stretch_row",
+          "row_stretch": "default",
           "full_height": false,
           "columns_position": "middle",
           "equal_height": false,
