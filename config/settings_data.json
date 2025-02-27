@@ -2239,12 +2239,44 @@
           "section_padding_bottom": "",
           "section_padding_left": ""
         }
+      },
+      "gl_section_product_carousel_WwCzPF": {
+        "type": "gl_section_product_carousel",
+        "settings": {
+          "row_stretch": "default",
+          "home_featured_products": "",
+          "paginate_index": "8",
+          "silder_speed": "5000",
+          "silder_per_view": "4",
+          "hide_pagination": false,
+          "hide_button": false,
+          "slider_loop": false,
+          "autoplay": false,
+          "products_hover": "alt",
+          "sale_countdown": false,
+          "countdown_style": "dark",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "section_bg_color": "",
+          "section_border_color": "",
+          "section_border_style": "solid",
+          "section_border": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "",
+          "section_padding_left": ""
+        }
       }
     },
     "content_for_index": [
       "1547774880206",
       "af82ddcd-a698-4d20-ba25-072a26484a94",
       "gl_section_title_RtKNnP",
+      "gl_section_product_carousel_WwCzPF",
       "dca8f915-6e2a-480f-a7ae-e7002f93c861",
       "a57b44f5-6e51-4f5d-b682-2a6246dd33ee",
       "7604a5af-360c-474b-8b7b-901acae7c962",
