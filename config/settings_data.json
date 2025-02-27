@@ -1871,29 +1871,6 @@
           "section_padding_left": ""
         }
       },
-      "dca8f915-6e2a-480f-a7ae-e7002f93c861": {
-        "type": "custom-content",
-        "custom_css": [
-          "p.text-content {text-align: center; font-size: 19px;}",
-          "p#quienesSomosidTwo {margin-bottom: 4%;}",
-          "a.botonMas {font-size: 14px; padding: 15px 27px 15px 24px; background-color: #d5c7c7 !important; border-radius: 8px;}"
-        ],
-        "settings": {
-          "row_stretch": "default",
-          "code": "<p id=\"quienesSomosidOne\" class=\"text-content\">Somos Simple Food Gourmet, una panadería artesanal con propósito, dedicada a brindar una experiencia única y saludable a través de nuestros exquisitos panes gourmet hechos con masa madre y mucho amor.  Nos apasiona el bienestar y creemos firmemente en que la alimentación saludable puede ser deliciosa y satisfactoria. </p>\n\n<p id=\"quienesSomosidTwo\" class=\"text-content\">\nEn Simple Food Gourmet, nos comprometemos a utilizar ingredientes frescos y seleccionados cuidadosamente, libres de aditivos y conservantes artificiales. Cada uno de nuestros panes es amasado y horneado con amor y dedicación, para ofrecer a nuestro clientes una experiencia gastronómica que promueva su bienestar y les permita disfrutar sin comprometer su salud. \n</p>\n\n<a class=\"botonMas\" href=\"#\"> LEER MAS</a>",
-          "section_bg_color": "",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "",
-          "section_margin_top": "",
-          "section_margin_bottom": "",
-          "section_padding_top": "",
-          "section_padding_right": "",
-          "section_padding_bottom": "",
-          "section_padding_left": "",
-          "hidden_section": false
-        }
-      },
       "a57b44f5-6e51-4f5d-b682-2a6246dd33ee": {
         "type": "gl_section_title",
         "custom_css": [
@@ -2272,6 +2249,24 @@
           "section_padding_right": "",
           "section_padding_bottom": "",
           "section_padding_left": ""
+        }
+      },
+      "dca8f915-6e2a-480f-a7ae-e7002f93c861": {
+        "type": "custom-content",
+        "settings": {
+          "row_stretch": "default",
+          "code": "<a class=\"botonMas\" href=\"#\"> LEER MAS</a>",
+          "section_bg_color": "",
+          "section_border_color": "",
+          "section_border_style": "solid",
+          "section_border": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "",
+          "section_padding_left": "",
+          "hidden_section": false
         }
       }
     },
