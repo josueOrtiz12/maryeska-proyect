@@ -1689,7 +1689,7 @@
             "type": "item",
             "settings": {
               "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923.webp",
-              "title": "LOREM IPSUM",
+              "title": "<h1>LOREM IPSUM</h1>",
               "title_tb": "",
               "title_mb": "",
               "banner_btn_title": "boton de baner",
