@@ -1689,10 +1689,10 @@
             "type": "item",
             "settings": {
               "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923.webp",
-              "title": "prueba",
+              "title": "LOREM IPSUM",
               "title_tb": "",
               "title_mb": "",
-              "banner_btn_title": "",
+              "banner_btn_title": "LOREM IPSUM",
               "banner_link": "",
               "hide_btn_tablet": false,
               "hide_btn_mobile": false,
