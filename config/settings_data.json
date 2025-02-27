@@ -1734,6 +1734,9 @@
           "1547774947330",
           "1547774880206-1"
         ],
+        "custom_css": [
+          "h1 {letter-spacing: 5px;}"
+        ],
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
           "silder_speed": "5000",
@@ -1744,9 +1747,9 @@
           "slider_loop": false,
           "autoplay": true,
           "use_font": true,
-          "font_heading": "karla_n4",
-          "font_subheading": "pacifico_n4",
-          "font_btn": "karla_n4",
+          "font_heading": "josefin_sans_n4",
+          "font_subheading": "josefin_sans_n4",
+          "font_btn": "josefin_sans_n4",
           "use_custom_img": true,
           "desktop": "600px",
           "notebook": "512px",
