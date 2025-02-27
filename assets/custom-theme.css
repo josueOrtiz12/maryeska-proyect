@@ -7,6 +7,9 @@
 .header-shop .site-logo {
     width: 40%;
 }
+.header-shop .main-nav .menu>li>a {
+    text-transform: capitalize;
+}
 
 
 /* banner pricipal */
