@@ -11,22 +11,22 @@
   "sections": {
     "close_quick_shop": "Cerrar",
     "categories": {
-      "products_cat_number": "",
-      "browse_categories": "",
-      "View": ""
+      "products_cat_number": "{{ count }} productos",
+      "browse_categories": "Explorar categorías",
+      "View": "Ver productos"
     },
     "countdown": {
-      "countdown_days": "",
-      "countdown_hours": "",
-      "countdown_mins": "",
-      "countdown_sec": ""
+      "countdown_days": "dais",
+      "countdown_hours": "horas",
+      "countdown_mins": "minutos",
+      "countdown_sec": "segundos"
     },
     "product_gird_carousel": {
-      "load_more": "",
-      "view_all": ""
+      "load_more": "Cargas más productos",
+      "view_all": "VER TODOS LOS PRODUCTOS"
     },
     "basel_tooltip": {
-      "login_to_wishlist": "",
+      "login_to_wishlist": "Inicie sesión para utilizar la lista de deseos",
       "add_to_wishlist": "",
       "adding_to_wishlist": "",
       "browse_Wishlist": "",
