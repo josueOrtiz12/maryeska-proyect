@@ -2255,7 +2255,7 @@
               "hide_small": false,
               "hide_extra_small": false,
               "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
-              "banner_content": "LOREM IPSUM",
+              "banner_content": "",
               "banner_btn_title": "",
               "banner_link": "",
               "button_size": "small",
@@ -2274,8 +2274,8 @@
               "block_margin_bottom": "",
               "block_padding": "",
               "position_text_block": "top",
-              "enable_text_block": false,
-              "heading": "Heading",
+              "enable_text_block": true,
+              "heading": "LOREM IPSUM",
               "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
               "banner_text_color": "light"
             }
