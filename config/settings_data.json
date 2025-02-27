@@ -2239,7 +2239,7 @@
           "section_margin_bottom": "",
           "section_padding_top": "",
           "section_padding_right": "",
-          "section_padding_bottom": "",
+          "section_padding_bottom": "40px",
           "section_padding_left": "",
           "hidden_section": false
         }
@@ -2270,7 +2270,7 @@
               "block_border_color": "",
               "block_border_style": "solid",
               "block_border": "",
-              "block_margin_top": "",
+              "block_margin_top": "10px",
               "block_margin_bottom": "",
               "block_padding": "",
               "position_text_block": "top",
@@ -2311,6 +2311,7 @@
       "gl_section_title_RtKNnP",
       "gl_section_product_carousel_WwCzPF",
       "dca8f915-6e2a-480f-a7ae-e7002f93c861",
+      "gl_section_promo_banner_f9xMjq",
       "7604a5af-360c-474b-8b7b-901acae7c962",
       "546d3eb2-c9ae-4f88-a440-bf7a3c6aaade",
       "6bad6e79-ee08-4b17-bef2-1dd179d114cc",
@@ -2319,8 +2320,7 @@
       "6e48995a-a085-4275-b3f8-414750032fc6",
       "1502247819093",
       "c22cb3f1-5344-4995-b423-8518569227ec",
-      "1502247626198",
-      "gl_section_promo_banner_f9xMjq"
+      "1502247626198"
     ]
   },
   "presets": {
