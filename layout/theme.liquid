@@ -37,7 +37,7 @@
   {%- capture check_admin -%}{{ content_for_header }}{%- endcapture -%}
   {%- capture check_tab -%}{{ content_for_layout  }}{%- endcapture -%}
   {{ 'tab_shopify.min.css' | asset_url | stylesheet_tag }}
-  
+  {{ '' }}
   <link rel="preload" href="{{ 'gl_linecons_icons.min.css' | asset_url }}" as="style" onload="this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="{{ 'gl_linecons_icons.min.css' | asset_url }}"></noscript>
   {%- if check_admin contains 'design_mode' -%}{%- assign admin_shopify = true -%}{%- endif -%}
