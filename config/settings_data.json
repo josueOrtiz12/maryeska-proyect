@@ -2242,6 +2242,9 @@
       },
       "gl_section_product_carousel_WwCzPF": {
         "type": "gl_section_product_carousel",
+        "custom_css": [
+          ".gl_column-inner {padding-top: 0px !important;}"
+        ],
         "settings": {
           "row_stretch": "stretch_row",
           "home_featured_products": "",
