@@ -2255,14 +2255,14 @@
               "hide_small": false,
               "hide_extra_small": false,
               "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
-              "banner_content": "",
+              "banner_content": "LOREM IPSUM",
               "banner_btn_title": "",
               "banner_link": "",
               "button_size": "small",
               "button_color": "white",
               "button_style_color": "default",
-              "banner_alignment": "center",
-              "banner_vertical_alignment": "middle",
+              "banner_alignment": "left",
+              "banner_vertical_alignment": "bottom",
               "banner_effect": "default",
               "banner_content_style": "default",
               "banner_color": "light",
@@ -2284,7 +2284,9 @@
         "block_order": [
           "banner_MyPVLg"
         ],
-        "custom_css": [],
+        "custom_css": [
+          "h1 {letter-spacing: 5px;}"
+        ],
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
           "columns_gap": "inherit",
