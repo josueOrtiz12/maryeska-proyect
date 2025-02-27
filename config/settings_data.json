@@ -2243,7 +2243,7 @@
       "gl_section_product_carousel_WwCzPF": {
         "type": "gl_section_product_carousel",
         "settings": {
-          "row_stretch": "stretch_row_content_no_spaces",
+          "row_stretch": "stretch_row_content",
           "home_featured_products": "",
           "paginate_index": "8",
           "silder_speed": "5000",
