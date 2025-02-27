@@ -48,3 +48,6 @@ a.botonMas {
     padding: 12px 24px 12px 24px;
 }
 
+.promo-banner {
+    filter: saturate(1.5);
+}
