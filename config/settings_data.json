@@ -2284,9 +2284,7 @@
         "block_order": [
           "banner_MyPVLg"
         ],
-        "custom_css": [
-          ".promo-banner .wrapper-content-baner {height: 400px;}"
-        ],
+        "custom_css": [],
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
           "columns_gap": "inherit",
