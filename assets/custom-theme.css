@@ -60,3 +60,7 @@ p.about-me {
     letter-spacing: 3px;
     margin-bottom: 5px;
 }
+h1.about-me-tilte {
+    font-weight: 600;
+    letter-spacing: 6px;
+}
