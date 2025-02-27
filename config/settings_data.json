@@ -1843,7 +1843,7 @@
       "af82ddcd-a698-4d20-ba25-072a26484a94": {
         "type": "gl_section_title",
         "custom_css": [
-          "h4.title {font-size: 20px !important;}"
+          "h4.title {font-size: 20px !important; letter-spacing: 5px;}"
         ],
         "settings": {
           "row_stretch": "default",
@@ -2212,7 +2212,7 @@
       "gl_section_title_RtKNnP": {
         "type": "gl_section_title",
         "custom_css": [
-          "h4.title {font-size: 25px !important;}"
+          "h4.title {font-size: 33px !important; letter-spacing: 5px;}"
         ],
         "settings": {
           "row_stretch": "default",
