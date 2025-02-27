@@ -1842,7 +1842,9 @@
       },
       "af82ddcd-a698-4d20-ba25-072a26484a94": {
         "type": "gl_section_title",
-        "custom_css": [],
+        "custom_css": [
+          "h4.title {font-size: 20px !important;}"
+        ],
         "settings": {
           "row_stretch": "default",
           "grid_width": "12",
@@ -2209,7 +2211,9 @@
       },
       "gl_section_title_RtKNnP": {
         "type": "gl_section_title",
-        "custom_css": [],
+        "custom_css": [
+          "h4.title {font-size: 25px !important;}"
+        ],
         "settings": {
           "row_stretch": "default",
           "grid_width": "12",
