@@ -2258,7 +2258,7 @@
         ],
         "settings": {
           "row_stretch": "default",
-          "code": "<a class=\"botonMas\" href=\"#\"> LEER MAS</a>",
+          "code": "<a class=\"botonMas\" href=\"#\">VER TODO</a>",
           "section_bg_color": "",
           "section_border_color": "",
           "section_border_style": "solid",
