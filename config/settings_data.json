@@ -1688,7 +1688,8 @@
           "1547774947330": {
             "type": "item",
             "settings": {
-              "title": "<div class=\"logo-banner\"><img src=\"https://cdn.shopify.com/s/files/1/0768/0144/2105/files/SIMPLE_WEB_6.png?v=1690560974\" alt=\"Girl in a jacket\" width=\"300\" height=\"300\"></div>",
+              "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_1__11zon_622d29a9-becf-4fb3-9262-90fff4685127.webp",
+              "title": "",
               "title_tb": "",
               "title_mb": "",
               "banner_btn_title": "",
