@@ -1871,121 +1871,6 @@
           "section_padding_left": ""
         }
       },
-      "7604a5af-360c-474b-8b7b-901acae7c962": {
-        "type": "gl_section_image_with_text",
-        "blocks": {
-          "7604a5af-360c-474b-8b7b-901acae7c962-text-1": {
-            "type": "text",
-            "settings": {
-              "text_block": "<p class=\"text-content\">\nSimple Food comenzó a buscar para brindar una opción de pan saludable pero gourmet a las personas que se preocupan por la salud de la mente y el cuerpo. Soy diabetica tipo 1 y siempre he cuidado mi alimentación. Con el objetivo de evitar los picos de insulina causantes de inflamación en el cuerpo y de reducir el consumo de insulina para regular los niveles de glucosa, por mucho tiempo decidí evitar los carbohidratos simples en mi dieta. Sin embargo todo cambió cuando descubrí la magia del sourdough. \n</p>\n<p class=\"text-content\">\nA través de la lectura, investigación de estudios científicos, el aprendizaje y la práctica constante, me sumergí en el mundo de la fermentación larga refrigerada de la masa madre. Durante este proceso, las enzimas presentes en la masa madre descomponen el gluten, lo que reduce su presencia en el producto final. \n</p>\n<p class=\"text-content\">\nEl resultado es un pan bajo en índice glicémico, altamente recomendable a nivel nutricional, que no causa picos de insulina. Además es un pan rico en fibra, prebióticos, probióticos, y bajo en carbohidratos. Por lo tanto es una opción ideal tanto para personas diabéticas como para aquellos que padecen del Síndrome del Intestino irritable (IBS), a menudo confundido con intolerancia al gluten.\n</p>\n<p class=\"text-content\">\nEsta revelación se convirtió en un punto de inflexión en mi vida, ya que me permitió disfrutar nuevamente del pan de una manera saludable y consciente. Desde entonces trato de compartir esta  valiosa información con otros, con la esperanza de ayudar a quienes se enfrentan a desafíos similares en su búsqueda hacia una vida más equilibrada y nutritiva. \n</p>"
-            }
-          },
-          "f408bedb-bc45-403b-9afd-df0d9e8a3bb2": {
-            "type": "image",
-            "settings": {}
-          }
-        },
-        "block_order": [
-          "7604a5af-360c-474b-8b7b-901acae7c962-text-1",
-          "f408bedb-bc45-403b-9afd-df0d9e8a3bb2"
-        ],
-        "custom_css": [
-          "p.text-content {font-size: 15px;}"
-        ],
-        "settings": {
-          "row_stretch": "stretch_row",
-          "full_height": false,
-          "columns_position": "middle",
-          "equal_height": false,
-          "content_position": "default",
-          "use_countdown": false,
-          "date": "2018/12/12",
-          "countdown_color_scheme": "dark",
-          "size": "small",
-          "align": "left",
-          "style": "standard",
-          "button_label": "",
-          "button_link": "",
-          "button_color": "white",
-          "button_style": "default",
-          "button_size": "default",
-          "hide_pagination": true,
-          "hide_button": true,
-          "slider_loop": true,
-          "autoplay": true,
-          "align_img": "2",
-          "color_scheme": "dark",
-          "section_bg_color": "",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "",
-          "section_margin_top": "",
-          "section_margin_bottom": "",
-          "section_padding_top": "",
-          "section_padding_right": "",
-          "section_padding_bottom": "",
-          "section_padding_left": "",
-          "use_parallax": false
-        }
-      },
-      "546d3eb2-c9ae-4f88-a440-bf7a3c6aaade": {
-        "type": "gl_section_image_with_text",
-        "blocks": {
-          "6bd26ab1-cb98-4425-85c1-1e5d581e5dbb": {
-            "type": "image",
-            "settings": {}
-          },
-          "513e44ef-020d-40a4-8525-ee5bcaedffef": {
-            "type": "text",
-            "settings": {
-              "text_block": "<h2 class=\"misionTitle\">MISIÓN</h2>\n\n<p class=\"text-content\">\nNuestra misión es ofrecer a nuestros clientes productos de la más alta calidad, elaborados con ingredientes naturales y siguiendo cuidadosamente procesos artesanales. Cada pan que sale de nuestro horno es el resultado de una combinación perfecta de técnicas tradicionales y creatividad culinaria, garantizando un producto único en su estilo con un sabor incomparable en cada bocado. \n</p>"
-            }
-          }
-        },
-        "block_order": [
-          "6bd26ab1-cb98-4425-85c1-1e5d581e5dbb",
-          "513e44ef-020d-40a4-8525-ee5bcaedffef"
-        ],
-        "custom_css": [
-          "h2.misionTitle {font-size: 50px;}",
-          "p.text-content {font-size: 18px;}"
-        ],
-        "settings": {
-          "row_stretch": "stretch_row",
-          "full_height": false,
-          "columns_position": "middle",
-          "equal_height": false,
-          "content_position": "default",
-          "use_countdown": false,
-          "date": "",
-          "countdown_color_scheme": "dark",
-          "size": "small",
-          "align": "left",
-          "style": "standard",
-          "button_label": "",
-          "button_link": "",
-          "button_color": "white",
-          "button_style": "default",
-          "button_size": "default",
-          "hide_pagination": true,
-          "hide_button": true,
-          "slider_loop": true,
-          "autoplay": true,
-          "align_img": "1",
-          "color_scheme": "dark",
-          "section_bg_color": "",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "",
-          "section_margin_top": "",
-          "section_margin_bottom": "",
-          "section_padding_top": "",
-          "section_padding_right": "",
-          "section_padding_bottom": "",
-          "section_padding_left": "",
-          "use_parallax": false
-        }
-      },
       "6bad6e79-ee08-4b17-bef2-1dd179d114cc": {
         "type": "gl_section_image_with_text",
         "blocks": {
@@ -2306,6 +2191,62 @@
           "section_padding_bottom": "",
           "section_padding_left": ""
         }
+      },
+      "546d3eb2-c9ae-4f88-a440-bf7a3c6aaade": {
+        "type": "gl_section_image_with_text",
+        "blocks": {
+          "6bd26ab1-cb98-4425-85c1-1e5d581e5dbb": {
+            "type": "image",
+            "settings": {
+              "block_image_1": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.webp"
+            }
+          },
+          "513e44ef-020d-40a4-8525-ee5bcaedffef": {
+            "type": "text",
+            "settings": {
+              "text_block": "<h2 class=\"misionTitle\">MISIÓN</h2>\n\n<p class=\"text-content\">\nNuestra misión es ofrecer a nuestros clientes productos de la más alta calidad, elaborados con ingredientes naturales y siguiendo cuidadosamente procesos artesanales. Cada pan que sale de nuestro horno es el resultado de una combinación perfecta de técnicas tradicionales y creatividad culinaria, garantizando un producto único en su estilo con un sabor incomparable en cada bocado. \n</p>"
+            }
+          }
+        },
+        "block_order": [
+          "6bd26ab1-cb98-4425-85c1-1e5d581e5dbb",
+          "513e44ef-020d-40a4-8525-ee5bcaedffef"
+        ],
+        "settings": {
+          "row_stretch": "stretch_row",
+          "full_height": false,
+          "columns_position": "middle",
+          "equal_height": false,
+          "content_position": "default",
+          "use_countdown": false,
+          "date": "",
+          "countdown_color_scheme": "dark",
+          "size": "small",
+          "align": "left",
+          "style": "standard",
+          "button_label": "",
+          "button_link": "",
+          "button_color": "white",
+          "button_style": "default",
+          "button_size": "default",
+          "hide_pagination": true,
+          "hide_button": true,
+          "slider_loop": true,
+          "autoplay": true,
+          "align_img": "1",
+          "color_scheme": "dark",
+          "section_bg_color": "",
+          "section_border_color": "",
+          "section_border_style": "solid",
+          "section_border": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "",
+          "section_padding_left": "",
+          "use_parallax": false
+        }
       }
     },
     "content_for_index": [
@@ -2315,7 +2256,6 @@
       "gl_section_product_carousel_WwCzPF",
       "dca8f915-6e2a-480f-a7ae-e7002f93c861",
       "gl_section_promo_banner_f9xMjq",
-      "7604a5af-360c-474b-8b7b-901acae7c962",
       "546d3eb2-c9ae-4f88-a440-bf7a3c6aaade",
       "6bad6e79-ee08-4b17-bef2-1dd179d114cc",
       "f8c5a9e7-d38b-4938-a06f-d502232f21b4",
