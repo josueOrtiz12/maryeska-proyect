@@ -2253,6 +2253,9 @@
       },
       "dca8f915-6e2a-480f-a7ae-e7002f93c861": {
         "type": "custom-content",
+        "custom_css": [
+          ".gl_custom_dca8f915-6e2a-480f-a7ae-e7002f93c861.gl_content_html {text-align: center;}"
+        ],
         "settings": {
           "row_stretch": "default",
           "code": "<a class=\"botonMas\" href=\"#\"> LEER MAS</a>",
