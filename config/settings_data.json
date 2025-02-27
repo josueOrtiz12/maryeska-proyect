@@ -2273,7 +2273,7 @@
               "block_margin_top": "10px",
               "block_margin_bottom": "",
               "block_padding": "",
-              "position_text_block": "top",
+              "position_text_block": "bottom",
               "enable_text_block": true,
               "heading": "LOREM IPSUM",
               "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
