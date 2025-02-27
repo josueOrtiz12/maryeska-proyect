@@ -51,3 +51,10 @@ a.botonMas {
 .promo-banner {
     filter: saturate(1.5);
 }
+
+
+/**section information**/
+p.about-me {
+    font-size: 18px;
+    font-weight: 700;
+}
