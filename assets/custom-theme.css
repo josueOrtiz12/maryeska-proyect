@@ -15,6 +15,9 @@
 a.basel-logo.basel-main-logo:hover {
     text-decoration: none;
 }
+a.basel-logo.basel-main-logo {
+    letter-spacing: 6px;
+}
 
 
 /* banner pricipal */
