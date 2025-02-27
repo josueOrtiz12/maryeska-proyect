@@ -2262,7 +2262,7 @@
               "button_color": "white",
               "button_style_color": "default",
               "banner_alignment": "center",
-              "banner_vertical_alignment": "top",
+              "banner_vertical_alignment": "middle",
               "banner_effect": "default",
               "banner_content_style": "default",
               "banner_color": "light",
