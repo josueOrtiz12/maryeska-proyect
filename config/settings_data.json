@@ -138,17 +138,17 @@
     "html_before_footer": "",
     "font_body_text": "Josefin Sans",
     "size_body_text": 14,
-    "font_titles_text": "Karla",
+    "font_titles_text": "Josefin Sans",
     "style_titles_text": "normal_normal",
-    "font_title_products": "Lora",
+    "font_title_products": "Josefin Sans",
     "style_title_products": "normal_normal",
-    "font_secondary_products": "Lato",
+    "font_secondary_products": "Josefin Sans",
     "style_secondary_products": "400_italic",
-    "font_info": "",
+    "font_info": "Josefin Sans",
     "style_font_info": "normal_normal",
-    "font_post": "Lato",
+    "font_post": "Josefin Sans",
     "style_font_post": "400_italic",
-    "font_navigation": "",
+    "font_navigation": "Josefin Sans",
     "size_navigation": 14,
     "style_navigation": "normal_normal",
     "use_dark_version": false,
@@ -2254,14 +2254,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-      "@font-face {font-family: fastrf; src: url(https://cdn.shopify.com/s/files/1/0768/0144/2105/files/fastrf.ttf?v=1692135916);}",
-      "@font-face {font-family: EngraversBold; src: url(https://cdn.shopify.com/s/files/1/0768/0144/2105/files/FontsFree-Net-Engravers-Gothic-W01-Bold_d358f535-9b4e-4b71-a899-a271aa98e2b5.ttf?v=1692137594);}",
-      "@font-face {font-family: WhiteAngelica; src: url(https://cdn.shopify.com/s/files/1/0768/0144/2105/files/WhiteAngelica.ttf?v=1692135915);}",
-      "h1 {font-family: WhiteAngelica !important;}",
-      "h2,h3,h4,h5 {font-family: fastrf !important;}",
-      "p,a {font-family: EngraversBold !important;}",
-      ".equal-nt.nt_cover.ratio8_5.position_8.gl_custom_1502247819093.featured-blog.gl_row.spb_row.gl_row-fluid.gl_row-has-fill {background-image: url(https://cdn.shopify.com/s/files/1/0768/0144/2105/files/Patron_Ramas_PNG_d67de351-e05d-422c-903e-2754c23d6c97.png?v=1692201503); background-position: right !important; background-size: 36%; background-repeat: no-repeat;}"
-    ]
+    "custom_css": []
   }
 }
