@@ -2285,7 +2285,7 @@
           "banner_MyPVLg"
         ],
         "custom_css": [
-          ".gl_custom_gl_section_promo_banner_f9xMjq.gl_column-gap-inherit.featured-collection.gl_row-no-padding.gl_row.spb_row.gl_row-fluid.gl_row-has-fill {height: 400px;}"
+          ".promo-banner .wrapper-content-baner{height: 400px;}"
         ],
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
