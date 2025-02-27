@@ -1688,7 +1688,7 @@
           "1547774947330": {
             "type": "item",
             "settings": {
-              "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923.webp",
+              "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon.webp",
               "title": "<h1>LOREM IPSUM</h1>",
               "title_tb": "",
               "title_mb": "",
@@ -2285,7 +2285,7 @@
           "banner_MyPVLg"
         ],
         "custom_css": [
-          ".promo-banner .wrapper-content-baner{height: 400px;}"
+          ".promo-banner .wrapper-content-baner {height: 400px;}"
         ],
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
