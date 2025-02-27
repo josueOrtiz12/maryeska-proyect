@@ -38,3 +38,12 @@ a.basel-logo.basel-main-logo {
     font-size: 37px;
 }
 /* banner pricipal */
+
+
+
+/* section products */
+a.botonMas {
+    background: #d9d9d9;
+    color: #000000;
+    padding: 12px 24px 12px 24px;
+}
