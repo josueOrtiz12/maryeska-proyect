@@ -2252,7 +2252,7 @@
           "hide_button": true,
           "slider_loop": true,
           "autoplay": true,
-          "products_hover": "alt",
+          "products_hover": "quick",
           "sale_countdown": false,
           "countdown_style": "dark",
           "use_eq_height": false,
