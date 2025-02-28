@@ -67,3 +67,7 @@ h1.about-me-tilte {
 p.text-content {
     font-size: 17px;
 }
+a.read-more {
+    font-size: 17px;
+    text-decoration: underline;
+}
