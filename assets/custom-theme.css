@@ -52,6 +52,12 @@ a.botonMas {
     filter: saturate(1.5);
 }
 
+h3.product-title a {
+    letter-spacing: 2px;
+    font-weight: 760;
+    text-transform: uppercase;
+}
+/* section products */
 
 /**section information**/
 p.about-me {
