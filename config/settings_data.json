@@ -2188,7 +2188,7 @@
           "section_margin_bottom": "",
           "section_padding_top": "",
           "section_padding_right": "",
-          "section_padding_bottom": "",
+          "section_padding_bottom": "30px",
           "section_padding_left": ""
         }
       },
