@@ -57,6 +57,12 @@ h3.product-title a {
     font-weight: 760;
     text-transform: uppercase;
 }
+.owl-carousel-item-inner span.price {
+    letter-spacing: 2px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #000000;
+}
 /* section products */
 
 /**section information**/
