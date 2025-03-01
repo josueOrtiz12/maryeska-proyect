@@ -80,7 +80,7 @@
   {%- include 'load-css' -%}
   {%- include 'inc_css_home' -%}
   {%- if settings.show_custom_css -%}{{ 'custom.css' | asset_url | stylesheet_tag }}{%- endif-%}
-  {%- if template contains 'product' -%}{%- include 'space_check_variant' -%}{%- include 'nathan_settings' -%}{%- endif-%}
+  {%- if template contains 'product' -%}{%- render 'space_check_variant' -%}{%- render 'nathan_settings' -%}{%- endif-%}
   {{ '//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js' | script_tag }}
  {%- comment -%} <script src="{{ 'jquery_migrate.min.js' | asset_url }}"></script>{%- endcomment -%}
   {{ content_for_header }}
