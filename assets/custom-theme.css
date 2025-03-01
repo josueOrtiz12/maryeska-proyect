@@ -99,3 +99,31 @@ article .entry-content {
 ul.social-icons.text-center.social-share.icons-design-default.icons-size-default {
     margin-top: 18px;
 }
+.redes-sociales ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Muestra los elementos en línea */
+    justify-content: center; /* Centra los iconos horizontalmente (opcional) */
+  }
+  
+  .redes-sociales li {
+    margin: 0 15px; /* Espacio entre iconos */
+  }
+  
+  .redes-sociales a {
+    color: #333;
+    font-size: 28px; /* Tamaño de los iconos */
+    transition: color 0.3s ease;
+  }
+  
+  .redes-sociales a:hover {
+    color: #007bff; /* Cambia el color al pasar el mouse */
+  }
+  
+  /* Opcional: Estilos específicos para cada red social */
+  .redes-sociales a[href*="instagram.com"] { color: #E4405F; } /* Color de Instagram */
+  redes-sociales a[href*="youtube.com"] { color: #FF0000; } /* Color de YouTube */
+  redes-sociales a[href*="tiktok.com"] { color: #000000; } /* Color de TikTok */
+  redes-sociales a[href*="twitter.com"] { color: #1DA1F2; } /* Color de Twitter */
+  redes-sociales a[href*="facebook.com"] { color: #1877F2; } /* Color de Facebook */
