@@ -117,7 +117,7 @@
     "footer_social_design": "icons-design-default",
     "footer_social_size": "icons-size-default",
     "footer_color_scheme": "light",
-    "footer_bg": "#000000",
+    "footer_bg": "#23254e",
     "footer_bg_repeat": "default",
     "footer_bg_size": "default",
     "footer_bg_attachment": "default",
@@ -147,7 +147,11 @@
     "color_body_text": "#4c4c4c",
     "color_titles_text": "#767676",
     "color_title_products": "#252222",
+<<<<<<< HEAD
     "color_primary": "#e8dc6d",
+=======
+    "color_primary": "#d9d9d9",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
     "mega_navigation_hover": "#fbbc34",
     "color_navigation": "",
     "color_sale_bg": "#179a94",
@@ -524,12 +528,17 @@
     "share_type_pass": "2",
     "section_bg_image_pass": "",
     "share_image": "",
-    "share_facebook": true,
-    "share_twitter": true,
+    "share_facebook": false,
+    "share_twitter": false,
     "share_pinterest": true,
     "share_tumblr": true,
+<<<<<<< HEAD
     "share_email": true,
     "social_twitter_link": "https:\/\/twitter.com\/shopify",
+=======
+    "share_email": false,
+    "social_twitter_link": "https://twitter.com/shopify",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
     "social_facebook_link": "#",
     "social_pinterest_link": "#",
     "social_instagram_link": "",
@@ -1263,39 +1272,46 @@
           "1501140417063": {
             "type": "logo",
             "settings": {
-              "logo_max_width": "300",
-              "social_enabled": true,
-              "share_type": "1",
-              "logo_custom_html": "",
-              "width": "100%",
-              "width_tablet": "100%",
+              "footer_logo_image": "shopify://shop_images/Screenshot_1.png",
+              "logo_max_width": "160",
+              "social_enabled": false,
+              "share_type": "2",
+              "logo_custom_html": "<div class=\"redes-sociales\">\n  <ul>\n    <li>\n      <a href=\"https://www.instagram.com/tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-instagram\"></i>\n\n      </a>\n    </li>\n    <li>\n      <a href=\"https://www.youtube.com/tu-canal\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-youtube\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://www.tiktok.com/@tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-tiktok\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://twitter.com/tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-twitter\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://www.facebook.com/tu-pagina\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-facebook-f\"></i>\n      </a>\n    </li>\n  </ul>\n</div>",
+              "width": "16%",
+              "width_tablet": "16%",
               "width_mobile": "100%"
             }
           },
           "1501138697288": {
             "type": "menu",
             "settings": {
-              "title": "OUR STORES",
-              "menu": "",
+              "title": "PÁGINAS",
+              "menu": "main-menu",
               "width": "16%",
-              "width_tablet": "50%",
+              "width_tablet": "16%",
               "width_mobile": "100%"
             }
           },
-          "1501752631358": {
-            "type": "html",
+          "menu_qbQr6r": {
+            "type": "menu",
             "settings": {
+<<<<<<< HEAD
               "title": "INFORMATION",
               "html": "<ul class=\"menu\">\n<li><a href=\"#\">About Store<\/a><\/li>\n<li><a href=\"#\">New Collection<\/a><\/li>\n<li><a href=\"#\">Woman Dress<\/a><\/li>\n<li><a href=\"#\">Contact Us<\/a><\/li>\n<li><a href=\"#\">Latest News<\/a><\/li>\n<li><a href=\"#\">Our Sitemap<\/a><\/li>\n<\/ul>",
               "enabled_payment_types": true,
+=======
+              "title": "SHOP",
+              "menu": "shop",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
               "width": "16%",
-              "width_tablet": "50%",
+              "width_tablet": "16%",
               "width_mobile": "100%"
             }
           },
-          "1501752636586": {
-            "type": "html",
+          "newsletter_FnYgLK": {
+            "type": "newsletter",
             "settings": {
+<<<<<<< HEAD
               "title": "USEFUL LINKS",
               "html": "<ul class=\"menu\">\n<li><a href=\"#\">Privacy Policy<\/a><\/li>\n<li><a href=\"#\">Returns<\/a><\/li>\n<li><a href=\"#\">Terms &amp; Conditions<\/a><\/li>\n<li><a href=\"#\">Contact Us<\/a><\/li>\n<li><a href=\"#\">Latest News<\/a><\/li>\n<li><a href=\"#\">Our Sitemap<\/a><\/li>\n<\/ul>",
               "enabled_payment_types": true,
@@ -1322,6 +1338,11 @@
               "html": "<p>STORE - worldwide fashion store since 1978. We sell over 1000+ branded products on our web-site.<\/p>\n<div style=\"line-height: 2;\">\n<i class=\"fa fa-location-arrow\" style=\"width: 15px; text-align: center; margin-right: 4px; color: #676767;\"><\/i> 451 Wall Street, USA, New York<br>\n<i class=\"fa fa-mobile\" style=\"width: 15px; text-align: center; margin-right: 4px; color: #676767;\"><\/i> Phone: (064) 332-1233<br>\n<\/div>",
               "enabled_payment_types": true,
               "width": "33%",
+=======
+              "title": "Newsletter",
+              "use_mailchimp": true,
+              "width": "25%",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
               "width_tablet": "50%",
               "width_mobile": "100%"
             }
@@ -1330,10 +1351,8 @@
         "block_order": [
           "1501140417063",
           "1501138697288",
-          "1501752631358",
-          "1501752636586",
-          "1501752248456",
-          "1501148151649"
+          "menu_qbQr6r",
+          "newsletter_FnYgLK"
         ],
         "settings": {}
       },
@@ -1549,8 +1568,13 @@
           "1547774947330": {
             "type": "item",
             "settings": {
+<<<<<<< HEAD
               "image": "shopify:\/\/shop_images\/85c6dcd26e84d679a20847ab91961923_11zon.webp",
               "title": "<h1>LOREM IPSUM<\/h1>",
+=======
+              "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon.webp",
+              "title": "<h1>LOREM IPSUM</h1>",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
               "title_tb": "",
               "title_mb": "",
               "banner_btn_title": "boton de baner",
@@ -1680,13 +1704,21 @@
           "02f1bb07-1472-410a-996f-a7b9f43abdf1": {
             "type": "image",
             "settings": {
+<<<<<<< HEAD
               "block_image_1": "shopify:\/\/shop_images\/35957b6ae39f9c1a6736c506b0afdbb7.webp"
+=======
+              "block_image_1": "shopify://shop_images/35957b6ae39f9c1a6736c506b0afdbb7.webp"
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
             }
           },
           "525d6f56-afc9-4705-bc24-9d368e007946": {
             "type": "text",
             "settings": {
+<<<<<<< HEAD
               "text_block": "<p class=\"about-me\">ABOUT ME<\/p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM<\/h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n<\/p>\n<a class=\"read-more\">Leer más<\/a>"
+=======
+              "text_block": "<p class=\"about-me\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n</p>\n<a class=\"read-more\">Leer más</a>"
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
             }
           }
         },
@@ -1774,7 +1806,11 @@
         ],
         "settings": {
           "row_stretch": "default",
+<<<<<<< HEAD
           "code": "<a class=\"botonMas\" href=\"#\">VER TODO<\/a>",
+=======
+          "code": "<a class=\"botonMas\" href=\"#\">VER TODO</a>",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
           "section_bg_color": "",
           "section_border_color": "",
           "section_border_style": "solid",
@@ -1798,8 +1834,13 @@
               "hide_medium": false,
               "hide_small": false,
               "hide_extra_small": false,
+<<<<<<< HEAD
               "image": "shopify:\/\/shop_images\/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
               "banner_content": "<h1>LOREM IPSUM<\/h1>",
+=======
+              "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
+              "banner_content": "<h1>LOREM IPSUM</h1>",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
               "banner_btn_title": "",
               "banner_link": "",
               "button_size": "small",
@@ -1820,7 +1861,11 @@
               "position_text_block": "bottom",
               "enable_text_block": false,
               "heading": "LOREM IPSUM",
+<<<<<<< HEAD
               "text_block": "<p>Viverra rutrum fringilla curabitur.<\/p>",
+=======
+              "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
               "banner_text_color": "light"
             }
           }
@@ -1857,13 +1902,21 @@
           "6bd26ab1-cb98-4425-85c1-1e5d581e5dbb": {
             "type": "image",
             "settings": {
+<<<<<<< HEAD
               "block_image_1": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf.webp"
+=======
+              "block_image_1": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.webp"
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
             }
           },
           "513e44ef-020d-40a4-8525-ee5bcaedffef": {
             "type": "text",
             "settings": {
+<<<<<<< HEAD
               "text_block": "<p class=\"about-me\">ABOUT ME<\/p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM<\/h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n<\/p>\n<a class=\"read-more\">Leer más<\/a>"
+=======
+              "text_block": "<p class=\"about-me\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n</p>\n<a class=\"read-more\">Leer más</a>"
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
             }
           }
         },
@@ -1920,7 +1973,11 @@
               "hide_medium": false,
               "hide_small": false,
               "hide_extra_small": false,
+<<<<<<< HEAD
               "image": "shopify:\/\/shop_images\/Group_17.png",
+=======
+              "image": "shopify://shop_images/Group_17.png",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
               "banner_content": "",
               "banner_btn_title": "",
               "banner_link": "",
@@ -2015,7 +2072,11 @@
               "hide_medium": false,
               "hide_small": false,
               "hide_extra_small": false,
+<<<<<<< HEAD
               "image": "shopify:\/\/shop_images\/Group_18.png",
+=======
+              "image": "shopify://shop_images/Group_18.png",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
               "banner_content": "",
               "banner_btn_title": "",
               "banner_link": "",
@@ -2105,7 +2166,11 @@
           "columns_position": "middle",
           "equal_height": false,
           "content_position": "default",
+<<<<<<< HEAD
           "image": "shopify:\/\/shop_images\/6a05b2c2e084998c3e904e2434b6e6fa-removebg-preview.png",
+=======
+          "image": "shopify://shop_images/6a05b2c2e084998c3e904e2434b6e6fa-removebg-preview.png",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
           "section_bg_color": "#f1df37",
           "section_border_color": "",
           "section_border_style": "solid",
@@ -2146,7 +2211,11 @@
           "enable_meta": "hide",
           "enable_text": "show",
           "enable_button": "show",
+<<<<<<< HEAD
           "enable_post_categories": "show",
+=======
+          "enable_post_categories": "hide",
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
           "enable_post_date": "show",
           "section_bg_color": "",
           "section_border_color": "",
@@ -2157,6 +2226,53 @@
           "section_padding_top": "",
           "section_padding_right": "",
           "section_padding_bottom": "",
+          "section_padding_left": ""
+        }
+      },
+      "gl_instagram_N8PY4C": {
+        "type": "gl_instagram",
+        "settings": {
+          "row_stretch": "default",
+          "full_height": false,
+          "columns_position": "middle",
+          "equal_height": false,
+          "content_position": "default",
+          "show_title": true,
+          "title": "INSTAGRAM<br> @MARYESKALOPEZ",
+          "style_title": "1",
+          "bg_title": "",
+          "get_by": "1",
+          "username": "southern_blooms",
+          "access_token": "",
+          "limit": "12",
+          "open_link": "_self",
+          "photo_design": "default",
+          "photo_per_row": "6",
+          "spaces_section": false,
+          "rounded_section": false,
+          "image_ratio": "ratio1_1",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "silder_speed": "5000",
+          "hide_pagination": false,
+          "hide_button": false,
+          "slider_loop": false,
+          "autoplay": false,
+          "style_ins_text": "1",
+          "show_ins_text": false,
+          "overlay_title": "",
+          "subtext": "",
+          "button_label": "",
+          "button_link": "",
+          "button_color": "white",
+          "button_style": "bordered",
+          "button_size": "default",
+          "section_bg_color": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "50PX",
           "section_padding_left": ""
         }
       }
@@ -2173,7 +2289,12 @@
       "gl_section_image_text_8_tynnDK",
       "gl_video_player_BpEK67",
       "gl_section_promo_banner_cVAMam",
+<<<<<<< HEAD
       "gl_section_blog_7CMVam"
+=======
+      "gl_section_blog_7CMVam",
+      "gl_instagram_N8PY4C"
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
     ]
   },
   "presets": {

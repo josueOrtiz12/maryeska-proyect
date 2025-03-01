@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <html class="no-js" lang="{{ shop.locale }}">
 <head>
@@ -170,4 +171,178 @@
   {%- endif -%}
   {%- include 'last_catelog_mod',var_last:true -%}
 </body>
+=======
+<!doctype html>
+<html class="no-js" lang="{{ shop.locale }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="{{ settings.color_primary }}">
+  <meta name="keywords" content="{{ shop.name | strip_html | strip }}">
+  <meta name="author" content="{{ shop.domain | strip_html | strip }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="canonical" href="{{ canonical_url }}">
+  {%- if settings.favicon != blank -%}
+    <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x' }}" type="image/png">
+  {% endif %}
+   {%- if settings.favicon_apple != blank -%}
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ settings.favicon_apple | img_url: '152x' }}">
+  {%- endif -%}
+  <script type="text/javascript">document.documentElement.className = document.documentElement.className.replace('no-js', 'yes-js js_active js')</script>
+   {%- capture seo_title -%}
+    {{ page_title }}
+    {%- if current_tags -%}
+      {%- assign meta_tags = current_tags | join: ', ' %} &ndash; {{ 'general.meta.tags' | t: tags: meta_tags -}}
+    {%- endif -%}
+    {%- if current_page != 1 -%}
+      &ndash; {{ 'general.meta.page' | t: page: current_page }}
+    {%- endif -%}
+    {%- unless page_title contains shop.name -%}
+      &ndash; {{ shop.name }}
+    {%- endunless -%}
+  {%- endcapture -%}
+  <title>{{ seo_title }}</title>
+
+  {%- if page_description -%}
+    <meta name="description" content="{{ page_description | escape }}">
+  {%- endif -%}
+  {%- include 'social-meta-tags' -%}
+  {%- capture check_admin -%}{{ content_for_header }}{%- endcapture -%}
+  {%- capture check_tab -%}{{ content_for_layout  }}{%- endcapture -%}
+  {{ 'tab_shopify.min.css' | asset_url | stylesheet_tag }}
+  {{ 'custom-theme.css' | asset_url | stylesheet_tag }}
+  <link rel="preload" href="{{ 'gl_linecons_icons.min.css' | asset_url }}" as="style" onload="this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="{{ 'gl_linecons_icons.min.css' | asset_url }}"></noscript>
+  {%- if check_admin contains 'design_mode' -%}{%- assign admin_shopify = true -%}{%- endif -%}
+  {%- if check_tab contains 'section_tab_gl_css' -%}
+  {%- assign section_tab_css_enable = true -%}
+  {%- endif -%}
+  {%- if check_tab contains 'gl_has_youtube' or check_tab contains 'has_section_gl_js' or check_tab contains 'animated_counter' -%}
+  {%- assign section_js_enable = true -%}
+  {%- endif -%}
+  {%- if check_tab contains 'gl_has_google_map' -%}
+  {%- assign section_js_googlem_enable = true -%}
+  {%- endif -%}
+  {%- include 'gl_header_css' -%}
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+   <script>
+      {%- assign font_body_text = settings.font_body_text -%}
+{%- assign font_titles_text = settings.font_titles_text -%}
+{%- assign font_title_products = settings.font_title_products -%}
+{%- assign font_secondary_products = settings.font_secondary_products -%}
+{%- assign font_post = settings.font_post -%}
+{%- assign font_info = settings.font_info -%}
+{%- assign font_navigation = settings.font_navigation -%}
+     WebFont.load({
+       google: {
+         families: [
+     {%- if font_body_text != blank -%}"{{font_body_text}}:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic"{%- endif -%} 
+     {%- if font_titles_text != blank and font_titles_text != font_body_text -%},"{{ font_titles_text }}:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic"{%- endif -%}
+     {%- if font_title_products != blank and font_title_products != font_body_text and font_title_products != font_titles_text -%},"{{ font_title_products }}:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic"{%- endif -%}
+     {%- if font_secondary_products != blank and font_secondary_products != font_body_text and font_secondary_products != font_titles_text and font_secondary_products != font_title_products -%},"{{ font_secondary_products }}:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic"{%- endif -%}
+     {%- if font_post != blank and font_post != font_secondary_products and font_post != font_body_text and font_post != font_titles_text and font_post != font_title_products -%},"{{ font_post }}:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic"{%- endif -%}
+      {%- if font_info != blank and font_info != font_post and font_info != font_secondary_products and font_info != font_body_text and font_info != font_titles_text and font_info != font_title_products -%},"{{ font_info }}:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic"{%- endif -%}
+      {%- if font_navigation != blank and font_navigation != font_info and font_navigation != font_post and font_navigation != font_secondary_products and font_navigation != font_body_text and font_navigation != font_titles_text and font_navigation != font_title_products -%},"{{ font_navigation }}:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic"{%- endif -%}
+    ]
+       }
+     });
+   </script>
+  {%- include 'load-css' -%}
+  {%- include 'inc_css_home' -%}
+  {%- if settings.show_custom_css -%}{{ 'custom.css' | asset_url | stylesheet_tag }}{%- endif-%}
+  {%- if template contains 'product' -%}{%- include 'space_check_variant' -%}{%- include 'nathan_settings' -%}{%- endif-%}
+  {{ '//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js' | script_tag }}
+ {%- comment -%} <script src="{{ 'jquery_migrate.min.js' | asset_url }}"></script>{%- endcomment -%}
+  {{ content_for_header }}
+</head>
+{%- include 'class_body_theme' -%}
+<body class="sticky-toolbar-{{settings.sticky_toolbar}} {%- if settings.ajax_shop -%}basel-ajax-shop-on{%- endif %} template-{{ template | split: '.' | first }} {{header_class }} {{footer_layout}} {{ general_layout }} {{ search_layout }} {{ tab_class }} {{ design_products }} global-header-{{settings.header_design}} global-cart-design-{{settings.cart_design}}{%- if customer %} logged-in{%- endif %}{%- if catalog_mode %} catalog-mode-on{%- else %} catalog-mode-off{%- endif %}{%- unless template contains 'index' %} shopify shopify-page{%- endunless %}{%- if template contains '404' %} error404{%- endif-%}">
+  {%- if customer == blank and settings.login_side -%}{%- include 'login_side' -%}{%- endif -%}
+  {%- if settings.color_light_mobile_menu -%}
+  <div class="nt_light">{%- section 'gl_mobile_menu'-%}</div>
+  {%- else -%}
+  {%- section 'gl_mobile_menu'-%}
+  {%- endif -%}
+  <!--END MOBILE-NAV-->
+  {%- if settings.enable_header_banner -%}
+  <div class="header-banner color-scheme-light">
+    {%- if settings.close_banner_btn -%}<a href="#" class="close-header-banner"></a>{%- endif -%}
+   {%- if settings.link_banner != blank -%}<a href="{{settings.link_banner}}" class="header-banner-link"></a>{%- endif -%}
+    <div class="container header-banner-container">
+      <p style="text-align: center; color: {{settings.header_banner_text}} !important;">{{settings.banner_content | strip_html }}</p>
+    </div>
+  </div>
+  {%- endif -%}
+  {%- if settings.cart_position == 'side' -%}{%- include 'cart_widget_side'-%}{%- endif -%}
+  <div class="website-wrapper">
+    {%- include 'header'-%}
+    {{ content_for_layout }}
+    <!-- FOOTER -->
+    {%- include 'footer' -%}
+    <div class="basel-close-side"></div>
+    {%- section 'gl_custom_color' -%}
+  </div>
+  <!-- end wrapper -->
+  {%- section 'toolbar_mobile' -%}
+  {%- if settings.show_backtop -%}<a href="#" class="scrollToTop basel-tooltip"><span class="basel-tooltip-label">Scroll To Top</span>Scroll To Top</a>{%- endif -%}
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="{{ 'lazysizes.js' | asset_url }}" async="async"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="{{ 'lazysizes.js' | asset_url }}"></script><![endif]-->
+  
+  
+  {%- include 'theme_string' -%}
+  {%- if template.directory == 'customers' -%}
+    {{ 'shopify_common.js' | shopify_asset_url | script_tag }}
+    {{ 'customer_area.js'  | shopify_asset_url | script_tag }}
+  {%- endif -%}
+  {% if admin_shopify -%}
+    {%- if settings.enable_update -%}{{ 'the4-update-theme.js' | asset_url | script_tag }}{%- include 'the4_update_theme' -%}{%- endif -%}
+    {{ 'tta.min.css' | asset_url | stylesheet_tag }}
+  {%- elsif section_tab_css_enable -%}
+    {{ 'tta.min.css' | asset_url | stylesheet_tag }}
+  {%- endif -%}
+  {% if admin_shopify -%}
+    {{ 'animate.min.css' | asset_url | stylesheet_tag }}
+    <script src="{{ 'waypoints.min.js' | asset_url }}"></script>
+    <!--[if (gt IE 9)|!(IE)]><!--><script src="{{ 'js_cp_gl_section.min.js' | asset_url }}" defer="defer"></script><!--<![endif]-->
+    <!--[if lte IE 9]><script src="{{ 'js_cp_gl_section.min.js' | asset_url }}"></script><![endif]-->
+  {%- elsif section_js_enable -%}
+    {{ 'animate.min.css' | asset_url | stylesheet_tag }}
+    <script src="{{ 'waypoints.min.js' | asset_url }}"></script>
+    <!--[if (gt IE 9)|!(IE)]><!--><script src="{{ 'js_cp_gl.min.js' | asset_url }}" defer="defer"></script><!--<![endif]-->
+    <!--[if lte IE 9]><script src="{{ 'js_cp_gl.min.js' | asset_url }}"></script><![endif]-->
+  {%- endif -%}
+  {% if template contains 'collection' and settings.use_pagination == 'infinit' -%}
+  <script src="{{ 'waypoints.min.js' | asset_url }}"></script>
+  {%- endif -%}
+  {%- assign gl_portfolio = settings.blog_portfolio -%}
+  {%- if blog.handle == gl_portfolio and settings.portfolio_full_width -%}
+    <!--[if (gt IE 9)|!(IE)]><!--><script src="{{ 'js_cp_gl.min.js' | asset_url }}" defer="defer"></script><!--<![endif]-->
+    <!--[if lte IE 9]><script src="{{ 'js_cp_gl.min.js' | asset_url }}"></script><![endif]-->
+  {%- endif -%}
+  {%- include 'gl_bottom_js'-%}
+  {% if admin_shopify and template contains 'index' -%}
+  <script src="https://maps.google.com/maps/api/js?sensor=false&libraries=geometry&v=3.22&key"></script>
+  {%- elsif section_js_googlem_enable and settings.api_key != blank -%}
+  <script src="https://maps.google.com/maps/api/js?sensor=false&libraries=geometry&v=3.22&key={{settings.api_key}}"></script>
+  {%- elsif section_js_googlem_enable -%}
+  <script src="https://maps.google.com/maps/api/js?sensor=false&libraries=geometry&v=3.22&key"></script>
+  {%- endif -%}
+  {%- include 'gl-currencies' -%}
+  {%- if settings.enable_popup -%}{%- include 'basel-promo-popup' -%}{%- endif -%}
+  {%- if settings.enable_cookies_popup -%}{%- include 'basel-cookies-popup' -%}{%- endif -%}
+  {%- if settings.enable_suggest_products -%}{%- include 'tea_suggest' -%}{%- endif -%}
+  {%- if settings.show_sticky_add and template.name == 'product' and product.available == true and linklists[product.handle].links.size == 0 -%}{%- include 'sticky_add_to_cart' -%}{%- endif -%}
+  
+  {%- if shop.enabled_currencies.size > 1 and settings.currency_type == '1' and settings.show_multiple_currencies %}{%- assign cart_iso_code = cart.currency.iso_code -%}{%- form 'currency', class: "hide hidden dn" -%}<select name="currency" id="CurrencySelector">{%- for currency in shop.enabled_currencies -%}{%- assign iso_code = currency.iso_code -%}<option value="{{iso_code}}"{% if iso_code == cart_iso_code %} selected="true"{% endif %}>{{iso_code}}</option>{%- endfor -%}</select>{%- endform -%}{%- endif -%}
+  {%- if template contains 'product' or template contains 'article' or check_photowipe -%}{%- include 'photoswipe' -%}{%- endif -%}
+  {%- if settings.use_compare and pages['compare'].empty? != true -%}{%- include 'gl_compare' -%}{%- endif -%}
+  {%- if settings.custom_js != blank -%}
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="{{ 'custom_js.js' | asset_url }}" defer="defer"></script><!--<![endif]-->
+    <!--[if lte IE 9]><script src="{{ 'custom_js.js' | asset_url }}"></script><![endif]-->
+  {%- endif -%}
+  {%- include 'last_catelog_mod',var_last:true -%}
+</body>
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
 </html>

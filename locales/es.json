@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
 {
   "sections": {
     "close_quick_shop": "Cerrar",
@@ -134,10 +146,17 @@
       "submit": ""
     },
     "newsletter_form": {
+<<<<<<< HEAD
       "email_placeholder": "",
       "confirmation": "",
       "submit": "",
       "subscribing": ""
+=======
+      "email_placeholder": "Correo electronico",
+      "confirmation": "Gracias por suscribirse",
+      "submit": "Suscribirse",
+      "subscribing": "Suscribiendo"
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
     },
     "filters": {
       "show_more": "",
@@ -528,5 +547,17 @@
   },
   "date_formats": {
     "month_day_year": ""
+<<<<<<< HEAD
+=======
+  },
+  "customer_accounts": {
+    "account_information": {
+      "people": {
+        "pagination": {
+          "load_more": "Cargar más"
+        }
+      }
+    }
+>>>>>>> 6786f018f68002c76e18284d26dc05d40eefb738
   }
 }
