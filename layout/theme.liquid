@@ -16,7 +16,7 @@
     <link rel="shortcut icon" href="{{ settings.favicon | image_url: '32x' }}" type="image/png">
   {% endif %}
    {%- if settings.favicon_apple != blank -%}
-  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ settings.favicon_apple | img_url: '152x' }}">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ settings.favicon_apple | image_url: '152x' }}">
   {%- endif -%}
   <script type="text/javascript">document.documentElement.className = document.documentElement.className.replace('no-js', 'yes-js js_active js')</script>
    {%- capture seo_title -%}
