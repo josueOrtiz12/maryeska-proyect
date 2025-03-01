@@ -1552,136 +1552,6 @@
         ],
         "settings": {}
       },
-      "1502247507816": {
-        "type": "gl_section_title",
-        "custom_css": [
-          "h4 {font-size: 50px; text-align: center;}",
-          ".gl_custom_1502247507816.gl_row-has-fill.gl_row.spb_row.gl_row-fluid.gl_row-has-fill {margin-bottom: 0px !important;}"
-        ],
-        "settings": {
-          "row_stretch": "stretch_row",
-          "grid_width": "12",
-          "title": "NUESTROS PRODUCTOS",
-          "sub_title": "",
-          "text_after_title": "",
-          "title_style": "default",
-          "title_color": "default",
-          "title_size": "default",
-          "subtitle_font": "default",
-          "title_align": "center",
-          "section_bg_color": "#d5c7c7",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "0px",
-          "section_margin_top": "",
-          "section_margin_bottom": "5px",
-          "section_padding_top": "20px",
-          "section_padding_right": "",
-          "section_padding_bottom": "0px",
-          "section_padding_left": ""
-        }
-      },
-      "1502247626198": {
-        "type": "gl_newsletter",
-        "blocks": {
-          "1502247626198-0": {
-            "type": "1",
-            "settings": {
-              "title": "Connect to Basel & Co.",
-              "color_title": "#ffffff",
-              "subtitle": "Join Our Newsletter",
-              "color_subtitle": "#ffffff",
-              "subtext": "Hey you, sign up it only takes a second to be the first to find out about our latest news and promotionsâ¦",
-              "color_subtext": "#ffffff"
-            }
-          }
-        },
-        "block_order": [
-          "1502247626198-0"
-        ],
-        "disabled": true,
-        "settings": {
-          "row_stretch": "stretch_row",
-          "full_height": false,
-          "columns_position": "middle",
-          "equal_height": false,
-          "content_position": "default",
-          "use_video": false,
-          "video_url": "",
-          "bg_img_center": true,
-          "bg_size_cover": true,
-          "section_bg_color": "#3bc6bf",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "",
-          "section_margin_top": "",
-          "section_margin_bottom": "3%",
-          "section_padding_top": "60px",
-          "section_padding_right": "",
-          "section_padding_bottom": "60px",
-          "section_padding_left": "",
-          "use_parallax": false,
-          "use_gradient": false,
-          "gradient": "left",
-          "color_gradient_one": "",
-          "color_opacity_one": "1",
-          "color_percent_one": "1",
-          "color_gradient_two": "",
-          "color_opacity_two": "1",
-          "color_percent_two": "33",
-          "use_color_gradient_three": false,
-          "color_gradient_three": "",
-          "color_opacity_three": "1",
-          "color_percent_three": "66",
-          "use_color_gradient_four": false,
-          "color_gradient_four": "",
-          "color_opacity_four": "1",
-          "color_percent_four": "100"
-        }
-      },
-      "1502247819093": {
-        "type": "gl_section_blog",
-        "custom_css": [
-          "span.title {font-family: fastrf !important; font-size: 50px !important;}",
-          "span.title-after_title {font-family: EngraversBold !important; font-size: 16px !important;}"
-        ],
-        "settings": {
-          "row_stretch": "stretch_row",
-          "title": "NUESTRO BLOG",
-          "sub_title": "",
-          "text_after_title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,",
-          "title_style": "default",
-          "title_color": "default",
-          "title_size": "default",
-          "subtitle_font": "default",
-          "title_align": "center",
-          "blog": "hobbies",
-          "paginate_index": "6",
-          "use_pagination": "more_btn",
-          "use_eq_height": true,
-          "image_ratio": "ratio8_5",
-          "image_size": "nt_cover",
-          "image_position": "8",
-          "style": "masonry",
-          "columns": "3",
-          "enable_title": "show",
-          "enable_meta": "hide",
-          "enable_text": "show",
-          "enable_button": "hide",
-          "enable_post_categories": "hide",
-          "enable_post_date": "hide",
-          "section_bg_color": "",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "",
-          "section_margin_top": "60px",
-          "section_margin_bottom": "50px",
-          "section_padding_top": "",
-          "section_padding_right": "",
-          "section_padding_bottom": "",
-          "section_padding_left": ""
-        }
-      },
       "1547774880206": {
         "type": "slideshow",
         "blocks": {
@@ -1813,36 +1683,6 @@
           "show_txt": true
         }
       },
-      "6e48995a-a085-4275-b3f8-414750032fc6": {
-        "type": "gl_section_product_gird",
-        "custom_css": [
-          ".gl_custom_6e48995a-a085-4275-b3f8-414750032fc6.gl_row.spb_row.gl_row-fluid.gl_row-has-fill.gl_row-o-content-.gl_row-flex.lazy_bg.lazyloaded {background-position: right !important; background-size: 36%;}"
-        ],
-        "settings": {
-          "row_stretch": "stretch_row",
-          "home_featured_products": "",
-          "paginate_index": "8",
-          "use_pagination": "arrows",
-          "grid_columns": "3",
-          "products_hover": "alt",
-          "sale_countdown": false,
-          "countdown_style": "dark",
-          "use_eq_height": false,
-          "image_ratio": "ratio_nt",
-          "image_size": "nt_cover",
-          "image_position": "8",
-          "section_bg_color": "#d5c7c7",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "0px",
-          "section_margin_top": "0px",
-          "section_margin_bottom": "",
-          "section_padding_top": "",
-          "section_padding_right": "",
-          "section_padding_bottom": "",
-          "section_padding_left": ""
-        }
-      },
       "af82ddcd-a698-4d20-ba25-072a26484a94": {
         "type": "gl_section_title",
         "custom_css": [
@@ -1928,101 +1768,6 @@
           "section_padding_bottom": "50px",
           "section_padding_left": "",
           "use_parallax": false
-        }
-      },
-      "c22cb3f1-5344-4995-b423-8518569227ec": {
-        "type": "gl_section_categories_furniture",
-        "blocks": {
-          "c22cb3f1-5344-4995-b423-8518569227ec-masonry_image-1": {
-            "type": "masonry_image",
-            "settings": {
-              "id_collection": "",
-              "width": "3"
-            }
-          },
-          "c22cb3f1-5344-4995-b423-8518569227ec-masonry_image-2": {
-            "type": "masonry_image",
-            "settings": {
-              "id_collection": "",
-              "width": "3"
-            }
-          },
-          "c22cb3f1-5344-4995-b423-8518569227ec-masonry_image-3": {
-            "type": "masonry_image",
-            "settings": {
-              "id_collection": "",
-              "width": "3"
-            }
-          },
-          "c22cb3f1-5344-4995-b423-8518569227ec-masonry_image-4": {
-            "type": "masonry_image",
-            "settings": {
-              "id_collection": "",
-              "width": "3"
-            }
-          },
-          "ec7278e4-644f-4520-86f0-7a0681d02f31": {
-            "type": "masonry_image",
-            "settings": {
-              "id_collection": "",
-              "width": "3"
-            }
-          },
-          "afee3dfa-a4ae-4cf2-b2de-01f348173047": {
-            "type": "masonry_image",
-            "settings": {
-              "id_collection": "",
-              "width": "3"
-            }
-          },
-          "c20b8b82-43a8-4d78-9538-6ee30bdabacf": {
-            "type": "masonry_image",
-            "settings": {
-              "id_collection": "",
-              "width": "3"
-            }
-          },
-          "c94c7880-7101-4f3d-879c-78fb9c741aa7": {
-            "type": "masonry_image",
-            "settings": {
-              "id_collection": "",
-              "width": "3"
-            }
-          }
-        },
-        "block_order": [
-          "c22cb3f1-5344-4995-b423-8518569227ec-masonry_image-1",
-          "c22cb3f1-5344-4995-b423-8518569227ec-masonry_image-2",
-          "c22cb3f1-5344-4995-b423-8518569227ec-masonry_image-3",
-          "c22cb3f1-5344-4995-b423-8518569227ec-masonry_image-4",
-          "ec7278e4-644f-4520-86f0-7a0681d02f31",
-          "afee3dfa-a4ae-4cf2-b2de-01f348173047",
-          "c20b8b82-43a8-4d78-9538-6ee30bdabacf",
-          "c94c7880-7101-4f3d-879c-78fb9c741aa7"
-        ],
-        "disabled": true,
-        "settings": {
-          "title": "NUESTROS PRODUCTOS",
-          "sub_title": "",
-          "categories_layout": "default",
-          "categories_design": "default",
-          "space_categories": "30",
-          "silder_speed": "5000",
-          "silder_per_view": "4",
-          "hide_pagination": true,
-          "hide_button": true,
-          "slider_loop": true,
-          "autoplay": true,
-          "section_bg_color": "",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "",
-          "section_margin_top": "",
-          "section_margin_bottom": "",
-          "section_padding_top": "",
-          "section_padding_right": "",
-          "section_padding_bottom": "",
-          "section_padding_left": ""
         }
       },
       "gl_section_title_RtKNnP": {
@@ -2397,12 +2142,7 @@
       "6bad6e79-ee08-4b17-bef2-1dd179d114cc",
       "gl_section_promo_banner_gcDhHL",
       "gl_video_player_BpEK67",
-      "gl_section_promo_banner_cVAMam",
-      "1502247507816",
-      "6e48995a-a085-4275-b3f8-414750032fc6",
-      "1502247819093",
-      "c22cb3f1-5344-4995-b423-8518569227ec",
-      "1502247626198"
+      "gl_section_promo_banner_cVAMam"
     ]
   },
   "presets": {
