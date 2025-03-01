@@ -2151,7 +2151,7 @@
           "slider_loop": true,
           "autoplay": true,
           "use_eq_height": false,
-          "image_ratio": "ratio2_1",
+          "image_ratio": "ratio8_5",
           "image_size": "nt_cover",
           "image_position": "8",
           "style": "masonry",
