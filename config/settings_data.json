@@ -1292,12 +1292,11 @@
               "width_mobile": "100%"
             }
           },
-          "1501752631358": {
-            "type": "html",
+          "menu_qbQr6r": {
+            "type": "menu",
             "settings": {
-              "title": "INFORMATION",
-              "html": "<ul class=\"menu\">\n<li><a href=\"#\">About Store</a></li>\n<li><a href=\"#\">New Collection</a></li>\n<li><a href=\"#\">Woman Dress</a></li>\n<li><a href=\"#\">Contact Us</a></li>\n<li><a href=\"#\">Latest News</a></li>\n<li><a href=\"#\">Our Sitemap</a></li>\n</ul>",
-              "enabled_payment_types": true,
+              "title": "SHOP",
+              "menu": "shop",
               "width": "16%",
               "width_tablet": "16%",
               "width_mobile": "100%"
@@ -1318,7 +1317,7 @@
         "block_order": [
           "1501140417063",
           "1501138697288",
-          "1501752631358",
+          "menu_qbQr6r",
           "1501752636586"
         ],
         "settings": {}
