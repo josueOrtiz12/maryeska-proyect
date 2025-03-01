@@ -1683,34 +1683,6 @@
           "show_txt": true
         }
       },
-      "af82ddcd-a698-4d20-ba25-072a26484a94": {
-        "type": "gl_section_title",
-        "custom_css": [
-          "h4.title {font-size: 20px !important; letter-spacing: 5px;}"
-        ],
-        "settings": {
-          "row_stretch": "default",
-          "grid_width": "12",
-          "title": "SHOP",
-          "sub_title": "",
-          "text_after_title": "",
-          "title_style": "default",
-          "title_color": "alt",
-          "title_size": "default",
-          "subtitle_font": "default",
-          "title_align": "center",
-          "section_bg_color": "",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "",
-          "section_margin_top": "7%",
-          "section_margin_bottom": "",
-          "section_padding_top": "",
-          "section_padding_right": "",
-          "section_padding_bottom": "",
-          "section_padding_left": ""
-        }
-      },
       "6bad6e79-ee08-4b17-bef2-1dd179d114cc": {
         "type": "gl_section_image_with_text",
         "blocks": {
@@ -2105,7 +2077,7 @@
       "gl_section_title_XHmEHy": {
         "type": "gl_section_title",
         "custom_css": [
-          "span.title-subtitle.font-default {font-size: 20px ! IMPORTANT; color: #767676 !important;}"
+          "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
         ],
         "settings": {
           "row_stretch": "default",
@@ -2130,13 +2102,16 @@
           "section_padding_left": ""
         }
       },
-      "gl_section_title_ftzpcj": {
+      "gl_section_title_LUcdj7": {
         "type": "gl_section_title",
+        "custom_css": [
+          "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
+        ],
         "settings": {
           "row_stretch": "default",
           "grid_width": "12",
           "title": "MI TIENDA",
-          "sub_title": "",
+          "sub_title": "SHOP",
           "text_after_title": "",
           "title_style": "default",
           "title_color": "alt",
@@ -2147,7 +2122,7 @@
           "section_border_color": "",
           "section_border_style": "solid",
           "section_border": "",
-          "section_margin_top": "",
+          "section_margin_top": "7%",
           "section_margin_bottom": "",
           "section_padding_top": "",
           "section_padding_right": "",
@@ -2158,8 +2133,7 @@
     },
     "content_for_index": [
       "1547774880206",
-      "af82ddcd-a698-4d20-ba25-072a26484a94",
-      "gl_section_title_ftzpcj",
+      "gl_section_title_LUcdj7",
       "gl_section_product_carousel_WwCzPF",
       "dca8f915-6e2a-480f-a7ae-e7002f93c861",
       "gl_section_promo_banner_f9xMjq",
