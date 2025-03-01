@@ -2323,6 +2323,66 @@
           "section_padding_bottom": "",
           "section_padding_left": ""
         }
+      },
+      "gl_section_promo_banner_cVAMam": {
+        "type": "gl_section_promo_banner",
+        "blocks": {
+          "banner_hzeyy4": {
+            "type": "banner",
+            "settings": {
+              "banner_width": "12",
+              "hide_medium": false,
+              "hide_small": false,
+              "hide_extra_small": false,
+              "image": "shopify://shop_images/Group_18.png",
+              "banner_content": "",
+              "banner_btn_title": "",
+              "banner_link": "",
+              "button_size": "small",
+              "button_color": "white",
+              "button_style_color": "default",
+              "banner_alignment": "center",
+              "banner_vertical_alignment": "top",
+              "banner_effect": "default",
+              "banner_content_style": "default",
+              "banner_color": "light",
+              "enable_increase": false,
+              "block_border_color": "",
+              "block_border_style": "solid",
+              "block_border": "0px",
+              "block_margin_top": "",
+              "block_margin_bottom": "0px",
+              "block_padding": "",
+              "position_text_block": "top",
+              "enable_text_block": false,
+              "heading": "",
+              "text_block": "",
+              "banner_text_color": "light"
+            }
+          }
+        },
+        "block_order": [
+          "banner_hzeyy4"
+        ],
+        "settings": {
+          "row_stretch": "stretch_row_content_no_spaces",
+          "columns_gap": "inherit",
+          "button_label": "",
+          "button_link": "",
+          "button_color": "white",
+          "button_style": "bordered",
+          "button_size": "default",
+          "section_bg_color": "",
+          "section_border_color": "",
+          "section_border_style": "solid",
+          "section_border": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "0px",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "0px",
+          "section_padding_left": ""
+        }
       }
     },
     "content_for_index": [
@@ -2336,6 +2396,7 @@
       "6bad6e79-ee08-4b17-bef2-1dd179d114cc",
       "gl_section_promo_banner_gcDhHL",
       "gl_video_player_BpEK67",
+      "gl_section_promo_banner_cVAMam",
       "1502247507816",
       "6e48995a-a085-4275-b3f8-414750032fc6",
       "1502247819093",
