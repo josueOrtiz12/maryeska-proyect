@@ -120,6 +120,9 @@ ul.social-icons.text-center.social-share.icons-design-default.icons-size-default
   .redes-sociales a:hover {
     color: #007bff; /* Cambia el color al pasar el mouse */
   }
+  .redes-sociales {
+    margin-top: 22px;
+}
   
   /* Opcional: Estilos específicos para cada red social */
   .redes-sociales a[href*="instagram.com"] { color: #E4405F; } /* Color de Instagram */
