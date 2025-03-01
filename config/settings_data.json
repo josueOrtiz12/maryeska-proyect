@@ -1275,8 +1275,8 @@
               "footer_logo_image": "shopify://shop_images/Screenshot_1.png",
               "logo_max_width": "200",
               "social_enabled": true,
-              "share_type": "1",
-              "logo_custom_html": "<div class=\"redes-sociales\">\n  <ul>\n    <li>\n      <a href=\"https://www.facebook.com/tu-pagina\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-facebook-f\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://twitter.com/tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-twitter\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://www.instagram.com/tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-instagram\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://www.linkedin.com/in/tu-perfil\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-linkedin-in\"></i>\n      </a>\n    </li>\n  </ul>\n</div>",
+              "share_type": "2",
+              "logo_custom_html": "<div class=\"redes-sociales\">\n  <ul>\n    <li>\n      <a href=\"https://www.instagram.com/tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-instagram\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://www.youtube.com/tu-canal\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-youtube\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://www.tiktok.com/@tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-tiktok\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://twitter.com/tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-twitter\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://www.facebook.com/tu-pagina\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-facebook-f\"></i>\n      </a>\n    </li>\n  </ul>\n</div>",
               "width": "16%",
               "width_tablet": "16%",
               "width_mobile": "100%"
