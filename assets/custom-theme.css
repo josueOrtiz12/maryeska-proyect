@@ -86,3 +86,6 @@ a.read-more {
 header.entry-header .post-mask {
     text-align: left;
 }
+article .entry-content {
+    text-align: left;
+}
