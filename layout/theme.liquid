@@ -103,12 +103,12 @@
     </div>
   </div>
   {%- endif -%}
-  {%- if settings.cart_position == 'side' -%}{%- include 'cart_widget_side'-%}{%- endif -%}
+  {%- if settings.cart_position == 'side' -%}{%- render 'cart_widget_side'-%}{%- endif -%}
   <div class="website-wrapper">
-    {%- include 'header'-%}
+    {%- render 'header'-%}
     {{ content_for_layout }}
     <!-- FOOTER -->
-    {%- include 'footer' -%}
+    {%- render 'footer' -%}
     <div class="basel-close-side"></div>
     {%- section 'gl_custom_color' -%}
   </div>
