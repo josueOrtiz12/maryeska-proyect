@@ -2129,6 +2129,50 @@
           "section_padding_bottom": "",
           "section_padding_left": ""
         }
+      },
+      "gl_section_brands_YVeqfM": {
+        "type": "gl_section_brands",
+        "blocks": {
+          "logo_image_aickX3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/6a05b2c2e084998c3e904e2434b6e6fa.png",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "logo_image_aickX3"
+        ],
+        "settings": {
+          "title": "OUR PARTNERS",
+          "padding_title": "78px-30px",
+          "row_stretch": "default",
+          "content_position": "default",
+          "use_photowipe": false,
+          "view": "carousel",
+          "space": "30",
+          "columns": "1",
+          "silder_speed": "5000",
+          "silder_per_view": "4",
+          "hide_pagination": true,
+          "hide_button": true,
+          "slider_loop": true,
+          "autoplay": true,
+          "hide_medium": false,
+          "hide_small": false,
+          "hide_extra_small": false,
+          "section_bg_color": "",
+          "section_border_color": "",
+          "section_border_style": "solid",
+          "section_border": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "",
+          "section_padding_left": ""
+        }
       }
     },
     "content_for_index": [
@@ -2142,7 +2186,8 @@
       "gl_section_promo_banner_gcDhHL",
       "gl_video_player_BpEK67",
       "gl_section_promo_banner_cVAMam",
-      "gl_section_title_XHmEHy"
+      "gl_section_title_XHmEHy",
+      "gl_section_brands_YVeqfM"
     ]
   },
   "presets": {
