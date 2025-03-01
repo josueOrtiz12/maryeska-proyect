@@ -2168,6 +2168,53 @@
           "section_padding_bottom": "",
           "section_padding_left": ""
         }
+      },
+      "gl_instagram_N8PY4C": {
+        "type": "gl_instagram",
+        "settings": {
+          "row_stretch": "default",
+          "full_height": false,
+          "columns_position": "middle",
+          "equal_height": false,
+          "content_position": "default",
+          "show_title": true,
+          "title": "INSTAGRAM<br> @MARYESKALOPEZ",
+          "style_title": "1",
+          "bg_title": "",
+          "get_by": "1",
+          "username": "southern_blooms",
+          "access_token": "",
+          "limit": "12",
+          "open_link": "_self",
+          "photo_design": "default",
+          "photo_per_row": "6",
+          "spaces_section": false,
+          "rounded_section": false,
+          "image_ratio": "ratio1_1",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "silder_speed": "5000",
+          "hide_pagination": false,
+          "hide_button": false,
+          "slider_loop": false,
+          "autoplay": false,
+          "style_ins_text": "1",
+          "show_ins_text": false,
+          "overlay_title": "INSTAGRAM",
+          "subtext": "Posuere eget ut sed consectetur litora lobortis cras",
+          "button_label": "",
+          "button_link": "",
+          "button_color": "white",
+          "button_style": "bordered",
+          "button_size": "default",
+          "section_bg_color": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "",
+          "section_padding_left": ""
+        }
       }
     },
     "content_for_index": [
@@ -2182,7 +2229,8 @@
       "gl_section_image_text_8_tynnDK",
       "gl_video_player_BpEK67",
       "gl_section_promo_banner_cVAMam",
-      "gl_section_blog_7CMVam"
+      "gl_section_blog_7CMVam",
+      "gl_instagram_N8PY4C"
     ]
   },
   "presets": {
