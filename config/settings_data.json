@@ -1770,34 +1770,6 @@
           "use_parallax": false
         }
       },
-      "gl_section_title_RtKNnP": {
-        "type": "gl_section_title",
-        "custom_css": [
-          "h4.title {font-size: 27px !important; letter-spacing: 5px;}"
-        ],
-        "settings": {
-          "row_stretch": "default",
-          "grid_width": "12",
-          "title": "MI TIENDA",
-          "sub_title": "",
-          "text_after_title": "",
-          "title_style": "default",
-          "title_color": "alt",
-          "title_size": "default",
-          "subtitle_font": "default",
-          "title_align": "center",
-          "section_bg_color": "",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "",
-          "section_margin_top": "",
-          "section_margin_bottom": "",
-          "section_padding_top": "",
-          "section_padding_right": "",
-          "section_padding_bottom": "",
-          "section_padding_left": ""
-        }
-      },
       "gl_section_product_carousel_WwCzPF": {
         "type": "gl_section_product_carousel",
         "custom_css": [
@@ -2132,6 +2104,9 @@
       },
       "gl_section_title_XHmEHy": {
         "type": "gl_section_title",
+        "custom_css": [
+          "span.title-subtitle.font-default {font-size: 20px ! IMPORTANT; color: #767676 !important;}"
+        ],
         "settings": {
           "row_stretch": "default",
           "grid_width": "12",
@@ -2193,8 +2168,7 @@
       "gl_section_promo_banner_gcDhHL",
       "gl_video_player_BpEK67",
       "gl_section_promo_banner_cVAMam",
-      "gl_section_title_XHmEHy",
-      "gl_section_title_RtKNnP"
+      "gl_section_title_XHmEHy"
     ]
   },
   "presets": {
