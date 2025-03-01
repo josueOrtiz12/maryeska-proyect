@@ -1891,11 +1891,7 @@
           "02f1bb07-1472-410a-996f-a7b9f43abdf1",
           "525d6f56-afc9-4705-bc24-9d368e007946"
         ],
-        "custom_css": [
-          "h2.visionTitle {font-size: 50px;}",
-          "p.text-content {font-size: 18px;}",
-          "@media only screen and (min-width: 1024px) {.gl_custom_6bad6e79-ee08-4b17-bef2-1dd179d114cc.gl_row.spb_row.gl_row-fluid .gallery-images {margin-top: -110%; }}"
-        ],
+        "custom_css": [],
         "settings": {
           "row_stretch": "default",
           "full_height": false,
