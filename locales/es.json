@@ -537,5 +537,14 @@
   },
   "date_formats": {
     "month_day_year": ""
+  },
+  "customer_accounts": {
+    "account_information": {
+      "people": {
+        "pagination": {
+          "load_more": "Cargar más"
+        }
+      }
+    }
   }
 }
