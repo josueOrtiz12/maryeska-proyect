@@ -2159,7 +2159,7 @@
           "enable_meta": "show",
           "enable_text": "show",
           "enable_button": "show",
-          "enable_post_categories": "show",
+          "enable_post_categories": "hide",
           "enable_post_date": "show",
           "section_bg_color": "",
           "section_border_color": "",
