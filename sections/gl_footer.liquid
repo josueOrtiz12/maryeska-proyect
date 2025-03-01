@@ -81,7 +81,7 @@
                            {%- assign gl_follow_social = true -%}
                         {%- endif -%}
                         {%- if block.settings.social_enabled -%}
-                        {%- include 'social-sharing', gl_design:settings.footer_social_design, gl_size:settings.footer_social_size, follow_social:gl_follow_social -%}
+                        {%- render 'social-sharing', gl_design:settings.footer_social_design, gl_size:settings.footer_social_size, follow_social:gl_follow_social -%}
                         <br>
                         {%- endif -%}
                         {%- if block.settings.logo_custom_html != blank -%}{{block.settings.logo_custom_html}}{%- endif -%}
@@ -95,9 +95,9 @@
                <div class="footer-column footer-column-{{forloop.index}} {{ block_width }} {{block_width_tablet}} {{block_width_mobile}}" {{ block.shopify_attributes }}>
                   <div id="text-{{block.id}}" class="footer-widget widget_text">
                      {%- if block.settings.title != blank -%}<h5 class="widget-title">{{block.settings.title}}</h5>{%- endif -%}
-                     {%- if block.settings.subtext != blank -%}<p class="widget-subtext">{{block.settings.subtext}}</>{%- endif -%}
+                     {%- if block.settings.subtext != blank -%}<p class="widget-subtext">{{block.settings.subtext}}</p>{%- endif -%}
                      <div class="textwidget">
-                        {%- include 'gl_form_newlester' -%}
+                        {%- render 'gl_form_newlester' -%}
                      </div>
                   </div>
                </div>
