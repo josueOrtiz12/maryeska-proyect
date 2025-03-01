@@ -2284,7 +2284,7 @@
           "section_border": "",
           "section_margin_top": "",
           "section_margin_bottom": "",
-          "section_padding_top": "50",
+          "section_padding_top": "",
           "section_padding_right": "",
           "section_padding_bottom": "",
           "section_padding_left": ""
@@ -2296,7 +2296,7 @@
           "video_kRr3wd": {
             "type": "video",
             "settings": {
-              "width": "100",
+              "width": "70",
               "ratio": "169",
               "alignment": "center"
             }
