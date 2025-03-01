@@ -2257,7 +2257,7 @@
               "block_border_style": "solid",
               "block_border": "0px",
               "block_margin_top": "",
-              "block_margin_bottom": "",
+              "block_margin_bottom": "0px",
               "block_padding": "",
               "position_text_block": "top",
               "enable_text_block": false,
