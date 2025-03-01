@@ -2305,8 +2305,9 @@
         "block_order": [
           "video_kRr3wd"
         ],
+        "custom_css": [],
         "settings": {
-          "row_stretch": "default",
+          "row_stretch": "stretch_row_content_no_spaces",
           "full_height": false,
           "columns_position": "top",
           "equal_height": false,
