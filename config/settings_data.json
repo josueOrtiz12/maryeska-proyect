@@ -2255,14 +2255,14 @@
               "enable_increase": false,
               "block_border_color": "",
               "block_border_style": "solid",
-              "block_border": "",
+              "block_border": "0px",
               "block_margin_top": "",
               "block_margin_bottom": "",
               "block_padding": "",
               "position_text_block": "top",
               "enable_text_block": false,
-              "heading": "Heading",
-              "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+              "heading": "",
+              "text_block": "",
               "banner_text_color": "light"
             }
           }
