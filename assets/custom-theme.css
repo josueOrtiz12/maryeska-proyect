@@ -83,3 +83,6 @@ a.read-more {
     font-size: 17px;
     text-decoration: underline;
 }
+header.entry-header .post-mask {
+    text-align: left;
+}
