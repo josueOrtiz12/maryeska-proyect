@@ -143,10 +143,10 @@
       "submit": ""
     },
     "newsletter_form": {
-      "email_placeholder": "",
-      "confirmation": "",
-      "submit": "",
-      "subscribing": ""
+      "email_placeholder": "Correo electronico",
+      "confirmation": "Gracias por suscribirse",
+      "submit": "Suscribirse",
+      "subscribing": "Suscribiendo"
     },
     "filters": {
       "show_more": "",
