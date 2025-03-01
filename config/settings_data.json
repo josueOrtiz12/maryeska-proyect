@@ -1273,7 +1273,7 @@
             "type": "logo",
             "settings": {
               "footer_logo_image": "shopify://shop_images/Screenshot_1.png",
-              "logo_max_width": "300",
+              "logo_max_width": "200",
               "social_enabled": true,
               "share_type": "1",
               "logo_custom_html": "",
