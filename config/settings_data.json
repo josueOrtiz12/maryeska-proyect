@@ -1735,7 +1735,7 @@
           "1547774880206-1"
         ],
         "custom_css": [
-          "h1 {letter-spacing: 5px;}"
+          "h1 {letter-spacing: 5px; color: red}"
         ],
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
@@ -2296,6 +2296,7 @@
           "video_kRr3wd": {
             "type": "video",
             "settings": {
+              "video_url": "",
               "width": "70",
               "ratio": "169",
               "alignment": "center"
