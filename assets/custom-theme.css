@@ -96,3 +96,6 @@ article .entry-content {
 ;
     justify-content: space-between;
 }
+ul.social-icons.text-center.social-share.icons-design-default.icons-size-default {
+    margin-top: 18px;
+}
