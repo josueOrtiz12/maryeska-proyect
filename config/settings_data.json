@@ -2156,7 +2156,7 @@
           "image_position": "8",
           "style": "masonry",
           "enable_title": "show",
-          "enable_meta": "show",
+          "enable_meta": "hide",
           "enable_text": "show",
           "enable_button": "show",
           "enable_post_categories": "hide",
