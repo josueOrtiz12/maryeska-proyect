@@ -94,8 +94,8 @@
             {%- when 'newsletter' -%}
                <div class="footer-column footer-column-{{forloop.index}} {{ block_width }} {{block_width_tablet}} {{block_width_mobile}}" {{ block.shopify_attributes }}>
                   <div id="text-{{block.id}}" class="footer-widget widget_text">
-                    {%- if block.settings.subtext != blank -%}<h5 class="widget-subtext">{{block.settings.subtext}}</h5>{%- endif -%}
                      {%- if block.settings.title != blank -%}<h5 class="widget-title">{{block.settings.title}}</h5>{%- endif -%}
+                     {%- if block.settings.subtext != blank -%}<p class="widget-subtext">{{block.settings.subtext}}</h5>{%- endif -%}
                      <div class="textwidget">
                         {%- include 'gl_form_newlester' -%}
                      </div>
