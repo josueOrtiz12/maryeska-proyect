@@ -1877,8 +1877,7 @@
           "02f1bb07-1472-410a-996f-a7b9f43abdf1": {
             "type": "image",
             "settings": {
-              "block_image_1": "shopify://shop_images/35957b6ae39f9c1a6736c506b0afdbb7.webp",
-              "block_image_2": "shopify://shop_images/01f91704a2b4e600300115e5701fb767.webp"
+              "block_image_1": "shopify://shop_images/35957b6ae39f9c1a6736c506b0afdbb7.webp"
             }
           },
           "525d6f56-afc9-4705-bc24-9d368e007946": {
