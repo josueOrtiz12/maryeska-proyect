@@ -2141,7 +2141,7 @@
           "title_color": "default",
           "title_size": "default",
           "subtitle_font": "default",
-          "title_align": "center",
+          "title_align": "left",
           "blog": "noticias",
           "paginate_index": "8",
           "silder_speed": "5000",
