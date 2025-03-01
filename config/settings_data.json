@@ -1930,28 +1930,6 @@
           "use_parallax": false
         }
       },
-      "f8c5a9e7-d38b-4938-a06f-d502232f21b4": {
-        "type": "custom-content",
-        "custom_css": [
-          "h1#madeLove {text-align: center; font-size: 54px;}"
-        ],
-        "settings": {
-          "row_stretch": "stretch_row_content_no_spaces",
-          "code": "<h1 id=\"madeLove\">Made with love</h1>",
-          "section_bg_image": "shopify://shop_images/Group_17.png",
-          "section_bg_color": "",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "",
-          "section_margin_top": "",
-          "section_margin_bottom": "",
-          "section_padding_top": "",
-          "section_padding_right": "",
-          "section_padding_bottom": "",
-          "section_padding_left": "",
-          "hidden_section": false
-        }
-      },
       "c22cb3f1-5344-4995-b423-8518569227ec": {
         "type": "gl_section_categories_furniture",
         "blocks": {
@@ -2252,48 +2230,54 @@
           "use_parallax": false
         }
       },
-      "gl_section_image_with_text_bm6Htx": {
-        "type": "gl_section_image_with_text",
+      "gl_section_promo_banner_gcDhHL": {
+        "type": "gl_section_promo_banner",
         "blocks": {
-          "image_bERtMG": {
-            "type": "image",
-            "settings": {}
-          },
-          "text_NfPgwJ": {
-            "type": "text",
+          "banner_RhA3HE": {
+            "type": "banner",
             "settings": {
-              "text_block": ""
+              "banner_width": "12",
+              "hide_medium": false,
+              "hide_small": false,
+              "hide_extra_small": false,
+              "image": "shopify://shop_images/Group_17.png",
+              "banner_content": "",
+              "banner_btn_title": "",
+              "banner_link": "",
+              "button_size": "small",
+              "button_color": "white",
+              "button_style_color": "default",
+              "banner_alignment": "center",
+              "banner_vertical_alignment": "top",
+              "banner_effect": "default",
+              "banner_content_style": "default",
+              "banner_color": "light",
+              "enable_increase": false,
+              "block_border_color": "",
+              "block_border_style": "solid",
+              "block_border": "",
+              "block_margin_top": "",
+              "block_margin_bottom": "",
+              "block_padding": "",
+              "position_text_block": "top",
+              "enable_text_block": false,
+              "heading": "Heading",
+              "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+              "banner_text_color": "light"
             }
           }
         },
         "block_order": [
-          "image_bERtMG",
-          "text_NfPgwJ"
+          "banner_RhA3HE"
         ],
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
-          "full_height": true,
-          "columns_position": "middle",
-          "equal_height": false,
-          "content_position": "default",
-          "use_countdown": false,
-          "date": "",
-          "countdown_color_scheme": "dark",
-          "size": "small",
-          "align": "left",
-          "style": "standard",
+          "columns_gap": "inherit",
           "button_label": "",
           "button_link": "",
           "button_color": "white",
-          "button_style": "default",
+          "button_style": "bordered",
           "button_size": "default",
-          "hide_pagination": false,
-          "hide_button": false,
-          "slider_loop": false,
-          "autoplay": false,
-          "align_img": "1",
-          "color_scheme": "dark",
-          "section_bg_image": "shopify://shop_images/Group_17.png",
           "section_bg_color": "",
           "section_border_color": "",
           "section_border_style": "solid",
@@ -2303,8 +2287,7 @@
           "section_padding_top": "",
           "section_padding_right": "",
           "section_padding_bottom": "",
-          "section_padding_left": "",
-          "use_parallax": false
+          "section_padding_left": ""
         }
       }
     },
@@ -2317,13 +2300,12 @@
       "gl_section_promo_banner_f9xMjq",
       "546d3eb2-c9ae-4f88-a440-bf7a3c6aaade",
       "6bad6e79-ee08-4b17-bef2-1dd179d114cc",
-      "f8c5a9e7-d38b-4938-a06f-d502232f21b4",
+      "gl_section_promo_banner_gcDhHL",
       "1502247507816",
       "6e48995a-a085-4275-b3f8-414750032fc6",
       "1502247819093",
       "c22cb3f1-5344-4995-b423-8518569227ec",
-      "1502247626198",
-      "gl_section_image_with_text_bm6Htx"
+      "1502247626198"
     ]
   },
   "presets": {
