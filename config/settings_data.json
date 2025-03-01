@@ -1876,12 +1876,15 @@
         "blocks": {
           "02f1bb07-1472-410a-996f-a7b9f43abdf1": {
             "type": "image",
-            "settings": {}
+            "settings": {
+              "block_image_1": "shopify://shop_images/35957b6ae39f9c1a6736c506b0afdbb7.webp",
+              "block_image_2": "shopify://shop_images/01f91704a2b4e600300115e5701fb767.webp"
+            }
           },
           "525d6f56-afc9-4705-bc24-9d368e007946": {
             "type": "text",
             "settings": {
-              "text_block": "<h2 class=\"visionTitle\">MISIÓN</h2>\n\n<p class=\"text-content\">\nNuestra visión es convertirnos en la referencia en el mercado de panes artesanales saludables y gourmet. Nos esforzamos por innovar constantemente, explorando nuevas recetas y sabores que satisfacen los paladares más exigentes.  Queremos ser reconocidos como la opción preferida de aquellos que valoran tanto el sabor como la calidad nutricional en su alimentación diaria.\n</p>"
+              "text_block": "<p class=\"about-me\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n</p>\n<a class=\"read-more\">Leer más</a>"
             }
           }
         },
