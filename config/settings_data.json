@@ -2145,7 +2145,7 @@
           "blog": "noticias",
           "paginate_index": "8",
           "silder_speed": "5000",
-          "silder_per_view": "3",
+          "silder_per_view": "4",
           "hide_pagination": true,
           "hide_button": true,
           "slider_loop": true,
