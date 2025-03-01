@@ -21,7 +21,7 @@ a.basel-logo.basel-main-logo {
 
 
 /* banner pricipal */
-div#blockId_1547774947330.wrapper-content-baner::before {
+div#blockId_1547774947330 .wrapper-content-baner::before {
     content: "";
     position: absolute;
     top: 0;
