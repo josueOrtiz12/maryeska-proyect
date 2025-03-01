@@ -126,7 +126,7 @@
     "footer_social_design": "icons-design-default",
     "footer_social_size": "icons-size-default",
     "footer_color_scheme": "light",
-    "footer_bg": "#000000",
+    "footer_bg": "#23254e",
     "footer_bg_repeat": "default",
     "footer_bg_size": "default",
     "footer_bg_attachment": "default",
@@ -2212,7 +2212,7 @@
           "section_margin_bottom": "",
           "section_padding_top": "",
           "section_padding_right": "",
-          "section_padding_bottom": "",
+          "section_padding_bottom": "50PX",
           "section_padding_left": ""
         }
       }
