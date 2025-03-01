@@ -89,3 +89,10 @@ header.entry-header .post-mask {
 article .entry-content {
     text-align: left;
 }
+
+/*footer    */
+.footer-sidebar.widget-area.row {
+    display: flex
+;
+    justify-content: space-between;
+}
