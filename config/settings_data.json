@@ -2152,7 +2152,7 @@
           "autoplay": true,
           "use_eq_height": false,
           "image_ratio": "ratio16_9",
-          "image_size": "nt_contain",
+          "image_size": "nt_cover",
           "image_position": "8",
           "style": "masonry",
           "enable_title": "show",
