@@ -1925,7 +1925,7 @@
           "section_margin_bottom": "",
           "section_padding_top": "",
           "section_padding_right": "",
-          "section_padding_bottom": "25px",
+          "section_padding_bottom": "50px",
           "section_padding_left": "",
           "use_parallax": false
         }
@@ -2284,7 +2284,7 @@
           "section_border": "",
           "section_margin_top": "",
           "section_margin_bottom": "",
-          "section_padding_top": "",
+          "section_padding_top": "50",
           "section_padding_right": "",
           "section_padding_bottom": "",
           "section_padding_left": ""
