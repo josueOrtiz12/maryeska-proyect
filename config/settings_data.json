@@ -2153,7 +2153,7 @@
           "use_eq_height": true,
           "image_ratio": "ratio4_3",
           "image_size": "nt_contain",
-          "image_position": "default",
+          "image_position": "8",
           "style": "masonry",
           "enable_title": "show",
           "enable_meta": "show",
