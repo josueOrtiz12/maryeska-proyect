@@ -1936,8 +1936,9 @@
           "h1#madeLove {text-align: center; font-size: 54px;}"
         ],
         "settings": {
-          "row_stretch": "default",
+          "row_stretch": "stretch_row_content_no_spaces",
           "code": "<h1 id=\"madeLove\">Made with love</h1>",
+          "section_bg_image": "shopify://shop_images/Group_17.png",
           "section_bg_color": "",
           "section_border_color": "",
           "section_border_style": "solid",
@@ -2250,6 +2251,61 @@
           "section_padding_left": "",
           "use_parallax": false
         }
+      },
+      "gl_section_image_with_text_bm6Htx": {
+        "type": "gl_section_image_with_text",
+        "blocks": {
+          "image_bERtMG": {
+            "type": "image",
+            "settings": {}
+          },
+          "text_NfPgwJ": {
+            "type": "text",
+            "settings": {
+              "text_block": ""
+            }
+          }
+        },
+        "block_order": [
+          "image_bERtMG",
+          "text_NfPgwJ"
+        ],
+        "settings": {
+          "row_stretch": "stretch_row_content_no_spaces",
+          "full_height": true,
+          "columns_position": "middle",
+          "equal_height": false,
+          "content_position": "default",
+          "use_countdown": false,
+          "date": "",
+          "countdown_color_scheme": "dark",
+          "size": "small",
+          "align": "left",
+          "style": "standard",
+          "button_label": "",
+          "button_link": "",
+          "button_color": "white",
+          "button_style": "default",
+          "button_size": "default",
+          "hide_pagination": false,
+          "hide_button": false,
+          "slider_loop": false,
+          "autoplay": false,
+          "align_img": "1",
+          "color_scheme": "dark",
+          "section_bg_image": "shopify://shop_images/Group_17.png",
+          "section_bg_color": "",
+          "section_border_color": "",
+          "section_border_style": "solid",
+          "section_border": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "",
+          "section_padding_left": "",
+          "use_parallax": false
+        }
       }
     },
     "content_for_index": [
@@ -2266,7 +2322,8 @@
       "6e48995a-a085-4275-b3f8-414750032fc6",
       "1502247819093",
       "c22cb3f1-5344-4995-b423-8518569227ec",
-      "1502247626198"
+      "1502247626198",
+      "gl_section_image_with_text_bm6Htx"
     ]
   },
   "presets": {
