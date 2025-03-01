@@ -1302,14 +1302,13 @@
               "width_mobile": "100%"
             }
           },
-          "1501752636586": {
-            "type": "html",
+          "newsletter_FnYgLK": {
+            "type": "newsletter",
             "settings": {
-              "title": "USEFUL LINKS",
-              "html": "<ul class=\"menu\">\n<li><a href=\"#\">Privacy Policy</a></li>\n<li><a href=\"#\">Returns</a></li>\n<li><a href=\"#\">Terms &amp; Conditions</a></li>\n<li><a href=\"#\">Contact Us</a></li>\n<li><a href=\"#\">Latest News</a></li>\n<li><a href=\"#\">Our Sitemap</a></li>\n</ul>",
-              "enabled_payment_types": true,
+              "title": "Newsletter",
+              "use_mailchimp": true,
               "width": "16%",
-              "width_tablet": "16%",
+              "width_tablet": "50%",
               "width_mobile": "100%"
             }
           }
@@ -1318,7 +1317,7 @@
           "1501140417063",
           "1501138697288",
           "menu_qbQr6r",
-          "1501752636586"
+          "newsletter_FnYgLK"
         ],
         "settings": {}
       },
