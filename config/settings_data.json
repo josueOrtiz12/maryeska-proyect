@@ -2127,58 +2127,15 @@
           "section_padding_left": ""
         }
       },
-      "gl_section_blog_carousel_QT6wmA": {
-        "type": "gl_section_blog_carousel",
+      "gl_section_blog_7CMVam": {
+        "type": "gl_section_blog",
         "custom_css": [
           "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
         ],
         "settings": {
           "row_stretch": "default",
-          "title": "MI BLOG",
-          "sub_title": "NEWS",
-          "text_after_title": "",
-          "title_style": "default",
-          "title_color": "default",
-          "title_size": "default",
-          "subtitle_font": "default",
-          "title_align": "center",
-          "blog": "noticias",
-          "paginate_index": "8",
-          "silder_speed": "5000",
-          "silder_per_view": "4",
-          "hide_pagination": true,
-          "hide_button": true,
-          "slider_loop": true,
-          "autoplay": true,
-          "use_eq_height": true,
-          "image_ratio": "ratio1_1",
-          "image_size": "nt_contain",
-          "image_position": "8",
-          "style": "masonry",
-          "enable_title": "show",
-          "enable_meta": "hide",
-          "enable_text": "show",
-          "enable_button": "show",
-          "enable_post_categories": "hide",
-          "enable_post_date": "show",
-          "section_bg_color": "",
-          "section_border_color": "",
-          "section_border_style": "solid",
-          "section_border": "",
-          "section_margin_top": "",
-          "section_margin_bottom": "",
-          "section_padding_top": "",
-          "section_padding_right": "",
-          "section_padding_bottom": "",
-          "section_padding_left": ""
-        }
-      },
-      "gl_section_blog_7CMVam": {
-        "type": "gl_section_blog",
-        "settings": {
-          "row_stretch": "default",
-          "title": "FEATURED CATEGORIES",
-          "sub_title": "MADE THE HARD WAY",
+          "title": "NEWS",
+          "sub_title": "MI BLOG",
           "text_after_title": "",
           "title_style": "default",
           "title_color": "default",
@@ -2195,7 +2152,7 @@
           "style": "masonry",
           "columns": "3",
           "enable_title": "show",
-          "enable_meta": "show",
+          "enable_meta": "hide",
           "enable_text": "show",
           "enable_button": "show",
           "enable_post_categories": "show",
@@ -2225,7 +2182,6 @@
       "gl_section_image_text_8_tynnDK",
       "gl_video_player_BpEK67",
       "gl_section_promo_banner_cVAMam",
-      "gl_section_blog_carousel_QT6wmA",
       "gl_section_blog_7CMVam"
     ]
   },
