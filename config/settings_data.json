@@ -2289,6 +2289,39 @@
           "section_padding_bottom": "",
           "section_padding_left": ""
         }
+      },
+      "gl_video_player_BpEK67": {
+        "type": "gl_video_player",
+        "blocks": {
+          "video_kRr3wd": {
+            "type": "video",
+            "settings": {
+              "width": "100",
+              "ratio": "169",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "video_kRr3wd"
+        ],
+        "settings": {
+          "row_stretch": "default",
+          "full_height": true,
+          "columns_position": "middle",
+          "equal_height": false,
+          "content_position": "default",
+          "section_bg_color": "",
+          "section_border_color": "",
+          "section_border_style": "solid",
+          "section_border": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "",
+          "section_padding_left": ""
+        }
       }
     },
     "content_for_index": [
@@ -2301,6 +2334,7 @@
       "546d3eb2-c9ae-4f88-a440-bf7a3c6aaade",
       "6bad6e79-ee08-4b17-bef2-1dd179d114cc",
       "gl_section_promo_banner_gcDhHL",
+      "gl_video_player_BpEK67",
       "1502247507816",
       "6e48995a-a085-4275-b3f8-414750032fc6",
       "1502247819093",
