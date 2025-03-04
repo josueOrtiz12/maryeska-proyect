@@ -299,8 +299,8 @@
             "button_link_2": "",
             "use_countdown": false,
             "date": "",
-            "countdown_color_scheme": "dark",
-            "size": "large",
+            "countdown_color_scheme": "light",
+            "size": "small",
             "align": "left",
             "style": "standard"
           }
