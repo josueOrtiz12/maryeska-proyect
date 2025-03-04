@@ -19,7 +19,7 @@
         "banner_tRjbyr": {
           "type": "banner",
           "settings": {
-            "banner_width": "4",
+            "banner_width": "12",
             "hide_medium": false,
             "hide_small": false,
             "hide_extra_small": false,
@@ -51,7 +51,7 @@
         "banner_WymnLP": {
           "type": "banner",
           "settings": {
-            "banner_width": "4",
+            "banner_width": "12",
             "hide_medium": false,
             "hide_small": false,
             "hide_extra_small": false,
@@ -83,7 +83,7 @@
         "banner_iaLzWY": {
           "type": "banner",
           "settings": {
-            "banner_width": "4",
+            "banner_width": "12",
             "hide_medium": false,
             "hide_small": false,
             "hide_extra_small": false,
@@ -119,7 +119,7 @@
         "banner_iaLzWY"
       ],
       "settings": {
-        "row_stretch": "default",
+        "row_stretch": "stretch_row_content_no_spaces",
         "columns_gap": "inherit",
         "button_label": "",
         "button_link": "",
