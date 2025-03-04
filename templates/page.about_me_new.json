@@ -101,7 +101,7 @@
         "equal_height": false,
         "content_position": "default",
         "use_countdown": false,
-        "date": "2018/12/12",
+        "date": "",
         "countdown_color_scheme": "dark",
         "size": "small",
         "align": "left",
@@ -124,9 +124,9 @@
         "section_margin_top": "40px",
         "section_margin_bottom": "",
         "section_padding_top": "",
-        "section_padding_right": "",
+        "section_padding_right": "15px",
         "section_padding_bottom": "",
-        "section_padding_left": "",
+        "section_padding_left": "15px",
         "use_parallax": false
       }
     }
