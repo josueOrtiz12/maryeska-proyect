@@ -1,0 +1,52 @@
+<div class="about-me-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          {% if section.settings.title != blank %}
+            <h1>{{ section.settings.title }}</h1>
+          {% endif %}
+  
+          {% if section.settings.image != blank %}
+            <img src="{{ section.settings.image | img_url: '800x' }}" alt="{{ section.settings.image.alt }}">
+          {% endif %}
+  
+          {% if section.settings.content != blank %}
+            <div class="content">
+              {{ section.settings.content }}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  {% schema %}
+  {
+    "name": "About Me Section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title",
+        "default": "About Me"
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      },
+      {
+        "type": "richtext",
+        "id": "content",
+        "label": "Content",
+        "default": "<p>Write something about yourself here.</p>"
+      }
+    ],
+    "presets": [
+      {
+        "name": "About Me Section",
+        "category": "Custom"
+      }
+    ]
+  }
+  {% endschema %}
