@@ -135,6 +135,11 @@ ul.social-icons.text-center.social-share.icons-design-default.icons-size-default
   redes-sociales a[href*="facebook.com"] { color: #1877F2; } /* Color de Facebook */
 
 
+ /**aboutme page */
+.about-me-container {
+    padding: 12px 47px 12px 20px;
+}
+
 
 
 
