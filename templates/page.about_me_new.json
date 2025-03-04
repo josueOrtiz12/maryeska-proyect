@@ -318,6 +318,9 @@
         "text_DRnzwm",
         "image_qGVP4h"
       ],
+      "custom_css": [
+        "h2.gl_custom_heading.hidden-sm.hidden-xs {font-size: 28px !important; letter-spacing: 5px;}"
+      ],
       "settings": {
         "row_stretch": "default",
         "full_height": false,
