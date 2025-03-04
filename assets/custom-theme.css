@@ -21,6 +21,9 @@ a.basel-logo.basel-main-logo {
 .header-spacing{
     margin-bottom: 0px !important;
 }
+.banner-inner h1 {
+    letter-spacing: 5px;
+}
 
 
 /* banner pricipal */
