@@ -290,18 +290,18 @@
         "text_DRnzwm": {
           "type": "text",
           "settings": {
-            "text_title": "AN EDIT OF OUR LATEST FAVOURITES",
-            "text_heading": "Training<br>Sneakers",
-            "content": "",
+            "text_title": "ABOUT ME",
+            "text_heading": "LOREM IPSUM",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             "button_label": "",
             "button_link": "",
             "button_label_2": "",
             "button_link_2": "",
             "use_countdown": false,
-            "date": "2018/12/12",
+            "date": "",
             "countdown_color_scheme": "dark",
             "size": "large",
-            "align": "center",
+            "align": "left",
             "style": "standard"
           }
         },
