@@ -11,7 +11,7 @@
     "platform_email": "1",
     "klaviyo_list_id": "MZQx3t",
     "use_ajax_klaviyo": true,
-    "mcsp_form_action": "\/\/myshopify.us14.list-manage.com\/subscribe\/post?u=56b202e477d0fc9995c18aac3&amp;id=a358ae9daf",
+    "mcsp_form_action": "//myshopify.us14.list-manage.com/subscribe/post?u=56b202e477d0fc9995c18aac3&amp;id=a358ae9daf",
     "use_ajax_mailChimp": true,
     "show_col_mobile": false,
     "use_wishlist": true,
@@ -30,7 +30,7 @@
     "use_new_label": true,
     "new_day": "2",
     "use_hot_label": true,
-    "favicon": "shopify:\/\/shop_images\/Logo_Header_Negro.png",
+    "favicon": "shopify://shop_images/Logo_Header_Negro.png",
     "favicon_apple": "",
     "c_1": "",
     "c_2": "",
@@ -54,16 +54,16 @@
     "page_title_size": "small",
     "page_title_color": "light",
     "body_logo_svg": "",
-    "body_logo_image": "shopify:\/\/shop_images\/LogoFood.png",
-    "body_logo_image_retina": "shopify:\/\/shop_images\/LogoFood.png",
+    "body_logo_image": "shopify://shop_images/LogoFood.png",
+    "body_logo_image_retina": "shopify://shop_images/LogoFood.png",
     "logo_width": 10,
     "logo_max_width": "196px",
     "body_logo_svg_tra": "",
-    "body_logo_image_tra": "shopify:\/\/shop_images\/LogoFood.png",
-    "body_logo_image_retina_tra": "shopify:\/\/shop_images\/LogoFood.png",
+    "body_logo_image_tra": "shopify://shop_images/LogoFood.png",
+    "body_logo_image_retina_tra": "shopify://shop_images/LogoFood.png",
     "logo_max_width_tr": "200",
-    "body_logo_image_sticky": "shopify:\/\/shop_images\/LogoFood.png",
-    "body_logo_image_retina_sticky": "shopify:\/\/shop_images\/LogoFood.png",
+    "body_logo_image_sticky": "shopify://shop_images/LogoFood.png",
+    "body_logo_image_retina_sticky": "shopify://shop_images/LogoFood.png",
     "logo_max_width_sticky": "196",
     "top_bar_enable": false,
     "top_bar_color": "light",
@@ -73,7 +73,7 @@
     "top_bar_bg_attachment": "default",
     "top_bar_bg_position": "default",
     "top_bar_bg_image": "",
-    "top_bar_text": "<i class=\"fa fa-phone-square\" style=\"color:white;\"> <\/i> OUR PHONE NUMBER: <span style=\"margin-left:10px; border-bottom: 1px solid rgba(255,255,255,0.3);\">+77 (756) 334 876<\/span>",
+    "top_bar_text": "<i class=\"fa fa-phone-square\" style=\"color:white;\"> </i> OUR PHONE NUMBER: <span style=\"margin-left:10px; border-bottom: 1px solid rgba(255,255,255,0.3);\">+77 (756) 334 876</span>",
     "full_header_enable": true,
     "sticky_header_enable": true,
     "mobile_nav_center": true,
@@ -124,7 +124,7 @@
     "footer_bg_position": "default",
     "footer_bg_image": "",
     "copyrights_layout": "centered",
-    "copyrights_text": "<i class=\"fa fa-copyright\"><\/i>  2019 Created by <a href=\"https:\/\/themeforest.net\/user\/the4\" style=\" color:white\">The4 Studio<\/a>. Premium e-commerce solutions.",
+    "copyrights_text": "<i class=\"fa fa-copyright\"></i>  2019 Created by <a href=\"https://themeforest.net/user/the4\" style=\" color:white\">The4 Studio</a>. Premium e-commerce solutions.",
     "copyrights_next_text": "",
     "html_before_footer": "",
     "font_body_text": "Josefin Sans",
@@ -360,7 +360,7 @@
     "display_newsletter_cart": false,
     "display_newsletter_page": false,
     "newsletter_bg": "",
-    "popup_newsletter_description": "<h1 style=\"margin-bottom: 0px; text-align: center;\"><strong>HEY YOU, SIGN UP AND<\/strong><\/h1>\n                        <h1 style=\"text-align: center;\"><strong>CONNECT TO<span style=\"color: #0f8a7e;\"> BASEL &amp; CO.<\/span><\/strong><\/h1>\n                        <p style=\"text-align: center; font-size: 16px;\">Be the first to learn about our latest trends<br>\n                           and get exclusive offers.\n                        <\/p>",
+    "popup_newsletter_description": "<h1 style=\"margin-bottom: 0px; text-align: center;\"><strong>HEY YOU, SIGN UP AND</strong></h1>\n                        <h1 style=\"text-align: center;\"><strong>CONNECT TO<span style=\"color: #0f8a7e;\"> BASEL &amp; CO.</span></strong></h1>\n                        <p style=\"text-align: center; font-size: 16px;\">Be the first to learn about our latest trends<br>\n                           and get exclusive offers.\n                        </p>",
     "show_popup_after": "time",
     "time_popup_delay": "5000",
     "scroll_popup_delay": "800",
@@ -368,7 +368,7 @@
     "popup_version": 1,
     "enable_cookies_popup": true,
     "text_cookies_popup": "We use cookies to improve your experience on our website. By browsing this website, you agree to our use of cookies.",
-    "link_btn_infor": "shopify:\/\/pages\/privacy-faq",
+    "link_btn_infor": "shopify://pages/privacy-faq",
     "cookies_version": 1,
     "display_popup_cookies_index": true,
     "display_popup_cookies_product": false,
@@ -378,7 +378,7 @@
     "display_popup_cookies_cart": false,
     "display_popup_cookies_page": false,
     "enable_header_banner": false,
-    "link_banner": "shopify:\/\/products\/backpack-double-strap-1",
+    "link_banner": "shopify://products/backpack-double-strap-1",
     "banner_content": "Spring discount on fashion clothing from popular brands up to 30%",
     "height_desktop": 35,
     "height_mobile": 50,
@@ -454,10 +454,10 @@
     "about_me_padding": "",
     "image_our_shop": "",
     "title_our_shop": "shop localization [in - Paris]",
-    "info_shop_1": "6 Rue des Rochebrune \/ 75011 Paris TEL.<br> +3 60 340 34 43 \/ FAX. 3 60 340 34 43",
-    "info_shop_2": "6 Rue des Rochebrune \/ 75011 Paris TEL.<br> +3 60 340 34 43 \/ FAX. 3 60 340 34 43",
-    "info_shop_3": "6 Rue des Rochebrune \/ 75011 Paris TEL.<br> +3 60 340 34 43 \/ FAX. 3 60 340 34 43",
-    "info_shop_4": "6 Rue des Rochebrune \/ 75011 Paris TEL.<br> +3 60 340 34 43 \/ FAX. 3 60 340 34 43",
+    "info_shop_1": "6 Rue des Rochebrune / 75011 Paris TEL.<br> +3 60 340 34 43 / FAX. 3 60 340 34 43",
+    "info_shop_2": "6 Rue des Rochebrune / 75011 Paris TEL.<br> +3 60 340 34 43 / FAX. 3 60 340 34 43",
+    "info_shop_3": "6 Rue des Rochebrune / 75011 Paris TEL.<br> +3 60 340 34 43 / FAX. 3 60 340 34 43",
+    "info_shop_4": "6 Rue des Rochebrune / 75011 Paris TEL.<br> +3 60 340 34 43 / FAX. 3 60 340 34 43",
     "info_shop_btn_title": "Contact Us",
     "info_shop_btn_url": "",
     "show_share_btn_our_shop": true,
@@ -470,7 +470,7 @@
     "icon_contact_us": "map-marker",
     "text_map_html_contact_us": "20 Margaret St, London<br>Great Britain, 3NM98-LK",
     "contact_us_btn_title": "Contact Us",
-    "contact_us_btn_url": "shopify:\/\/pages\/contact-us",
+    "contact_us_btn_url": "shopify://pages/contact-us",
     "lat_contact_us": "39.950557",
     "lon_contact_us": "-75.140658",
     "height_contact_us": "600",
@@ -479,7 +479,7 @@
     "heading_form_contact_us": "GET IN TOUCH WITH US",
     "show_info_contact_us": true,
     "heading_info_contact_us": "INFORMATION ABOUT US",
-    "text_info_contact_us": "<p>Consectetur aliquet a erat per sem nisi leo placerat dui a adipiscing a sagittis vestibulum. Sagittis posuere id nam quis vestibulum faucibus a est tristique ridiculus sed.<\/p><p>Sagittis posuere id nam quis vestibulum vestibulum a facilisi at elit hendrerit scelerisque sodales nam dis orci non aliquet enim.<\/p>",
+    "text_info_contact_us": "<p>Consectetur aliquet a erat per sem nisi leo placerat dui a adipiscing a sagittis vestibulum. Sagittis posuere id nam quis vestibulum faucibus a est tristique ridiculus sed.</p><p>Sagittis posuere id nam quis vestibulum vestibulum a facilisi at elit hendrerit scelerisque sodales nam dis orci non aliquet enim.</p>",
     "heading_cont_contact_us": "CONTACT US",
     "html_one_contact_us": "[envelope]Tel: 877-45-44-33<br>E-Mail: shop@store.uk",
     "html_two_contact_us": "[clock]Support forum<br>for over 24h",
@@ -496,13 +496,13 @@
     "bg_image_contact_us_2": "",
     "bg_color_contact_us_2": "#021019",
     "heading_info_contact_us_2": "CONTACT US",
-    "svg_one_contact_us_2": "<svg version=\"1.1\" id=\"svg-5300\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" x=\"0px\" y=\"0px\" width=\"64px\" height=\"64px\" viewbox=\"0 0 64 64\" enable-background=\"new 0 0 64 64\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\">\n\t\t\t\t\t\t\t                                    <g>\n\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" width=\"62\" height=\"37\" d=\"M1 13 L63 13 L63 50 L1 50 Z\" style=\"stroke-dasharray: 198, 200; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M1,13L32,33L63,13\" style=\"stroke-dasharray: 74, 76; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t                                    <\/g>\n\t\t\t\t\t\t\t                                 <\/svg>",
+    "svg_one_contact_us_2": "<svg version=\"1.1\" id=\"svg-5300\" xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" width=\"64px\" height=\"64px\" viewbox=\"0 0 64 64\" enable-background=\"new 0 0 64 64\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xml:space=\"preserve\">\n\t\t\t\t\t\t\t                                    <g>\n\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" width=\"62\" height=\"37\" d=\"M1 13 L63 13 L63 50 L1 50 Z\" style=\"stroke-dasharray: 198, 200; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M1,13L32,33L63,13\" style=\"stroke-dasharray: 74, 76; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t                                    </g>\n\t\t\t\t\t\t\t                                 </svg>",
     "html_one_contact_us_2": "[envelope]Tel: 877-45-44-33<br>E-Mail: shop@store.uk",
-    "svg_two_contact_us_2": "<svg version=\"1.1\" id=\"svg-8277\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" x=\"0px\" y=\"0px\" width=\"64px\" height=\"64px\" viewbox=\"0 0 64 64\" enable-background=\"new 0 0 64 64\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\">\n\t\t\t\t\t\t\t\t                                    <g>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M53.92,10.081\n\t\t\t\t\t\t\t\t                                          c12.107,12.105,12.107,31.732,0,43.838c-12.106,12.108-31.734,12.108-43.84,0c-12.107-12.105-12.107-31.732,0-43.838\n\t\t\t\t\t\t\t\t                                          C22.186-2.027,41.813-2.027,53.92,10.081z\" style=\"stroke-dasharray: 195, 197; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M32,12L32,32L41,41\" style=\"stroke-dasharray: 33, 35; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M4,32L8,32\" style=\"stroke-dasharray: 4, 6; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M56,32L60,32\" style=\"stroke-dasharray: 4, 6; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M32,60L32,56\" style=\"stroke-dasharray: 4, 6; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M32,8L32,4\" style=\"stroke-dasharray: 4, 6; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t\t                                    <\/g>\n\t\t\t\t\t\t\t\t                                 <\/svg>",
+    "svg_two_contact_us_2": "<svg version=\"1.1\" id=\"svg-8277\" xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" width=\"64px\" height=\"64px\" viewbox=\"0 0 64 64\" enable-background=\"new 0 0 64 64\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xml:space=\"preserve\">\n\t\t\t\t\t\t\t\t                                    <g>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M53.92,10.081\n\t\t\t\t\t\t\t\t                                          c12.107,12.105,12.107,31.732,0,43.838c-12.106,12.108-31.734,12.108-43.84,0c-12.107-12.105-12.107-31.732,0-43.838\n\t\t\t\t\t\t\t\t                                          C22.186-2.027,41.813-2.027,53.92,10.081z\" style=\"stroke-dasharray: 195, 197; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M32,12L32,32L41,41\" style=\"stroke-dasharray: 33, 35; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M4,32L8,32\" style=\"stroke-dasharray: 4, 6; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M56,32L60,32\" style=\"stroke-dasharray: 4, 6; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M32,60L32,56\" style=\"stroke-dasharray: 4, 6; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M32,8L32,4\" style=\"stroke-dasharray: 4, 6; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t\t                                    </g>\n\t\t\t\t\t\t\t\t                                 </svg>",
     "html_two_contact_us_2": "[clock]Support forum<br>for over 24h",
-    "svg_three_contact_us_2": "<svg version=\"1.1\" id=\"svg-2872\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" x=\"0px\" y=\"0px\" width=\"64px\" height=\"64px\" viewbox=\"0 0 64 64\" enable-background=\"new 0 0 64 64\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\">\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-linejoin=\"bevel\" stroke-miterlimit=\"10\" d=\"M1,30L63,1L23,41Z\" style=\"stroke-dasharray: 150, 152; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-linejoin=\"bevel\" stroke-miterlimit=\"10\" d=\"M34,63L63,1L23,41Z\" style=\"stroke-dasharray: 150, 152; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t                                 <\/svg>",
+    "svg_three_contact_us_2": "<svg version=\"1.1\" id=\"svg-2872\" xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" width=\"64px\" height=\"64px\" viewbox=\"0 0 64 64\" enable-background=\"new 0 0 64 64\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xml:space=\"preserve\">\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-linejoin=\"bevel\" stroke-miterlimit=\"10\" d=\"M1,30L63,1L23,41Z\" style=\"stroke-dasharray: 150, 152; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-linejoin=\"bevel\" stroke-miterlimit=\"10\" d=\"M34,63L63,1L23,41Z\" style=\"stroke-dasharray: 150, 152; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t                                 </svg>",
     "html_three_contact_us_2": "[cursor]20 Margaret St, London<br>Great Britain, 3NM98-LK",
-    "svg_four_contact_us_2": "<svg version=\"1.0\" id=\"svg-9269\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" x=\"0px\" y=\"0px\" width=\"64px\" height=\"64px\" viewbox=\"0 0 64 64\" enable-background=\"new 0 0 64 64\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\">\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M14,57A6,6 0,1,1 26,57A6,6 0,1,1 14,57\" style=\"stroke-dasharray: 38, 40; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M38,57A6,6 0,1,1 50,57A6,6 0,1,1 38,57\" style=\"stroke-dasharray: 38, 40; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M26,57L38,57\" style=\"stroke-dasharray: 12, 14; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M14,57L10,2L0,2\" style=\"stroke-dasharray: 66, 68; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M13,43L56,40L63,10L11,10\" style=\"stroke-dasharray: 126, 128; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-linejoin=\"bevel\" stroke-miterlimit=\"10\" d=\"M27.998,24L\n\t\t\t\t\t\t\t                                       35.998,16L43.998,24\" style=\"stroke-dasharray: 23, 25; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t                                    <g>\n\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M35.998,16L35.998,36\" style=\"stroke-dasharray: 20, 22; stroke-dashoffset: 0;\"><\/path>\n\t\t\t\t\t\t\t                                    <\/g>\n\t\t\t\t\t\t\t                                 <\/svg>",
+    "svg_four_contact_us_2": "<svg version=\"1.0\" id=\"svg-9269\" xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" width=\"64px\" height=\"64px\" viewbox=\"0 0 64 64\" enable-background=\"new 0 0 64 64\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xml:space=\"preserve\">\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M14,57A6,6 0,1,1 26,57A6,6 0,1,1 14,57\" style=\"stroke-dasharray: 38, 40; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M38,57A6,6 0,1,1 50,57A6,6 0,1,1 38,57\" style=\"stroke-dasharray: 38, 40; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M26,57L38,57\" style=\"stroke-dasharray: 12, 14; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M14,57L10,2L0,2\" style=\"stroke-dasharray: 66, 68; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M13,43L56,40L63,10L11,10\" style=\"stroke-dasharray: 126, 128; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t                                    <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-linejoin=\"bevel\" stroke-miterlimit=\"10\" d=\"M27.998,24L\n\t\t\t\t\t\t\t                                       35.998,16L43.998,24\" style=\"stroke-dasharray: 23, 25; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t                                    <g>\n\t\t\t\t\t\t\t                                       <path fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M35.998,16L35.998,36\" style=\"stroke-dasharray: 20, 22; stroke-dashoffset: 0;\"></path>\n\t\t\t\t\t\t\t                                    </g>\n\t\t\t\t\t\t\t                                 </svg>",
     "html_four_contact_us_2": "[rocket ]Free standard shipping<br>on all orders.",
     "show_share_btn_contact_us_2": true,
     "share_type_contact_us_2": "1",
@@ -516,7 +516,7 @@
     "sub_text_pass": "Condimentum ipsum a adipiscing hac consectetur urna commodo elit parturient a molestie ut nisl parturient convallier ullamcorper phasellus mus cubilia eget.",
     "show_countdown_pass": true,
     "sub_countdown_pass": "New store we be launched in:",
-    "date_pass": "2017\/12\/30",
+    "date_pass": "2017/12/30",
     "social_newsletter_pass": true,
     "use_mailchimp_pass": true,
     "show_use_pass": true,
@@ -556,7 +556,7 @@
     "social_google_plus_link": "",
     "logo_max_height": "95",
     "logo_max_height_sticky": "75",
-    "newsletter_form_action": "\/\/teathemes.us14.list-manage.com\/subscribe\/post?u=b25e3ab13ba347802ca7d5135&amp;id=823b9f1630",
+    "newsletter_form_action": "//teathemes.us14.list-manage.com/subscribe/post?u=b25e3ab13ba347802ca7d5135&amp;id=823b9f1630",
     "use_newsletter_mailchimp": "true",
     "show_qv_suggest": "false",
     "enable_select_category": "false",
@@ -660,7 +660,7 @@
             "type": "html",
             "settings": {
               "title": "Shipping & Delivery",
-              "code": "<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/1933\/6253\/files\/shipping.jpg?2957050064640912120\" class=\"alignleft\"> \n<p>Vestibulum curae torquent diam diam commodo parturient penatibus nunc dui adipiscing convallis bulum parturient suspendisse parturient a.Parturient in parturient scelerisque nibh lectus quam a natoque adipiscing a vestibulum hendrerit et pharetra fames.Consequat net<\/p>\n<p>Vestibulum parturient suspendisse parturient a.Parturient in parturient scelerisque  nibh lectus quam a natoque adipiscing a vestibulum hendrerit et pharetra fames.Consequat netus.<\/p>\n<p>Scelerisque adipiscing bibendum sem vestibulum et in a a a purus lectus faucibus lobortis tincidunt purus lectus nisl class eros.Condimentum a et ullamcorper dictumst mus et tristique elementum nam inceptos hac vestibulum amet elit<\/p>\n<div class=\"clearfix\"><\/div>"
+              "code": "<img src=\"//cdn.shopify.com/s/files/1/1933/6253/files/shipping.jpg?2957050064640912120\" class=\"alignleft\"> \n<p>Vestibulum curae torquent diam diam commodo parturient penatibus nunc dui adipiscing convallis bulum parturient suspendisse parturient a.Parturient in parturient scelerisque nibh lectus quam a natoque adipiscing a vestibulum hendrerit et pharetra fames.Consequat net</p>\n<p>Vestibulum parturient suspendisse parturient a.Parturient in parturient scelerisque  nibh lectus quam a natoque adipiscing a vestibulum hendrerit et pharetra fames.Consequat netus.</p>\n<p>Scelerisque adipiscing bibendum sem vestibulum et in a a a purus lectus faucibus lobortis tincidunt purus lectus nisl class eros.Condimentum a et ullamcorper dictumst mus et tristique elementum nam inceptos hac vestibulum amet elit</p>\n<div class=\"clearfix\"></div>"
             }
           }
         },
@@ -700,14 +700,14 @@
             "type": "html",
             "settings": {
               "title": "Custom HTML",
-              "code": "<h3>asdsadasd<\/h3><h3><\/h3>"
+              "code": "<h3>asdsadasd</h3><h3></h3>"
             }
           },
           "1498816339430": {
             "type": "text",
             "settings": {
               "title": "Talk about your brand",
-              "text": "<p>Use this text to share infor<a href=\"\/pages\/recently-viewed-products\" title=\"recently viewed products\"><strong>mation about your brand with your customers. Describe a product, share<\/strong><\/a> announcements, or welcome customers to your store.<\/p>"
+              "text": "<p>Use this text to share infor<a href=\"/pages/recently-viewed-products\" title=\"recently viewed products\"><strong>mation about your brand with your customers. Describe a product, share</strong></a> announcements, or welcome customers to your store.</p>"
             }
           },
           "1498816375250": {
@@ -882,17 +882,17 @@
             "settings": {
               "title": "Sale",
               "question_1": "I haven't received my item. What can I do?",
-              "answering_1": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_1": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_2": "Ipsum ac erat cursus rutrum parturient a a nostra?",
-              "answering_2": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_2": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_3": "Tellus ridiculus non tempus laoreet nec diam eleifend id ullamcorper?",
-              "answering_3": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_3": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_4": "Ad a dui a lacinia nec nec non volutpat?",
-              "answering_4": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_4": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_5": "Dui nisi in cum augue adipiscing nibh taciti mollis condimentum risus?",
-              "answering_5": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_5": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_6": "Tellus ridiculus non tempus laoreet nec diam eleifend id ullamcorper?",
-              "answering_6": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_6": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_7": "",
               "answering_7": "",
               "question_8": "",
@@ -908,17 +908,17 @@
             "settings": {
               "title": "Terms & Conditions",
               "question_1": "I haven't received my item. What can I do?",
-              "answering_1": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_1": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_2": "Ipsum ac erat cursus rutrum parturient a a nostra?",
-              "answering_2": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_2": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_3": "Tellus ridiculus non tempus laoreet nec diam eleifend id ullamcorper?",
-              "answering_3": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_3": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_4": "Ad a dui a lacinia nec nec non volutpat?",
-              "answering_4": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_4": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_5": "Dui nisi in cum augue adipiscing nibh taciti mollis condimentum risus?",
-              "answering_5": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_5": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_6": "Tellus ridiculus non tempus laoreet nec diam eleifend id ullamcorper?",
-              "answering_6": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_6": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_7": "",
               "answering_7": "",
               "question_8": "",
@@ -934,17 +934,17 @@
             "settings": {
               "title": "Privacy Policy",
               "question_1": "Tellus ridiculus non tempus laoreet nec diam eleifend id ullamcorper?",
-              "answering_1": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_1": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_2": "Ad a dui a lacinia nec nec non volutpat?",
-              "answering_2": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_2": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_3": "Dui nisi in cum augue adipiscing nibh taciti mollis condimentum risus?",
-              "answering_3": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_3": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_4": "Ipsum ac erat cursus rutrum parturient a a nostra?",
-              "answering_4": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_4": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_5": "I haven't received my item. What can I do?",
-              "answering_5": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_5": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_6": "Ad a dui a lacinia nec nec non volutpat?",
-              "answering_6": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.<\/p>",
+              "answering_6": "<p>Sed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>\n<p>Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.</p>",
               "question_7": "",
               "answering_7": "",
               "question_8": "",
@@ -1041,7 +1041,11 @@
             "settings": {
               "title": "Home",
               "icon": "",
+<<<<<<< HEAD
               "button_link": "https:\/\/c3284f-c1.myshopify.com",
+=======
+              "button_link": "https://c3284f-c1.myshopify.com",
+>>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
               "label": "",
               "color": "#ffffff"
             }
@@ -1051,7 +1055,11 @@
             "settings": {
               "title": "About me",
               "icon": "",
+<<<<<<< HEAD
               "button_link": "shopify:\/\/pages\/about-me",
+=======
+              "button_link": "shopify://pages/about-me",
+>>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
               "label": "",
               "color": "#ffffff"
             }
@@ -1183,7 +1191,7 @@
             "settings": {
               "title": "all menu",
               "icon": "user",
-              "button_link": "\/account",
+              "button_link": "/account",
               "label": "all",
               "color": "#c98484",
               "show_img": true,
@@ -1221,7 +1229,7 @@
             "settings": {
               "title": "My Account",
               "icon": "user",
-              "button_link": "\/account"
+              "button_link": "/account"
             }
           },
           "1501123166194": {
@@ -1229,7 +1237,7 @@
             "settings": {
               "title": "Cart",
               "icon": "",
-              "button_link": "\/cart"
+              "button_link": "/cart"
             }
           },
           "1501749458381": {
@@ -1237,7 +1245,7 @@
             "settings": {
               "title": "our location",
               "icon": "",
-              "button_link": "shopify:\/\/pages\/our-shop"
+              "button_link": "shopify://pages/our-shop"
             }
           },
           "1501749498671": {
@@ -1245,7 +1253,7 @@
             "settings": {
               "title": "Contact Us",
               "icon": "",
-              "button_link": "shopify:\/\/pages\/contact-us"
+              "button_link": "shopify://pages/contact-us"
             }
           }
         },
@@ -1443,7 +1451,7 @@
               "image": "",
               "banner_content": "",
               "banner_btn_title": "click me",
-              "banner_link": "shopify:\/\/collections\/shoes",
+              "banner_link": "shopify://collections/shoes",
               "button_style_color": "default",
               "banner_alignment": "right",
               "banner_vertical_alignment": "top",
@@ -1461,7 +1469,7 @@
               "image": "",
               "banner_content": "",
               "banner_btn_title": "Buy Now",
-              "banner_link": "shopify:\/\/collections\/cosmetics",
+              "banner_link": "shopify://collections/cosmetics",
               "button_style_color": "btn-style-bordered",
               "banner_alignment": "center",
               "banner_vertical_alignment": "top",
@@ -1548,11 +1556,11 @@
             "type": "item",
             "disabled": true,
             "settings": {
-              "title": "<h2 class=\"title\" style=\"\ntext-transform: uppercase;\n    font-weight: 700;\nline-height:1;\n    font-size: 119px;\n\">NEW STYLE<\/h2>\n\n<h6 style=\"\nletter-spacing: 0px;\nfont-weight: 500;\nfont-size: 73px;\n\">Boot's Collection For Men<\/h6>",
-              "title_tb": "<h2 class=\"title\" style=\"\ntext-transform: uppercase;\n    font-weight: 700;\nline-height:1;\n    font-size: 80px;\n\">NEW STYLE<\/h2>\n\n<h6 style=\"\nletter-spacing: 0px;\nfont-weight: 500;\nfont-size: 60px;\n\">Boot's Collection For Men<\/h6>",
-              "title_mb": "<h2 class=\"title\" style=\"\ntext-transform: uppercase;\n    font-weight: 700;\nline-height:1;\n    font-size: 40px;\n\">NEW STYLE<\/h2>\n\n<h6 style=\"\nletter-spacing: 0px;\nfont-weight: 500;\nfont-size: 30px;\n\">Boot's Collection For Men<\/h6>",
+              "title": "<h2 class=\"title\" style=\"\ntext-transform: uppercase;\n    font-weight: 700;\nline-height:1;\n    font-size: 119px;\n\">NEW STYLE</h2>\n\n<h6 style=\"\nletter-spacing: 0px;\nfont-weight: 500;\nfont-size: 73px;\n\">Boot's Collection For Men</h6>",
+              "title_tb": "<h2 class=\"title\" style=\"\ntext-transform: uppercase;\n    font-weight: 700;\nline-height:1;\n    font-size: 80px;\n\">NEW STYLE</h2>\n\n<h6 style=\"\nletter-spacing: 0px;\nfont-weight: 500;\nfont-size: 60px;\n\">Boot's Collection For Men</h6>",
+              "title_mb": "<h2 class=\"title\" style=\"\ntext-transform: uppercase;\n    font-weight: 700;\nline-height:1;\n    font-size: 40px;\n\">NEW STYLE</h2>\n\n<h6 style=\"\nletter-spacing: 0px;\nfont-weight: 500;\nfont-size: 30px;\n\">Boot's Collection For Men</h6>",
               "banner_btn_title": "Shop Now",
-              "banner_link": "shopify:\/\/collections",
+              "banner_link": "shopify://collections",
               "hide_btn_tablet": false,
               "hide_btn_mobile": false,
               "button_color": "primary",
@@ -1656,7 +1664,11 @@
           "02f1bb07-1472-410a-996f-a7b9f43abdf1": {
             "type": "image",
             "settings": {
+<<<<<<< HEAD
               "block_image_1": "shopify:\/\/shop_images\/Screenshot_2.png"
+=======
+              "block_image_1": "shopify://shop_images/Screenshot_2.png"
+>>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
             }
           },
           "525d6f56-afc9-4705-bc24-9d368e007946": {
