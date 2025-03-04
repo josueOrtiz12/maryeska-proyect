@@ -12,9 +12,135 @@
     "main": {
       "type": "main-about-me",
       "settings": {}
+    },
+    "gl_section_promo_banner_9qMr6Y": {
+      "type": "gl_section_promo_banner",
+      "blocks": {
+        "banner_tRjbyr": {
+          "type": "banner",
+          "settings": {
+            "banner_width": "4",
+            "hide_medium": false,
+            "hide_small": false,
+            "hide_extra_small": false,
+            "banner_content": "",
+            "banner_btn_title": "",
+            "banner_link": "",
+            "button_size": "small",
+            "button_color": "white",
+            "button_style_color": "default",
+            "banner_alignment": "center",
+            "banner_vertical_alignment": "top",
+            "banner_effect": "default",
+            "banner_content_style": "default",
+            "banner_color": "light",
+            "enable_increase": false,
+            "block_border_color": "",
+            "block_border_style": "solid",
+            "block_border": "",
+            "block_margin_top": "",
+            "block_margin_bottom": "",
+            "block_padding": "",
+            "position_text_block": "top",
+            "enable_text_block": false,
+            "heading": "Heading",
+            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+            "banner_text_color": "light"
+          }
+        },
+        "banner_WymnLP": {
+          "type": "banner",
+          "settings": {
+            "banner_width": "4",
+            "hide_medium": false,
+            "hide_small": false,
+            "hide_extra_small": false,
+            "banner_content": "",
+            "banner_btn_title": "",
+            "banner_link": "",
+            "button_size": "small",
+            "button_color": "white",
+            "button_style_color": "default",
+            "banner_alignment": "center",
+            "banner_vertical_alignment": "top",
+            "banner_effect": "default",
+            "banner_content_style": "default",
+            "banner_color": "light",
+            "enable_increase": false,
+            "block_border_color": "",
+            "block_border_style": "solid",
+            "block_border": "",
+            "block_margin_top": "",
+            "block_margin_bottom": "",
+            "block_padding": "",
+            "position_text_block": "top",
+            "enable_text_block": false,
+            "heading": "Heading",
+            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+            "banner_text_color": "light"
+          }
+        },
+        "banner_iaLzWY": {
+          "type": "banner",
+          "settings": {
+            "banner_width": "4",
+            "hide_medium": false,
+            "hide_small": false,
+            "hide_extra_small": false,
+            "banner_content": "",
+            "banner_btn_title": "",
+            "banner_link": "",
+            "button_size": "small",
+            "button_color": "white",
+            "button_style_color": "default",
+            "banner_alignment": "center",
+            "banner_vertical_alignment": "top",
+            "banner_effect": "default",
+            "banner_content_style": "default",
+            "banner_color": "light",
+            "enable_increase": false,
+            "block_border_color": "",
+            "block_border_style": "solid",
+            "block_border": "",
+            "block_margin_top": "",
+            "block_margin_bottom": "",
+            "block_padding": "",
+            "position_text_block": "top",
+            "enable_text_block": false,
+            "heading": "Heading",
+            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+            "banner_text_color": "light"
+          }
+        }
+      },
+      "block_order": [
+        "banner_tRjbyr",
+        "banner_WymnLP",
+        "banner_iaLzWY"
+      ],
+      "settings": {
+        "row_stretch": "default",
+        "columns_gap": "inherit",
+        "button_label": "",
+        "button_link": "",
+        "button_color": "white",
+        "button_style": "bordered",
+        "button_size": "default",
+        "section_bg_color": "",
+        "section_border_color": "",
+        "section_border_style": "solid",
+        "section_border": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding_top": "",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "gl_section_promo_banner_9qMr6Y"
   ]
 }
