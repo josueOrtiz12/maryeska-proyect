@@ -1050,7 +1050,7 @@
             "settings": {
               "title": "Home",
               "icon": "",
-              "button_link": "",
+              "button_link": "#",
               "label": "",
               "color": "#ffffff"
             }
