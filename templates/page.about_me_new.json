@@ -129,11 +129,37 @@
         "section_padding_left": "",
         "use_parallax": false
       }
+    },
+    "gl_section_title_ngG4fW": {
+      "type": "gl_section_title",
+      "settings": {
+        "row_stretch": "default",
+        "grid_width": "12",
+        "title": "LOREM IPSUM",
+        "sub_title": "ABOUT ME",
+        "text_after_title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "title_style": "default",
+        "title_color": "default",
+        "title_size": "default",
+        "subtitle_font": "default",
+        "title_align": "center",
+        "section_bg_color": "",
+        "section_border_color": "",
+        "section_border_style": "solid",
+        "section_border": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding_top": "10%",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
     }
   },
   "order": [
     "main",
     "slideshow_qD4QLU",
-    "gl_section_image_with_text_aQqVBX"
+    "gl_section_image_with_text_aQqVBX",
+    "gl_section_title_ngG4fW"
   ]
 }
