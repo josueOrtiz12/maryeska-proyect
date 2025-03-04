@@ -1730,7 +1730,7 @@
           "silder_speed": "5000",
           "silder_per_view": "4",
           "hide_pagination": true,
-          "hide_button": true,
+          "hide_button": false,
           "slider_loop": false,
           "autoplay": false,
           "products_hover": "quick",
