@@ -71,16 +71,16 @@
         "section_padding_left": ""
       }
     },
-    "gl_section_image_with_text_aQqVBX": {
+    "gl_section_image_with_text_RjcXcR": {
       "type": "gl_section_image_with_text",
       "blocks": {
-        "image_A6Hweb": {
+        "image_bGfcUL": {
           "type": "image",
           "settings": {
             "block_image_1": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg"
           }
         },
-        "text_pC4hnn": {
+        "text_aaC8k6": {
           "type": "text",
           "settings": {
             "text_block": "<div class=\"about-me-container\">\n<p class=\"about-me\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n</p>\n<a class=\"read-more\">Leer más</a>\n</div>"
@@ -88,12 +88,8 @@
         }
       },
       "block_order": [
-        "image_A6Hweb",
-        "text_pC4hnn"
-      ],
-      "custom_css": [
-        ".gl_row.spb_row.gl_row-fluid {display: flex; align-items: center;}",
-        "div#gallery_template--17993270984896__gl_section_image_with_text_aQqVBX {margin-bottom: 0px;}"
+        "image_bGfcUL",
+        "text_aaC8k6"
       ],
       "settings": {
         "row_stretch": "default",
@@ -283,13 +279,74 @@
         "section_padding_bottom": "",
         "section_padding_left": ""
       }
+    },
+    "gl_section_image_with_text_aQqVBX": {
+      "type": "gl_section_image_with_text",
+      "blocks": {
+        "text_pC4hnn": {
+          "type": "text",
+          "settings": {
+            "text_block": "<div class=\"about-me-container\">\n<p class=\"about-me\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n</p>\n<a class=\"read-more\">Leer más</a>\n</div>"
+          }
+        },
+        "image_A6Hweb": {
+          "type": "image",
+          "settings": {
+            "block_image_1": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "text_pC4hnn",
+        "image_A6Hweb"
+      ],
+      "custom_css": [
+        ".gl_row.spb_row.gl_row-fluid {display: flex; align-items: center;}",
+        "div#gallery_template--17993270984896__gl_section_image_with_text_aQqVBX {margin-bottom: 0px;}"
+      ],
+      "settings": {
+        "row_stretch": "default",
+        "full_height": false,
+        "columns_position": "middle",
+        "equal_height": false,
+        "content_position": "default",
+        "use_countdown": false,
+        "date": "",
+        "countdown_color_scheme": "dark",
+        "size": "small",
+        "align": "left",
+        "style": "standard",
+        "button_label": "",
+        "button_link": "",
+        "button_color": "white",
+        "button_style": "default",
+        "button_size": "default",
+        "hide_pagination": true,
+        "hide_button": true,
+        "slider_loop": true,
+        "autoplay": true,
+        "align_img": "1",
+        "color_scheme": "dark",
+        "section_bg_color": "",
+        "section_border_color": "",
+        "section_border_style": "solid",
+        "section_border": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "0px",
+        "section_padding_top": "",
+        "section_padding_right": "",
+        "section_padding_bottom": "0px",
+        "section_padding_left": "",
+        "use_parallax": false
+      }
     }
   },
   "order": [
     "main",
     "slideshow_qD4QLU",
-    "gl_section_image_with_text_aQqVBX",
+    "gl_section_image_with_text_RjcXcR",
     "gl_section_title_ngG4fW",
-    "gl_section_promo_banner_fLUYnW"
+    "gl_section_promo_banner_fLUYnW",
+    "gl_section_image_with_text_aQqVBX"
   ]
 }
