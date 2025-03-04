@@ -280,27 +280,39 @@
         "section_padding_left": ""
       }
     },
-    "gl_section_image_text_8_RxiKJL": {
-      "type": "gl_section_image_text_8",
+    "gl_section_image_text_6_7UDb9F": {
+      "type": "gl_section_image_text_6",
       "blocks": {
-        "image_left_dXp6Ah": {
-          "type": "image_left",
+        "text_DRnzwm": {
+          "type": "text",
           "settings": {
-            "text_heading": "MASS EFFECT: THE GAME",
-            "content": "There are many variations of passages of lorem ipsum available, but the majority have suffered alteration."
+            "text_title": "AN EDIT OF OUR LATEST FAVOURITES",
+            "text_heading": "Training<br>Sneakers",
+            "content": "",
+            "button_label": "",
+            "button_link": "",
+            "button_label_2": "",
+            "button_link_2": "",
+            "use_countdown": false,
+            "date": "2018/12/12",
+            "countdown_color_scheme": "dark",
+            "size": "large",
+            "align": "center",
+            "style": "standard"
           }
         },
-        "image_right_XNPhb7": {
-          "type": "image_right",
+        "image_qGVP4h": {
+          "type": "image",
           "settings": {
-            "text_heading": "MASS EFFECT: THE GAME",
-            "content": "There are many variations of passages of lorem ipsum available, but the majority have suffered alteration."
+            "block_image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
+            "image_alignment_one": "center",
+            "image_style_one": "default"
           }
         }
       },
       "block_order": [
-        "image_left_dXp6Ah",
-        "image_right_XNPhb7"
+        "text_DRnzwm",
+        "image_qGVP4h"
       ],
       "settings": {
         "row_stretch": "default",
@@ -327,6 +339,6 @@
     "gl_section_image_with_text_RjcXcR",
     "gl_section_title_ngG4fW",
     "gl_section_promo_banner_fLUYnW",
-    "gl_section_image_text_8_RxiKJL"
+    "gl_section_image_text_6_7UDb9F"
   ]
 }
