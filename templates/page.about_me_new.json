@@ -91,6 +91,9 @@
         "image_bGfcUL",
         "text_aaC8k6"
       ],
+      "custom_css": [
+        ".gl_row.spb_row.gl_row-fluid {display: flex; align-items: center;}"
+      ],
       "settings": {
         "row_stretch": "default",
         "full_height": false,
