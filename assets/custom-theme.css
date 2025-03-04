@@ -139,7 +139,7 @@ ul.social-icons.text-center.social-share.icons-design-default.icons-size-default
 
   /* home informativo */
   /* Para 600px */  
-@media only screen and (max-width: 620px) and (min-width: 5px) {  
+  @media only screen and (max-width: 620px) and (min-width: 5px) {  
     #shopify-section-546d3eb2-c9ae-4f88-a440-bf7a3c6aaade .gl_row.spb_row.gl_row-fluid {
         display: block !important;
         align-items: center;
