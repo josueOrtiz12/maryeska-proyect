@@ -122,7 +122,7 @@
         "section_border_style": "solid",
         "section_border": "",
         "section_margin_top": "",
-        "section_margin_bottom": "",
+        "section_margin_bottom": "0px",
         "section_padding_top": "",
         "section_padding_right": "",
         "section_padding_bottom": "",
