@@ -148,4 +148,8 @@ ul.social-icons.text-center.social-share.icons-design-default.icons-size-default
         display: block !important;
         align-items: center;
     }
+    .footer-sidebar.widget-area.row {
+        display: block;
+        text-align: center;
+    }
 }  
