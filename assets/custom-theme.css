@@ -18,6 +18,23 @@ a.basel-logo.basel-main-logo:hover {
 a.basel-logo.basel-main-logo {
     letter-spacing: 6px;
 }
+.header-spacing{
+    margin-bottom: 0px !important;
+}
+.banner-inner h1 {
+    letter-spacing: 5px;
+}
+.banner-inner p {
+    letter-spacing: 5px;
+}
+h4.title {
+    font-weight: 600;
+    letter-spacing: 6px;
+}
+span.title-subtitle.font-default {
+    font-weight: 600;
+    letter-spacing: 6px;
+}
 
 
 /* banner pricipal */
@@ -130,3 +147,41 @@ ul.social-icons.text-center.social-share.icons-design-default.icons-size-default
   redes-sociales a[href*="tiktok.com"] { color: #000000; } /* Color de TikTok */
   redes-sociales a[href*="twitter.com"] { color: #1DA1F2; } /* Color de Twitter */
   redes-sociales a[href*="facebook.com"] { color: #1877F2; } /* Color de Facebook */
+
+
+ /**aboutme page */
+.about-me-container {
+    padding: 12px 47px 12px 20px;
+}
+.container-info {
+    padding: 2% 9% 9% 9%;
+}
+
+
+
+
+  /* responsive */
+
+  /* home informativo */
+  /* Para 600px */  
+  @media only screen and (max-width: 620px) and (min-width: 5px) {  
+    #shopify-section-546d3eb2-c9ae-4f88-a440-bf7a3c6aaade .gl_row.spb_row.gl_row-fluid {
+        display: block !important;
+        align-items: center;
+    }
+    #shopify-section-6bad6e79-ee08-4b17-bef2-1dd179d114cc .gl_row.spb_row.gl_row-fluid{
+        display: block !important;
+        align-items: center;
+    }
+    .footer-sidebar.widget-area.row {
+        display: block;
+        text-align: center;
+    }
+
+
+
+    /**aboutme page */
+    #shopify-section-template--17993270984896__gl_section_image_with_text_RjcXcR .gl_row.spb_row.gl_row-fluid {
+        display: block;
+    }
+}  

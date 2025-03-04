@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "current": {
     "api_key": "AIzaSyAc7wnkTL45-LF9qrbaT-XLJn3AszvixZE",
@@ -538,7 +529,7 @@
     "share_pinterest": true,
     "share_tumblr": true,
     "share_email": false,
-    "social_twitter_link": "https://twitter.com/shopify",
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
     "social_facebook_link": "#",
     "social_pinterest_link": "#",
     "social_instagram_link": "",
@@ -1050,7 +1041,7 @@
             "settings": {
               "title": "Home",
               "icon": "",
-              "button_link": "",
+              "button_link": "https:\/\/c3284f-c1.myshopify.com",
               "label": "",
               "color": "#ffffff"
             }
@@ -1060,7 +1051,7 @@
             "settings": {
               "title": "About me",
               "icon": "",
-              "button_link": "",
+              "button_link": "shopify:\/\/pages\/about-me",
               "label": "",
               "color": "#ffffff"
             }
@@ -1109,7 +1100,7 @@
       "gl_mobile_menu": {
         "type": "gl_mobile_menu",
         "settings": {
-          "menu": ""
+          "menu": "main-menu"
         }
       },
       "gl_search-by-category": {
@@ -1272,11 +1263,11 @@
           "1501140417063": {
             "type": "logo",
             "settings": {
-              "footer_logo_image": "shopify://shop_images/Screenshot_1.png",
+              "footer_logo_image": "shopify:\/\/shop_images\/Screenshot_1.png",
               "logo_max_width": "160",
               "social_enabled": false,
               "share_type": "2",
-              "logo_custom_html": "<div class=\"redes-sociales\">\n  <ul>\n    <li>\n      <a href=\"https://www.instagram.com/tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-instagram\"></i>\n\n      </a>\n    </li>\n    <li>\n      <a href=\"https://www.youtube.com/tu-canal\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-youtube\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://www.tiktok.com/@tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-tiktok\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://twitter.com/tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-twitter\"></i>\n      </a>\n    </li>\n    <li>\n      <a href=\"https://www.facebook.com/tu-pagina\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-facebook-f\"></i>\n      </a>\n    </li>\n  </ul>\n</div>",
+              "logo_custom_html": "<div class=\"redes-sociales\">\n  <ul>\n    <li>\n      <a href=\"https:\/\/www.instagram.com\/tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-instagram\"><\/i>\n\n      <\/a>\n    <\/li>\n    <li>\n      <a href=\"https:\/\/www.youtube.com\/tu-canal\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-youtube\"><\/i>\n      <\/a>\n    <\/li>\n    <li>\n      <a href=\"https:\/\/www.tiktok.com\/@tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-tiktok\"><\/i>\n      <\/a>\n    <\/li>\n    <li>\n      <a href=\"https:\/\/twitter.com\/tu-usuario\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-twitter\"><\/i>\n      <\/a>\n    <\/li>\n    <li>\n      <a href=\"https:\/\/www.facebook.com\/tu-pagina\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"fab fa-facebook-f\"><\/i>\n      <\/a>\n    <\/li>\n  <\/ul>\n<\/div>",
               "width": "16%",
               "width_tablet": "16%",
               "width_mobile": "100%"
@@ -1306,6 +1297,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Newsletter",
+              "subtext": "Subscribe to our newsletter to receive updates and exclusive offers.",
               "use_mailchimp": true,
               "width": "25%",
               "width_tablet": "50%",
@@ -1533,8 +1525,8 @@
           "1547774947330": {
             "type": "item",
             "settings": {
-              "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon.webp",
-              "title": "<h1>LOREM IPSUM</h1>",
+              "image": "shopify:\/\/shop_images\/85c6dcd26e84d679a20847ab91961923_11zon.webp",
+              "title": "<h1>LOREM IPSUM<\/h1>",
               "title_tb": "",
               "title_mb": "",
               "banner_btn_title": "boton de baner",
@@ -1664,13 +1656,13 @@
           "02f1bb07-1472-410a-996f-a7b9f43abdf1": {
             "type": "image",
             "settings": {
-              "block_image_1": "shopify://shop_images/35957b6ae39f9c1a6736c506b0afdbb7.webp"
+              "block_image_1": "shopify:\/\/shop_images\/Screenshot_2.png"
             }
           },
           "525d6f56-afc9-4705-bc24-9d368e007946": {
             "type": "text",
             "settings": {
-              "text_block": "<p class=\"about-me\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n</p>\n<a class=\"read-more\">Leer más</a>"
+              "text_block": "<p class=\"about-me\">ABOUT ME<\/p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM<\/h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n<\/p>\n<a class=\"read-more\">Leer más<\/a>"
             }
           }
         },
@@ -1729,7 +1721,7 @@
           "silder_speed": "5000",
           "silder_per_view": "4",
           "hide_pagination": true,
-          "hide_button": true,
+          "hide_button": false,
           "slider_loop": false,
           "autoplay": false,
           "products_hover": "quick",
@@ -1758,7 +1750,7 @@
         ],
         "settings": {
           "row_stretch": "default",
-          "code": "<a class=\"botonMas\" href=\"#\">VER TODO</a>",
+          "code": "<a class=\"botonMas\" href=\"#\">VER TODO<\/a>",
           "section_bg_color": "",
           "section_border_color": "",
           "section_border_style": "solid",
@@ -1782,8 +1774,8 @@
               "hide_medium": false,
               "hide_small": false,
               "hide_extra_small": false,
-              "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
-              "banner_content": "<h1>LOREM IPSUM</h1>",
+              "image": "shopify:\/\/shop_images\/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
+              "banner_content": "<h1>LOREM IPSUM<\/h1>",
               "banner_btn_title": "",
               "banner_link": "",
               "button_size": "small",
@@ -1804,7 +1796,7 @@
               "position_text_block": "bottom",
               "enable_text_block": false,
               "heading": "LOREM IPSUM",
-              "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+              "text_block": "<p>Viverra rutrum fringilla curabitur.<\/p>",
               "banner_text_color": "light"
             }
           }
@@ -1841,13 +1833,13 @@
           "6bd26ab1-cb98-4425-85c1-1e5d581e5dbb": {
             "type": "image",
             "settings": {
-              "block_image_1": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.webp"
+              "block_image_1": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf.webp"
             }
           },
           "513e44ef-020d-40a4-8525-ee5bcaedffef": {
             "type": "text",
             "settings": {
-              "text_block": "<p class=\"about-me\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n</p>\n<a class=\"read-more\">Leer más</a>"
+              "text_block": "<p class=\"about-me\">ABOUT ME<\/p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM<\/h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n<\/p>\n<a class=\"read-more\">Leer más<\/a>"
             }
           }
         },
@@ -1904,7 +1896,7 @@
               "hide_medium": false,
               "hide_small": false,
               "hide_extra_small": false,
-              "image": "shopify://shop_images/Group_17.png",
+              "image": "shopify:\/\/shop_images\/Group_17.png",
               "banner_content": "",
               "banner_btn_title": "",
               "banner_link": "",
@@ -1999,7 +1991,7 @@
               "hide_medium": false,
               "hide_small": false,
               "hide_extra_small": false,
-              "image": "shopify://shop_images/Group_18.png",
+              "image": "shopify:\/\/shop_images\/Group_18.png",
               "banner_content": "",
               "banner_btn_title": "",
               "banner_link": "",
@@ -2089,7 +2081,7 @@
           "columns_position": "middle",
           "equal_height": false,
           "content_position": "default",
-          "image": "shopify://shop_images/6a05b2c2e084998c3e904e2434b6e6fa-removebg-preview.png",
+          "image": "shopify:\/\/shop_images\/6a05b2c2e084998c3e904e2434b6e6fa-removebg-preview.png",
           "section_bg_color": "#f1df37",
           "section_border_color": "",
           "section_border_style": "solid",
