@@ -1109,7 +1109,7 @@
       "gl_mobile_menu": {
         "type": "gl_mobile_menu",
         "settings": {
-          "menu": ""
+          "menu": "main-menu"
         }
       },
       "gl_search-by-category": {
