@@ -1060,7 +1060,7 @@
             "settings": {
               "title": "About me",
               "icon": "",
-              "button_link": "",
+              "button_link": "shopify://pages/about-me",
               "label": "",
               "color": "#ffffff"
             }
