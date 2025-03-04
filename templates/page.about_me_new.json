@@ -321,7 +321,7 @@
       "custom_css": [
         "h2.gl_custom_heading.hidden-sm.hidden-xs {font-size: 28px !important; letter-spacing: 5px; text-align: left !important;}",
         ".gl_custom_template--17993270984896__gl_section_image_text_6_7UDb9F.row-reverse-mobile.gl_row.spb_row.gl_row-fluid {display: flex; align-items: center; padding: 3px 49px 8px 49px;}",
-        ".spb_wrapper p {text-align: left;}"
+        ".spb_wrapper p {text-align: left !important;}"
       ],
       "settings": {
         "row_stretch": "default",
