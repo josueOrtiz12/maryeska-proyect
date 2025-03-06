@@ -2184,7 +2184,7 @@
           "button_style": "bordered",
           "button_size": "default",
           "section_bg_color": "",
-          "section_margin_top": "",
+          "section_margin_top": "20PX",
           "section_margin_bottom": "",
           "section_padding_top": "",
           "section_padding_right": "",
