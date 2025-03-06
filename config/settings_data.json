@@ -2223,7 +2223,8 @@
           "text_image_wMMgN3"
         ],
         "settings": {
-          "speed": 10
+          "speed": 10,
+          "background_color": "#ffffff"
         }
       }
     },
