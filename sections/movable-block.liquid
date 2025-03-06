@@ -1,18 +1,8 @@
 {% schema %}
 {
   "name": "Moving Banner",
+  "max_blocks": 10,
   "settings": [
-    {
-      "type": "text",
-      "id": "banner_text",
-      "label": "Banner Text",
-      "default": "¡Este es un banner en movimiento!"
-    },
-    {
-      "type": "image_picker",
-      "id": "banner_icon",
-      "label": "Banner Icon"
-    },
     {
       "type": "range",
       "id": "speed",
@@ -24,10 +14,37 @@
       "unit": "s"
     }
   ],
+  "blocks": [
+    {
+      "type": "text_image",
+      "name": "Text and Image",
+      "settings": [
+        {
+          "type": "text",
+          "id": "text",
+          "label": "Text",
+          "default": "¡Este es un texto editable!"
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        }
+      ]
+    }
+  ],
   "presets": [
     {
       "name": "Moving Banner",
-      "category": "Custom"
+      "category": "Custom",
+      "blocks": [
+        {
+          "type": "text_image"
+        },
+        {
+          "type": "text_image"
+        }
+      ]
     }
   ]
 }
@@ -47,7 +64,12 @@
     padding-left: 100%;
     animation: moveBanner {{ section.settings.speed }}s linear infinite;
   }
-  .moving-banner-content img {
+  .moving-banner-item {
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: middle;
+  }
+  .moving-banner-item img {
     vertical-align: middle;
     margin-right: 10px;
   }
@@ -63,9 +85,13 @@
 
 <div class="moving-banner">
   <div class="moving-banner-content">
-    {% if section.settings.banner_icon %}
-      <img src="{{ section.settings.banner_icon | img_url: '50x50' }}" alt="Icon">
-    {% endif %}
-    <span>{{ section.settings.banner_text }}</span>
+    {% for block in section.blocks %}
+      <div class="moving-banner-item" {{ block.shopify_attributes }}>
+        {% if block.settings.image %}
+          <img src="{{ block.settings.image | img_url: '50x50' }}" alt="Icon">
+        {% endif %}
+        <span>{{ block.settings.text }}</span>
+      </div>
+    {% endfor %}
   </div>
 </div>
