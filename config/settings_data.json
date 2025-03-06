@@ -2223,9 +2223,11 @@
           "text_image_wMMgN3"
         ],
         "settings": {
-          "speed": 10,
+          "speed": 18,
           "background_color": "#ffffff",
-          "font_size": 21
+          "font_size": 21,
+          "padding-top": 10,
+          "padding-bottom": 10
         }
       }
     },
