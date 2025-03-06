@@ -2195,8 +2195,8 @@
       "movable_block_KdDAPL": {
         "type": "movable-block",
         "settings": {
-          "text_content": "Editable Text",
-          "icon_image": "shopify://shop_images/01f91704a2b4e600300115e5701fb767.webp"
+          "banner_text": "¡Este es un banner en movimiento!",
+          "speed": 3
         }
       }
     },
