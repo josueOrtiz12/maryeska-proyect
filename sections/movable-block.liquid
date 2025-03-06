@@ -99,14 +99,6 @@
         <span>{{ block.settings.text }}</span>
       </div>
     {% endfor %}
-    {% for block in section.blocks %}
-      <div class="moving-banner-item" {{ block.shopify_attributes }}>
-        {% if block.settings.image %}
-          <img src="{{ block.settings.image | img_url: '50x50' }}" alt="Icon">
-        {% endif %}
-        <span>{{ block.settings.text }}</span>
-      </div>
-    {% endfor %}
   </div>
 </div>
 
@@ -116,13 +108,16 @@
     const bannerItems = bannerContent.querySelectorAll('.moving-banner-item');
     let totalWidth = 0;
 
+    // Calcular el ancho total de todos los elementos
     bannerItems.forEach(item => {
-      totalWidth += item.offsetWidth + 20;
+      totalWidth += item.offsetWidth + 20; // 20 es el margen derecho
     });
 
-    totalWidth = Math.round(totalWidth);
+    // Duplicar el contenido para crear un bucle continuo
+    bannerContent.innerHTML += bannerContent.innerHTML;
 
-    bannerContent.style.width = `${totalWidth * 3}px`;
+    // Ajustar el ancho del contenedor para que coincida con el contenido duplicado
+    bannerContent.style.width = `${totalWidth * 2}px`;
 
     let currentPosition = 0;
     const speed = totalWidth / ({{ section.settings.speed }} * 60);
@@ -130,12 +125,11 @@
     function animate() {
       currentPosition -= speed;
       if (currentPosition <= -totalWidth) {
-        currentPosition += totalWidth;
+        currentPosition = 0; // Reiniciar la posición sin saltos
       }
       bannerContent.style.transform = `translateX(${currentPosition}px)`;
       requestAnimationFrame(animate);
     }
-
     animate();
   });
 </script>
