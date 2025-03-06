@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {% schema %}
 {
   "name": "Moving Banner",
@@ -167,3 +168,174 @@
     animate();
   });
 </script>
+=======
+{% schema %}
+{
+  "name": "Moving Banner",
+  "max_blocks": 10,
+  "settings": [
+    {
+      "type": "range",
+      "id": "speed",
+      "label": "Animation Speed",
+      "min": 1,
+      "max": 30,
+      "step": 1,
+      "default": 5,
+      "unit": "s"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background Color",
+      "default": "#f0f0f0"
+    },
+    {
+        "type": "range",
+        "id": "font_size",
+        "label": "Font Size (px)",
+        "min": 10,
+        "max": 50,
+        "step": 1,
+        "default": 16,
+        "unit": "px"
+      },
+      {
+        "type": "range",
+        "id": "padding-top",
+        "label": "Padding top (px)",
+        "min": 0,
+        "max": 50,
+        "step": 1,
+        "default": 10,
+        "unit": "px"
+      },
+      {
+        "type": "range",
+        "id": "padding-bottom",
+        "label": "Padding botton (px)",
+        "min": 0,
+        "max": 50,
+        "step": 1,
+        "default": 10,
+         "unit": "px"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text_image",
+      "name": "Text and Image",
+      "settings": [
+        {
+          "type": "text",
+          "id": "text",
+          "label": "Text",
+          "default": "¡Este es un texto editable!"
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Moving Banner",
+      "category": "Custom",
+      "blocks": [
+        {
+          "type": "text_image"
+        },
+        {
+          "type": "text_image"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
+
+<style>
+    .text-slider{
+        font-size: {{section.settings.font_size}}px;
+    }
+  .moving-banner {
+    white-space: nowrap;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: {{ section.settings.background_color }};
+    padding: 10px 0;
+    position: relative;
+    padding-top: {{section.settings.padding-top}}px;
+    padding-bottom: {{section.settings.padding-bottom}}px;
+  }
+  .moving-banner-content {
+    display: inline-block;
+    white-space: nowrap;
+  }
+  .moving-banner-item {
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: middle;
+  }
+  .moving-banner-item img {
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+</style>
+
+<div class="moving-banner">
+  <div class="moving-banner-content" id="movingBannerContent">
+    {% for block in section.blocks %}
+      <div class="moving-banner-item" {{ block.shopify_attributes }}>
+        {% if block.settings.image %}
+          <img src="{{ block.settings.image | img_url: '100x1000' }}" alt="Icon">
+        {% endif %}
+        <span class="text-slider">{{ block.settings.text }}</span>
+      </div>
+    {% endfor %}
+    {% for block in section.blocks %}
+      <div class="moving-banner-item" {{ block.shopify_attributes }}>
+        {% if block.settings.image %}
+          <img src="{{ block.settings.image | img_url: '100x1000' }}" alt="Icon">
+        {% endif %}
+        <span class="text-slider">{{ block.settings.text }}</span>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const bannerContent = document.getElementById('movingBannerContent');
+    const bannerItems = bannerContent.querySelectorAll('.moving-banner-item');
+    let totalWidth = 0;
+
+    // Calcular el ancho total de todos los elementos
+    bannerItems.forEach(item => {
+      totalWidth += item.offsetWidth + 20; // 20 es el margen derecho
+    });
+
+    // Duplicar el contenido para crear un bucle continuo
+    bannerContent.innerHTML += bannerContent.innerHTML;
+
+    // Ajustar el ancho del contenedor para que coincida con el contenido duplicado
+    bannerContent.style.width = `${totalWidth * 2}px`;
+
+    let currentPosition = 0;
+    const speed = totalWidth / ({{ section.settings.speed }} * 60);
+
+    function animate() {
+      currentPosition -= speed;
+      if (currentPosition <= -totalWidth) {
+        currentPosition = 0; // Reiniciar la posición sin saltos
+      }
+      bannerContent.style.transform = `translateX(${currentPosition}px)`;
+      requestAnimationFrame(animate);
+    }
+    animate();
+  });
+</script>
+>>>>>>> b7e0bd4413b2ab0f3febe852cc962a4976efbda3
