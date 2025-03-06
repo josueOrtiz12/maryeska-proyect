@@ -2191,6 +2191,13 @@
           "section_padding_bottom": "50PX",
           "section_padding_left": ""
         }
+      },
+      "movable_block_KdDAPL": {
+        "type": "movable-block",
+        "settings": {
+          "text_content": "Editable Text",
+          "icon_image": "shopify://shop_images/01f91704a2b4e600300115e5701fb767.webp"
+        }
       }
     },
     "content_for_index": [
@@ -2206,6 +2213,7 @@
       "gl_video_player_BpEK67",
       "gl_section_promo_banner_cVAMam",
       "gl_section_blog_7CMVam",
+      "movable_block_KdDAPL",
       "gl_instagram_N8PY4C"
     ]
   },
