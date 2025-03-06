@@ -325,7 +325,7 @@
         ".spb_column.gl_column_container.gl_col-sm-6.gl_col-md-5.text-center {margin-right: 9%;}"
       ],
       "settings": {
-        "row_stretch": "default",
+        "row_stretch": "stretch_row",
         "full_height": false,
         "columns_position": "middle",
         "equal_height": false,
@@ -383,7 +383,7 @@
         ".spb_column.gl_column_container.gl_col-sm-6.gl_col-md-5.text-center {margin-left: 9%;}"
       ],
       "settings": {
-        "row_stretch": "default",
+        "row_stretch": "stretch_row",
         "full_height": false,
         "columns_position": "middle",
         "equal_height": false,
