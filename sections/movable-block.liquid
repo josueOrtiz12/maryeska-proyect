@@ -69,7 +69,9 @@
   .moving-banner-content {
     display: inline-block;
     white-space: nowrap;
-    animation: moveBanner {{ section.settings.speed }}s linear infinite;
+    animation-name: moveBanner;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
   }
   .moving-banner-item {
     display: inline-block;
@@ -80,18 +82,10 @@
     vertical-align: middle;
     margin-right: 10px;
   }
-  @keyframes moveBanner {
-    0% {
-      transform: translateX(0);
-    }
-    100% {
-      transform: translateX(-100%);
-    }
-  }
 </style>
 
 <div class="moving-banner">
-  <div class="moving-banner-content">
+  <div class="moving-banner-content" id="movingBannerContent">
     {% for block in section.blocks %}
       <div class="moving-banner-item" {{ block.shopify_attributes }}>
         {% if block.settings.image %}
@@ -110,3 +104,22 @@
     {% endfor %}
   </div>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const bannerContent = document.getElementById('movingBannerContent');
+    const bannerItems = bannerContent.querySelectorAll('.moving-banner-item');
+    let totalWidth = 0;
+
+    bannerItems.forEach(item => {
+      totalWidth += item.offsetWidth + 20; // Añade el ancho del elemento + el margen
+    });
+
+    const animationDuration = {{ section.settings.speed }} * (totalWidth / 100); // Ajusta la duración basada en el ancho
+
+    const styleSheet = document.createElement('style');
+    styleSheet.type = 'text/css';
+    styleSheet.innerHTML = `@keyframes moveBanner { 0% { transform: translateX(0); } 100% { transform: translateX(-${totalWidth}px); } } .moving-banner-content { animation-duration: ${animationDuration}s; }`;
+    document.head.appendChild(styleSheet);
+  });
+</script>
