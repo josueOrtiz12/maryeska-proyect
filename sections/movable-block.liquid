@@ -19,7 +19,16 @@
       "label": "Background Color",
       "default": "#f0f0f0"
     },
-    
+    {
+        "type": "range",
+        "id": "font_size",
+        "label": "Font Size (px)",
+        "min": 10,
+        "max": 50,
+        "step": 1,
+        "default": 16,
+        "unit": "px"
+      }
   ],
   "blocks": [
     {
@@ -59,7 +68,7 @@
 
 <style>
     .text-slider{
-        font-size: 16px;
+        font-size: {{}};
     }
   .moving-banner {
     white-space: nowrap;
