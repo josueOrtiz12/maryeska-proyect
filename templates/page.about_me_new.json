@@ -320,7 +320,7 @@
       ],
       "custom_css": [
         "h2.gl_custom_heading.hidden-sm.hidden-xs {font-size: 28px !important; letter-spacing: 5px; text-align: left !important;}",
-        ".gl_custom_template--17993270984896__gl_section_image_text_6_7UDb9F.row-reverse-mobile.gl_row.spb_row.gl_row-fluid {display: flex; align-items: center; }",
+        ".gl_custom_template--17993270984896__gl_section_image_text_6_7UDb9F.row-reverse-mobile.gl_row.spb_row.gl_row-fluid {display: flex; align-items: center;}",
         ".spb_wrapper p {text-align: left !important;}",
         ".spb_column.gl_column_container.gl_col-sm-6.gl_col-md-5.text-center {margin-right: 9%;}"
       ],
@@ -441,6 +441,44 @@
         "section_padding_bottom": "",
         "section_padding_left": ""
       }
+    },
+    "movable_block_PYX3jD": {
+      "type": "movable-block",
+      "blocks": {
+        "text_image_dGDXrW": {
+          "type": "text_image",
+          "settings": {
+            "text": "NEW COLLECTION",
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+          }
+        },
+        "text_image_XN9Twt": {
+          "type": "text_image",
+          "settings": {
+            "text": "NEW COLLECTION",
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+          }
+        },
+        "text_image_8e7Lfw": {
+          "type": "text_image",
+          "settings": {
+            "text": "NEW COLLECTION",
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+          }
+        }
+      },
+      "block_order": [
+        "text_image_dGDXrW",
+        "text_image_XN9Twt",
+        "text_image_8e7Lfw"
+      ],
+      "settings": {
+        "speed": 22,
+        "background_color": "#ffffff",
+        "font_size": 32,
+        "padding-top": 20,
+        "padding-bottom": 40
+      }
     }
   },
   "order": [
@@ -451,6 +489,7 @@
     "gl_section_promo_banner_fLUYnW",
     "gl_section_image_text_6_7UDb9F",
     "gl_section_image_text_6_4VCpdt",
-    "gl_section_blog_yEcMRX"
+    "gl_section_blog_yEcMRX",
+    "movable_block_PYX3jD"
   ]
 }
