@@ -39,7 +39,15 @@
         "default": 10,
         "unit": "px"
       },
-      
+      {
+        "type": "range",
+        "id": "padding-bottom",
+        "label": "Padding (px)",
+        "min": 0,
+        "max": 50,
+        "step": 1,
+        "default": 10,
+    }
   ],
   "blocks": [
     {
@@ -89,7 +97,7 @@
     padding: 10px 0;
     position: relative;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: {{padding-bottom}};
   }
   .moving-banner-content {
     display: inline-block;
