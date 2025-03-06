@@ -2194,9 +2194,26 @@
       },
       "movable_block_KdDAPL": {
         "type": "movable-block",
+        "blocks": {
+          "text_image_hh4UUJ": {
+            "type": "text_image",
+            "settings": {
+              "text": "este es otro"
+            }
+          },
+          "text_image_wMMgN3": {
+            "type": "text_image",
+            "settings": {
+              "text": "¡Este es un texto editable!"
+            }
+          }
+        },
+        "block_order": [
+          "text_image_hh4UUJ",
+          "text_image_wMMgN3"
+        ],
         "settings": {
-          "banner_text": "¡Este es un banner en movimiento!",
-          "speed": 3
+          "speed": 10
         }
       }
     },
