@@ -106,20 +106,31 @@
 </div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const bannerContent = document.getElementById('movingBannerContent');
-    const bannerItems = bannerContent.querySelectorAll('.moving-banner-item');
-    let totalWidth = 0;
-
-    bannerItems.forEach(item => {
-      totalWidth += item.offsetWidth + 20; // Añade el ancho del elemento + el margen
+    document.addEventListener('DOMContentLoaded', function() {
+      const bannerContent = document.getElementById('movingBannerContent');
+      const bannerItems = bannerContent.querySelectorAll('.moving-banner-item');
+      let totalWidth = 0;
+  
+      bannerItems.forEach(item => {
+        totalWidth += item.offsetWidth + 20;
+      });
+  
+      totalWidth = Math.round(totalWidth);
+  
+      bannerContent.style.width = `${totalWidth * 2}px`;
+  
+      let currentPosition = 0;
+      const speed = totalWidth / ({{ section.settings.speed }} * 60); // Ajusta la velocidad
+  
+      function animate() {
+        currentPosition -= speed;
+        if (currentPosition <= -totalWidth) {
+          currentPosition = 0;
+        }
+        bannerContent.style.transform = `translateX(${currentPosition}px)`;
+        requestAnimationFrame(animate);
+      }
+  
+      animate();
     });
-
-    const animationDuration = {{ section.settings.speed }} * (totalWidth / 100); // Ajusta la duración basada en el ancho
-
-    const styleSheet = document.createElement('style');
-    styleSheet.type = 'text/css';
-    styleSheet.innerHTML = `@keyframes moveBanner { 0% { transform: translateX(0); } 100% { transform: translateX(-${totalWidth}px); } } .moving-banner-content { animation-duration: ${animationDuration}s; }`;
-    document.head.appendChild(styleSheet);
-  });
-</script>
+  </script>
