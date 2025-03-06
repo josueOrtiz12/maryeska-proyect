@@ -406,7 +406,7 @@
         "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
       ],
       "settings": {
-        "row_stretch": "stretch_row_content",
+        "row_stretch": "stretch_row",
         "title": "NEWS",
         "sub_title": "MI BLOG",
         "text_after_title": "",
