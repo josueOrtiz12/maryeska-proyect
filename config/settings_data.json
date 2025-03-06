@@ -2186,9 +2186,9 @@
           "section_bg_color": "",
           "section_margin_top": "20PX",
           "section_margin_bottom": "",
-          "section_padding_top": "",
+          "section_padding_top": "60PX",
           "section_padding_right": "",
-          "section_padding_bottom": "50PX",
+          "section_padding_bottom": "",
           "section_padding_left": ""
         }
       },
@@ -2227,7 +2227,7 @@
           "background_color": "#ffffff",
           "font_size": 32,
           "padding-top": 20,
-          "padding-bottom": 30
+          "padding-bottom": 40
         }
       }
     },
