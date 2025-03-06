@@ -57,6 +57,8 @@
 {% endschema %}
 
 <style>
+    .{
+    }
   .moving-banner {
     white-space: nowrap;
     box-sizing: border-box;
@@ -95,7 +97,7 @@
         {% if block.settings.image %}
           <img src="{{ block.settings.image | img_url: '50x50' }}" alt="Icon">
         {% endif %}
-        <span>{{ block.settings.text }}</span>
+        <span class="text-slider">{{ block.settings.text }}</span>
       </div>
     {% endfor %}
   </div>
