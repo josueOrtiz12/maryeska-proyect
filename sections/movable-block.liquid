@@ -120,7 +120,7 @@
     {% for block in section.blocks %}
       <div class="moving-banner-item" {{ block.shopify_attributes }}>
         {% if block.settings.image %}
-          <img src="{{ block.settings.image | img_url: '70x70' }}" alt="Icon">
+          <img src="{{ block.settings.image | img_url: '100x1000' }}" alt="Icon">
         {% endif %}
         <span class="text-slider">{{ block.settings.text }}</span>
       </div>
@@ -128,7 +128,7 @@
     {% for block in section.blocks %}
       <div class="moving-banner-item" {{ block.shopify_attributes }}>
         {% if block.settings.image %}
-          <img src="{{ block.settings.image | img_url: '70x70' }}" alt="Icon">
+          <img src="{{ block.settings.image | img_url: '100x1000' }}" alt="Icon">
         {% endif %}
         <span class="text-slider">{{ block.settings.text }}</span>
       </div>
