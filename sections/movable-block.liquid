@@ -1,0 +1,31 @@
+{% schema %}
+{
+  "name": "Movable Block",
+  "settings": [
+    {
+      "type": "text",
+      "id": "text_content",
+      "label": "Text Content",
+      "default": "Editable Text"
+    },
+    {
+      "type": "image_picker",
+      "id": "icon_image",
+      "label": "Icon Image"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Movable Block",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+
+<div id="movable-element" class="movable-element" style="position: absolute; top: 50px; left: 50px; padding: 10px; background-color: #ffcc00; border: 1px solid #000; cursor: move;">
+  {% if section.settings.icon_image %}
+    <img src="{{ section.settings.icon_image | img_url: '50x50' }}" alt="Icon">
+  {% endif %}
+  <p>{{ section.settings.text_content }}</p>
+</div>
