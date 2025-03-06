@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 /*
  * ------------------------------------------------------------
  * IMPORTANT: The contents of this file are auto-generated.
@@ -9,7 +7,6 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
 {
   "sections": {
     "main": {
@@ -23,13 +20,8 @@
         "item_VVxCTL": {
           "type": "item",
           "settings": {
-<<<<<<< HEAD
-            "image": "shopify:\/\/shop_images\/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
-            "title": "<h1>ABOUT ME<\/h1>\n<p>LOREM IPSUM<\/p>",
-=======
             "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
             "title": "<h1>ABOUT ME</h1>\n<p>LOREM IPSUM</p>",
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
             "title_tb": "",
             "title_mb": "",
             "banner_btn_title": "",
@@ -85,21 +77,13 @@
         "image_bGfcUL": {
           "type": "image",
           "settings": {
-<<<<<<< HEAD
-            "block_image_1": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg"
-=======
             "block_image_1": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg"
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
           }
         },
         "text_aaC8k6": {
           "type": "text",
           "settings": {
-<<<<<<< HEAD
-            "text_block": "<div class=\"about-me-container\">\n<p class=\"about-me\">ABOUT ME<\/p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM<\/h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n<\/p>\n<a class=\"read-more\">Leer más<\/a>\n<\/div>"
-=======
             "text_block": "<div class=\"about-me-container\">\n<p class=\"about-me\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n</p>\n<a class=\"read-more\">Leer más</a>\n</div>"
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
           }
         }
       },
@@ -154,11 +138,7 @@
         "grid_width": "12",
         "title": "LOREM IPSUM",
         "sub_title": "ABOUT ME",
-<<<<<<< HEAD
-        "text_after_title": "<div class=\"container-info\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n<br><br>\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n<\/div>",
-=======
         "text_after_title": "<div class=\"container-info\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n<br><br>\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n</div>",
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
         "title_style": "default",
         "title_color": "default",
         "title_size": "default",
@@ -186,11 +166,7 @@
             "hide_medium": false,
             "hide_small": false,
             "hide_extra_small": false,
-<<<<<<< HEAD
-            "image": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
-=======
             "image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
             "banner_content": "",
             "banner_btn_title": "",
             "banner_link": "",
@@ -212,11 +188,7 @@
             "position_text_block": "top",
             "enable_text_block": false,
             "heading": "Heading",
-<<<<<<< HEAD
-            "text_block": "<p>Viverra rutrum fringilla curabitur.<\/p>",
-=======
             "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
             "banner_text_color": "light"
           }
         },
@@ -227,11 +199,7 @@
             "hide_medium": false,
             "hide_small": false,
             "hide_extra_small": false,
-<<<<<<< HEAD
-            "image": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
-=======
             "image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
             "banner_content": "",
             "banner_btn_title": "",
             "banner_link": "",
@@ -253,11 +221,7 @@
             "position_text_block": "top",
             "enable_text_block": false,
             "heading": "Heading",
-<<<<<<< HEAD
-            "text_block": "<p>Viverra rutrum fringilla curabitur.<\/p>",
-=======
             "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
             "banner_text_color": "light"
           }
         },
@@ -268,11 +232,7 @@
             "hide_medium": false,
             "hide_small": false,
             "hide_extra_small": false,
-<<<<<<< HEAD
-            "image": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
-=======
             "image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
             "banner_content": "",
             "banner_btn_title": "",
             "banner_link": "",
@@ -294,11 +254,7 @@
             "position_text_block": "top",
             "enable_text_block": false,
             "heading": "Heading",
-<<<<<<< HEAD
-            "text_block": "<p>Viverra rutrum fringilla curabitur.<\/p>",
-=======
             "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
             "banner_text_color": "light"
           }
         }
@@ -352,11 +308,7 @@
         "image_qGVP4h": {
           "type": "image",
           "settings": {
-<<<<<<< HEAD
-            "block_image": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf_344ce9df-3bbb-44fd-86a5-f3145c3ef23c.webp",
-=======
             "block_image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf_344ce9df-3bbb-44fd-86a5-f3145c3ef23c.webp",
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
             "image_alignment_one": "center",
             "image_style_one": "default"
           }
@@ -396,11 +348,7 @@
         "image_qG8n7D": {
           "type": "image",
           "settings": {
-<<<<<<< HEAD
-            "block_image": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf_344ce9df-3bbb-44fd-86a5-f3145c3ef23c.webp",
-=======
             "block_image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf_344ce9df-3bbb-44fd-86a5-f3145c3ef23c.webp",
->>>>>>> 34da1d5179af6d92384b32a3814f79e218381880
             "image_alignment_one": "center",
             "image_style_one": "default"
           }
@@ -451,6 +399,48 @@
         "section_padding_bottom": "",
         "section_padding_left": ""
       }
+    },
+    "gl_section_blog_yEcMRX": {
+      "type": "gl_section_blog",
+      "custom_css": [
+        "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
+      ],
+      "settings": {
+        "row_stretch": "default",
+        "title": "NEWS",
+        "sub_title": "MI BLOG",
+        "text_after_title": "",
+        "title_style": "default",
+        "title_color": "default",
+        "title_size": "default",
+        "subtitle_font": "default",
+        "title_align": "center",
+        "blog": "noticias",
+        "paginate_index": "3",
+        "use_pagination": "more_btn",
+        "use_eq_height": false,
+        "image_ratio": "ratio1_1",
+        "image_size": "nt_cover",
+        "image_position": "8",
+        "style": "masonry",
+        "columns": "3",
+        "enable_title": "show",
+        "enable_meta": "hide",
+        "enable_text": "show",
+        "enable_button": "show",
+        "enable_post_categories": "hide",
+        "enable_post_date": "show",
+        "section_bg_color": "",
+        "section_border_color": "",
+        "section_border_style": "solid",
+        "section_border": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding_top": "",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
     }
   },
   "order": [
@@ -460,6 +450,7 @@
     "gl_section_title_ngG4fW",
     "gl_section_promo_banner_fLUYnW",
     "gl_section_image_text_6_7UDb9F",
-    "gl_section_image_text_6_4VCpdt"
+    "gl_section_image_text_6_4VCpdt",
+    "gl_section_blog_yEcMRX"
   ]
 }
