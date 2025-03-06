@@ -100,7 +100,7 @@
         {% if block.settings.image %}
           <img src="{{ block.settings.image | img_url: '50x50' }}" alt="Icon">
         {% endif %}
-        <span>{{ block.settings.text }}</span>
+        <span class="text-slider">{{ block.settings.text }}</span>
       </div>
     {% endfor %}
     {% for block in section.blocks %}
