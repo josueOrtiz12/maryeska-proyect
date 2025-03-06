@@ -2198,13 +2198,15 @@
           "text_image_hh4UUJ": {
             "type": "text_image",
             "settings": {
-              "text": "este es otro"
+              "text": "este es otro",
+              "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
             }
           },
           "text_image_wMMgN3": {
             "type": "text_image",
             "settings": {
-              "text": "¡Este es un texto editable!"
+              "text": "¡Este es un texto editable!",
+              "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
             }
           }
         },
