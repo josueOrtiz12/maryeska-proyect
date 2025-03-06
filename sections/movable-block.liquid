@@ -1,31 +1,71 @@
 {% schema %}
 {
-  "name": "Movable Block",
+  "name": "Moving Banner",
   "settings": [
     {
       "type": "text",
-      "id": "text_content",
-      "label": "Text Content",
-      "default": "Editable Text"
+      "id": "banner_text",
+      "label": "Banner Text",
+      "default": "¡Este es un banner en movimiento!"
     },
     {
       "type": "image_picker",
-      "id": "icon_image",
-      "label": "Icon Image"
+      "id": "banner_icon",
+      "label": "Banner Icon"
+    },
+    {
+      "type": "range",
+      "id": "speed",
+      "label": "Animation Speed",
+      "min": 1,
+      "max": 10,
+      "step": 1,
+      "default": 5,
+      "unit": "s"
     }
   ],
   "presets": [
     {
-      "name": "Movable Block",
+      "name": "Moving Banner",
       "category": "Custom"
     }
   ]
 }
 {% endschema %}
 
-<div id="movable-element" class="movable-element" style=" top: 50px; left: 50px; padding: 10px; background-color: #ffcc00; border: 1px solid #000; cursor: move;">
-  {% if section.settings.icon_image %}
-    <img src="{{ section.settings.icon_image | img_url: '50x50' }}" alt="Icon">
-  {% endif %}
-  <p>{{ section.settings.text_content }}</p>
+<style>
+  .moving-banner {
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: #f0f0f0;
+    padding: 10px 0;
+  }
+  .moving-banner-content {
+    display: inline-block;
+    padding-left: 100%;
+    animation: moveBanner {{ section.settings.speed }}s linear infinite;
+  }
+  .moving-banner-content img {
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+  @keyframes moveBanner {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+</style>
+
+<div class="moving-banner">
+  <div class="moving-banner-content">
+    {% if section.settings.banner_icon %}
+      <img src="{{ section.settings.banner_icon | img_url: '50x50' }}" alt="Icon">
+    {% endif %}
+    <span>{{ section.settings.banner_text }}</span>
+  </div>
 </div>
