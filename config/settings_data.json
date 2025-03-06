@@ -2198,20 +2198,28 @@
           "text_image_hh4UUJ": {
             "type": "text_image",
             "settings": {
-              "text": "este es otro",
+              "text": "NEW COLLECTION",
+              "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+            }
+          },
+          "text_image_DDzqG9": {
+            "type": "text_image",
+            "settings": {
+              "text": "NEW COLLECTION",
               "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
             }
           },
           "text_image_wMMgN3": {
             "type": "text_image",
             "settings": {
-              "text": "¡Este es un texto editable!",
+              "text": "NEW COLLECTION",
               "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
             }
           }
         },
         "block_order": [
           "text_image_hh4UUJ",
+          "text_image_DDzqG9",
           "text_image_wMMgN3"
         ],
         "settings": {
