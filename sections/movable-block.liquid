@@ -62,7 +62,7 @@
     overflow: hidden;
     box-sizing: border-box;
     width: 100%;
-    background-color: #f0f0f0;
+    background-color: {{settings.background_color}};
     padding: 10px 0;
     position: relative;
   }
@@ -90,7 +90,7 @@
   }
 </style>
 
-<div class="{{  }}">
+<div class="moving-banner">
   <div class="moving-banner-content">
     {% for block in section.blocks %}
       <div class="moving-banner-item" {{ block.shopify_attributes }}>
