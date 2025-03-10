@@ -54,8 +54,8 @@
       "close_modal": "Cerrar"
     },
     "meta": {
-      "tags": "",
-      "page": ""
+      "tags": "Etiquetado \"{{ tags }}\"",
+      "page": "Página {{ page }}"
     },
     "suggest": {
       "title": "Alguien compró un",
@@ -124,15 +124,15 @@
       }
     },
     "search": {
-      "blog_placeholder": "",
-      "search_submit": "",
-      "select_category": "",
-      "no_products": "",
+      "blog_placeholder": "Buscar publicaciones",
+      "search_submit": "Buscar",
+      "select_category": "Seleccionar categoría",
+      "no_products": "No se encontraron productos",
       "title": "",
-      "no_results_html": "",
-      "search_ajax_results": "",
-      "search_ajax__no_count_results": "",
-      "no_products_page": "",
+      "no_results_html": "Busque en nuestro sitio",
+      "search_ajax_results": "Ver todos los resultados ({{ count }})",
+      "search_ajax__no_count_results": "Ver todos los resultados",
+      "no_products_page": "No se encontraron productos.",
       "results_with_count": {
         "one": "",
         "other": ""
