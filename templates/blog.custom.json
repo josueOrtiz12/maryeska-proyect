@@ -9,8 +9,66 @@
  */
 {
   "sections": {
+    "slideshow_P3PmKH": {
+      "type": "slideshow",
+      "blocks": {
+        "item_GVRDnV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
+            "title": "<h1>BLOG</h1>\n<p>LOREM IPSUM</p>",
+            "title_tb": "",
+            "title_mb": "",
+            "banner_btn_title": "",
+            "banner_link": "",
+            "hide_btn_tablet": false,
+            "hide_btn_mobile": false,
+            "button_color": "white",
+            "button_style": "bordered",
+            "button_size": "default",
+            "banner_alignment": "center",
+            "banner_vertical_alignment": "top",
+            "banner_effect": "default",
+            "banner_content_style": "default",
+            "banner_color": "light",
+            "enable_increase": true
+          }
+        }
+      },
+      "block_order": [
+        "item_GVRDnV"
+      ],
+      "settings": {
+        "row_stretch": "stretch_row_content_no_spaces",
+        "silder_speed": "5000",
+        "dottime": "200",
+        "hide_pagination": true,
+        "hide_button": true,
+        "banner_color": "dark",
+        "slider_loop": false,
+        "autoplay": false,
+        "use_font": false,
+        "font_heading": "josefin_sans_n4",
+        "font_subheading": "josefin_sans_n4",
+        "font_btn": "josefin_sans_n4",
+        "use_custom_img": false,
+        "desktop": "475px",
+        "notebook": "485px",
+        "tablet": "600px",
+        "mobile": "600px",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_margin_left": "",
+        "section_margin_right": "",
+        "section_padding_top": "",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
+    },
     "main": {
       "type": "blog-section-custom",
+      "disabled": true,
       "settings": {}
     },
     "gl_section_blog_DKEfWF": {
@@ -58,6 +116,7 @@
     }
   },
   "order": [
+    "slideshow_P3PmKH",
     "main",
     "gl_section_blog_DKEfWF"
   ]
