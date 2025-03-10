@@ -119,7 +119,7 @@
            <ul class="basel-product-categories">
                {%- case settings.top_categories_source -%}
                   {%- when 'top_categories_show_all' -%}
-                     {%- comment -%}<li class="cat-link shop-all-link{%- if collection.handle == 'all' %} current-cat{%- endif -%}"><a href="/collections/all{%- if check_template_list -%}?&view={{template_suffix}}{%- endif-%}">{{ 'collections.general.title_all' | t }}</a></li>{%- endcomment -%}
+                     <li class="cat-link shop-all-link{%- if collection.handle == 'all' %} current-cat{%- endif -%}"><a href="/collections/all{%- if check_template_list -%}?&view={{template_suffix}}{%- endif-%}">{{ 'collections.general.title_all' | t }}</a></li>
                      {%- for category in collections -%}
                         {%- if category.products.size > 0 and forloop.index < 8 and category.handle != 'all' -%}
                         <li class="cat-item{%- if collection.handle == category.handle %} current-cat{%- endif -%}"><a href="{{ category.url }}{%- if check_template_list -%}?&view={{template_suffix}}{%- endif-%}">{{ category.title }}</a></li>
