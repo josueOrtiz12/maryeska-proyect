@@ -117,7 +117,7 @@
                <h1> {{ collection.title }} </h1>         
             <a href="javascript:baselThemeModule.backHistory()" class="basel-back-btn basel-tooltip"><span class="basel-tooltip-label">Back</span><span>Back</span></a>
            <a href="#" class="basel-show-categories">{{ 'collections.general.categories' | t }}</a>
-           <ul class="basel-product-categories">
+           {% comment %} <ul class="basel-product-categories">
                {%- case settings.top_categories_source -%}
                   {%- when 'top_categories_show_all' -%}
                      <li class="cat-link shop-all-link{%- if collection.handle == 'all' %} current-cat{%- endif -%}"><a href="/collections/all{%- if check_template_list -%}?&view={{template_suffix}}{%- endif-%}">{{ 'collections.general.title_all' | t }}</a></li>
@@ -173,7 +173,7 @@
                               {{ 'homepage.onboarding.no_content' | t }}
                               {%- endfor -%}
                {%- endcase -%}
-           </ul>
+           </ul> {% endcomment %}
         </div>
      </div>
   </div>
