@@ -253,25 +253,25 @@
       "no_matches": "No se encontraron productos que coincidan con su selección.",
       "results_limit": "Mostrando todos los {{count}} resultados",
       "results_with_count": {
-        "zero": "",
-        "other": ""
+        "zero": "Mostrando todos los 0 resultados",
+        "other": "Mostrando {{count}}–{{curent_count}} de {{pr_count}} resultados"
       },
       "items_with_count": {
-        "one": "",
-        "other": ""
+        "one": "{{ count }} producto",
+        "other": "{{ count }} productos"
       }
     },
     "sorting": {
-      "title": "",
-      "show": "",
-      "featured": "",
-      "best_selling": "",
-      "az": "",
-      "za": "",
-      "price_ascending": "",
-      "price_descending": "",
-      "date_descending": "",
-      "date_ascending": ""
+      "title": "Ordenar por",
+      "show": "Mostrar:",
+      "featured": "Presentado",
+      "best_selling": "Los más vendidos",
+      "az": "Alfabéticamente, A-Z",
+      "za": "Alfabéticamente, Z-A",
+      "price_ascending": "Precio, de menor a mayor",
+      "price_descending": "Precio, de mayor a menor",
+      "date_descending": "Fecha, de nueva a antigua",
+      "date_ascending": "Fecha, de antigua a nueva"
     },
     "filters": {
       "filters_title": "Filtros",
