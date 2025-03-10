@@ -10,40 +10,11 @@
 {
   "sections": {
     "main": {
-      "type": "prub",
+      "type": "collection-section-custom",
       "settings": {}
-    },
-    "movable_block_XkLMcE": {
-      "type": "movable-block",
-      "blocks": {
-        "text_image_UinjGh": {
-          "type": "text_image",
-          "settings": {
-            "text": "¡Este es un texto editable!"
-          }
-        },
-        "text_image_6rTttp": {
-          "type": "text_image",
-          "settings": {
-            "text": "¡Este es un texto editable!"
-          }
-        }
-      },
-      "block_order": [
-        "text_image_UinjGh",
-        "text_image_6rTttp"
-      ],
-      "settings": {
-        "speed": 5,
-        "background_color": "#f0f0f0",
-        "font_size": 16,
-        "padding-top": 10,
-        "padding-bottom": 10
-      }
     }
   },
   "order": [
-    "main",
-    "movable_block_XkLMcE"
+    "main"
   ]
 }
