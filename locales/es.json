@@ -299,12 +299,12 @@
       "sign_out": "desconectar",
       "name": "Nombre:",
       "email": "Correo electrónico:",
-      "address": "",
-      "address_2": "",
-      "country": "",
-      "zip": "",
-      "phone": "",
-      "company": ""
+      "address": "DIRECCIÓN:",
+      "address_2": "Dirección 2:",
+      "country": "País:",
+      "zip": "Zip",
+      "phone": "Teléfono:",
+      "company": "Compañía:"
     },
     "activate_account": {
       "title": "",
