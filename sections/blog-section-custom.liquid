@@ -133,9 +133,9 @@
 				</div><!-- .site-content -->
 				{%- if settings.blog_layout != '1' -%}
 				<aside class="sidebar-container {{class_sidebar}} sidebar-{{settings.blog_layout}}" role="complementary">
-	            <div class="sidebar-inner">
+	            {% comment %} <div class="sidebar-inner">
 	               {%- section 'gl_section_sidebar_blog' -%}<!-- .widget-area -->
-	            </div><!-- .sidebar-inner -->
+	            </div><!-- .sidebar-inner --> {% endcomment %}
 	         </aside><!-- .sidebar-container -->
 				{%- endif -%}
 			</div>
