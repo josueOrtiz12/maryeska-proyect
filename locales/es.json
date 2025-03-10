@@ -128,7 +128,7 @@
       "search_submit": "Buscar",
       "select_category": "Seleccionar categoría",
       "no_products": "No se encontraron productos",
-      "title": "",
+      "title": "Busque en nuestro sitio",
       "no_results_html": "Busque en nuestro sitio",
       "search_ajax_results": "Ver todos los resultados ({{ count }})",
       "search_ajax__no_count_results": "Ver todos los resultados",
@@ -137,10 +137,10 @@
         "one": "",
         "other": ""
       },
-      "results_with_collection": "",
-      "placeholder": "",
-      "close_search": "",
-      "submit": ""
+      "results_with_collection": "{{ collection }} Resultados de búsqueda para “{{ terms }}”",
+      "placeholder": "Buscar productos",
+      "close_search": "cerrar",
+      "submit": "Buscar"
     },
     "newsletter_form": {
       "email_placeholder": "Correo electronico",
