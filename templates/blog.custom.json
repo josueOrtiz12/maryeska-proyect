@@ -175,6 +175,99 @@
         "section_padding_bottom": "",
         "section_padding_left": ""
       }
+    },
+    "movable_block_JARYeU": {
+      "type": "movable-block",
+      "blocks": {
+        "text_image_mFdUtx": {
+          "type": "text_image",
+          "settings": {
+            "text": "NEW COLLECTION",
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+          }
+        },
+        "text_image_jqP9ar": {
+          "type": "text_image",
+          "settings": {
+            "text": "NEW COLLECTION",
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+          }
+        },
+        "text_image_i6HP6e": {
+          "type": "text_image",
+          "settings": {
+            "text": "NEW COLLECTION",
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+          }
+        },
+        "text_image_KPLy4m": {
+          "type": "text_image",
+          "settings": {
+            "text": "NEW COLLECTION",
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+          }
+        }
+      },
+      "block_order": [
+        "text_image_mFdUtx",
+        "text_image_jqP9ar",
+        "text_image_i6HP6e",
+        "text_image_KPLy4m"
+      ],
+      "settings": {
+        "speed": 22,
+        "background_color": "#ffffff",
+        "font_size": 32,
+        "padding-top": 20,
+        "padding-bottom": 40
+      }
+    },
+    "gl_instagram_ELFm6x": {
+      "type": "gl_instagram",
+      "settings": {
+        "row_stretch": "stretch_row",
+        "full_height": false,
+        "columns_position": "middle",
+        "equal_height": false,
+        "content_position": "default",
+        "show_title": true,
+        "title": "INSTAGRAM @MARYESKALOPEZ",
+        "style_title": "1",
+        "bg_title": "",
+        "get_by": "1",
+        "username": "southern_blooms",
+        "access_token": "",
+        "limit": "12",
+        "open_link": "_self",
+        "photo_design": "default",
+        "photo_per_row": "6",
+        "spaces_section": false,
+        "rounded_section": false,
+        "image_ratio": "ratio1_1",
+        "image_size": "nt_cover",
+        "image_position": "8",
+        "silder_speed": "5000",
+        "hide_pagination": false,
+        "hide_button": false,
+        "slider_loop": false,
+        "autoplay": false,
+        "style_ins_text": "1",
+        "show_ins_text": false,
+        "overlay_title": "INSTAGRAM",
+        "subtext": "",
+        "button_label": "",
+        "button_link": "",
+        "button_color": "white",
+        "button_style": "bordered",
+        "button_size": "default",
+        "section_bg_color": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding_top": "40PX",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
     }
   },
   "order": [
@@ -182,6 +275,8 @@
     "main",
     "gl_section_blog_DKEfWF",
     "gl_section_title_rhRzmk",
-    "gl_section_product_carousel_KX7Vxi"
+    "gl_section_product_carousel_KX7Vxi",
+    "movable_block_JARYeU",
+    "gl_instagram_ELFm6x"
   ]
 }
