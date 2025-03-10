@@ -1,0 +1,131 @@
+{%- assign gl_portfolio = settings.blog_portfolio -%}
+{%- if blog.handle != gl_portfolio -%}
+{%- if settings.enable_title == 'show' -%}
+   {%- assign enable_title = true -%}
+{%- else -%}
+   {%- assign enable_title = false -%}
+{%- endif -%}
+{%- if settings.enable_meta == 'show' -%}
+   {%- assign enable_meta = true -%}
+{%- else -%}
+   {%- assign enable_meta = false -%}
+{%- endif -%}
+{%- if settings.enable_text == 'show' -%}
+   {%- assign enable_text = true -%}
+{%- else -%}
+   {%- assign enable_text = false -%}
+{%- endif -%}
+{%- if settings.enable_button == 'show' -%}
+   {%- assign enable_button = true -%}
+{%- else -%}
+   {%- assign enable_button = false -%}
+{%- endif -%}
+{%- if settings.enable_post_date == 'show' -%}
+   {%- assign enable_post_date = true -%}
+{%- else -%}
+   {%- assign enable_post_date = false -%}
+{%- endif -%}
+{%- if settings.enable_post_categories == 'show' -%}
+   {%- assign enable_post_categories = true -%}
+{%- else -%}
+   {%- assign enable_post_categories = false -%}
+{%- endif -%}
+    {%- if settings.enable_post_categories == 'show' -%}
+	   {%- assign enable_post_categories = true -%}
+	{%- else -%}
+	   {%- assign enable_post_categories = false -%}
+	{%- endif -%}
+	{%- assign gl_blog_title = 'blogs.blog.blog_title_html' | t:blog_title:blog.title -%}
+	{%- assign number_articles_per_grid_page = settings.articles_per_grid_page | plus:0 -%}
+	{%- case settings.blog_columns -%}
+	    {%- when '1' -%}
+	      {%- assign gl_colum_width = 'col-xs-12 col-sm-4 col-md-12' -%} 
+	      {%- assign image_size = '1140x' -%}
+	    {%- when '2' -%}
+	      {%- assign gl_colum_width = 'col-xs-12 col-sm-4 col-md-6' -%}
+	      {%- assign image_size = '557x' -%}
+	    {%- when '3' -%}
+	      {%- assign gl_colum_width = 'col-xs-12 col-sm-4 col-md-4' -%}
+	      {%- assign image_size = '362x' -%}
+	    {%- when '4' -%}
+	      {%- assign gl_colum_width = 'col-xs-12 col-sm-4 col-md-3' -%}
+	      {%- assign image_size = '265x' -%}
+	   {%- when '6' -%}
+	      {%- assign gl_colum_width = 'col-xs-12 col-sm-4 col-md-2' -%}
+	      {%- assign image_size = '167x' -%}
+	{%- endcase -%}
+	{%- assign enable_title = true -%}
+	{%- assign enable_meta = true -%}
+	{%- assign enable_text = true -%}
+	
+	{%- assign _posts_excerpt_length = settings.posts_excerpt_length | plus:0 -%}
+   {%- assign posts_excerpt_length = _posts_excerpt_length | default: 19 -%}
+	{%- if settings.blog_layout == 'left' -%}
+	   {%- case settings.blog_size_sidebar -%}
+	     {% when '1' %}
+	       {%- assign class_gl = 'col-sm-10 col-sm-push-2' -%}
+	       {%- assign class_sidebar = 'col-sm-2 col-sm-pull-10' -%}
+	     {% when '2' %}
+	       {%- assign class_gl = 'col-sm-9 col-sm-push-3' -%}
+	       {%- assign class_sidebar = 'col-sm-3 col-sm-pull-9' -%}
+	     {% when '3' %}
+	       {%- assign class_gl = 'col-sm-8 col-sm-push-4' -%}
+	       {%- assign class_sidebar = 'col-sm-4 col-sm-pull-8' -%}
+	   {%- endcase -%}
+	{%- elsif settings.blog_layout == 'right' -%}
+	   {%- case settings.blog_size_sidebar -%}
+	     {% when '1' %}
+	       {%- assign class_gl = 'col-sm-10' -%}
+	       {%- assign class_sidebar = 'col-sm-2' -%}
+	     {% when '2' %}
+	       {%- assign class_gl = 'col-sm-9' -%}
+	       {%- assign class_sidebar = 'col-sm-3' -%}
+	     {% when '3' %}
+	       {%- assign class_gl = 'col-sm-8' -%}
+	       {%- assign class_sidebar = 'col-sm-4' -%}
+	   {%- endcase -%}
+	{%- else -%}
+	   {%- assign class_gl = 'col-sm-12' -%}
+	{%- endif -%}
+	{%- case settings.blog_design -%}
+	    {%- when '1' -%}
+	      {%- assign gl_include = 'section_loop_blog_default' -%} 
+	    {%- when '2' -%}
+	      {%- assign gl_include = 'section_loop_blog_default_alt' -%}
+	    {%- when '3' -%}
+	      {%- assign gl_include = 'section_loop_blog_small_images' -%}
+	   {%- when '4' -%}
+	      {%- assign gl_include = 'section_loop_blog_masonry' -%}
+	   {%- when '5' -%}
+	      {%- assign gl_include = 'section_loop_blog_mask' -%}
+	{%- endcase -%}
+	<div class="main-page-wrapper">
+		{%- include 'page_heading', page_title:gl_blog_title -%}
+		<!-- MAIN CONTENT AREA -->
+	</div>
+{%- else -%}
+	<div class="main-page-wrapper">
+		{%- assign number_projects_per_grid_page = settings.projects_per_page | plus:0 -%}
+		{%- case settings.projects_columns -%}
+		    {%- when '2' -%}
+		      {%- assign gl_colum_width = 'col-xs-12 col-sm-4 col-md-6' -%}
+		    {%- when '3' -%}
+		      {%- assign gl_colum_width = 'col-xs-12 col-sm-4 col-md-4' -%}
+		    {%- when '4' -%}
+		      {%- assign gl_colum_width = 'col-xs-12 col-sm-4 col-md-3' -%}
+		   {%- when '6' -%}
+		      {%- assign gl_colum_width = 'col-xs-12 col-sm-4 col-md-2' -%}
+		{%- endcase -%}
+		{%- assign _array_tag = '' -%}
+		{%- include 'page_heading', blog_portfolio:true -%}
+		<!-- MAIN CONTENT AREA -->
+      
+		{%- paginate blog.articles by number_projects_per_grid_page -%}
+		<div class="container">
+			<div class="row">
+				
+			</div>
+		</div>
+		{%- endpaginate -%}
+	</div>
+{%- endif -%}

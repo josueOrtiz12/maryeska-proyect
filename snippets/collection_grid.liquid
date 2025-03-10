@@ -114,12 +114,14 @@
   <div class="page-title page-title-default title-size-{{settings.collection_title_size}} color-scheme-{{settings.collection_title_color}} title-design-centered without-title title-shop"{%- if settings.use_specify_image and collection.image %} style="{%- assign image = collection.image -%}{%- assign image_width = image.width | append:'x' -%}background-image: url({%-include 'gl_image_format',src: image , size: image_width -%})"{%- endif -%}>
      <div class="container">
         <div class="nav-shop">
+               <h1 class="page-title-inner"> {{ collection.title }} </h1>
+               <p class="page-subtitle"> {{ collection.description }} </p>         
             <a href="javascript:baselThemeModule.backHistory()" class="basel-back-btn basel-tooltip"><span class="basel-tooltip-label">Back</span><span>Back</span></a>
            <a href="#" class="basel-show-categories">{{ 'collections.general.categories' | t }}</a>
-           <ul class="basel-product-categories">
+           {% comment %} <ul class="basel-product-categories">
                {%- case settings.top_categories_source -%}
                   {%- when 'top_categories_show_all' -%}
-                     {%- comment -%}<li class="cat-link shop-all-link{%- if collection.handle == 'all' %} current-cat{%- endif -%}"><a href="/collections/all{%- if check_template_list -%}?&view={{template_suffix}}{%- endif-%}">{{ 'collections.general.title_all' | t }}</a></li>{%- endcomment -%}
+                     <li class="cat-link shop-all-link{%- if collection.handle == 'all' %} current-cat{%- endif -%}"><a href="/collections/all{%- if check_template_list -%}?&view={{template_suffix}}{%- endif-%}">{{ 'collections.general.title_all' | t }}</a></li>
                      {%- for category in collections -%}
                         {%- if category.products.size > 0 and forloop.index < 8 and category.handle != 'all' -%}
                         <li class="cat-item{%- if collection.handle == category.handle %} current-cat{%- endif -%}"><a href="{{ category.url }}{%- if check_template_list -%}?&view={{template_suffix}}{%- endif-%}">{{ category.title }}</a></li>
@@ -172,7 +174,7 @@
                               {{ 'homepage.onboarding.no_content' | t }}
                               {%- endfor -%}
                {%- endcase -%}
-           </ul>
+           </ul> {% endcomment %}
         </div>
      </div>
   </div>
@@ -181,7 +183,7 @@
       <div class="row">
          <div class="site-content {{class_gl}}" role="main">
          {%- paginate collection.products by limit -%}
-            {%- if settings.use_promo_banner_collection -%}{%- section 'promo_banner_collection' -%}{%- endif -%}
+            {% comment %} {%- if settings.use_promo_banner_collection -%}{%- section 'promo_banner_collection' -%}{%- endif -%} {% endcomment %}
             {%- if collection.description != blank and settings.show_des_collection -%}<div class="term-description promo-banner text-center" id="des_{{collection.id}}"><h2>{{collection.title}}</h2>{{collection.description}}</div>{%- endif -%}
             <div class="shop-loop-head">
                <nav class="shopify-breadcrumb"><a href="/">{{ 'general.breadcrumbs.home' | t }}</a><span class="breadcrumb-last"> {{collection.title | capitalize}}</span></nav>
@@ -222,7 +224,7 @@
                </form>
                {%- endif -%}
             </div>
-            {%- if settings.shop_filters %}{%- section 'gl_filter_area' -%}{%- endif -%}
+            {% comment %} {%- if settings.shop_filters %}{%- section 'gl_filter_area' -%}{%- endif -%} {% endcomment %}
             <!-- .filters-area -->
             {%- if current_tags.size > 0 -%}
                <div class="basel-active-filters">

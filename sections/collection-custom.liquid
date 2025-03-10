@@ -1,0 +1,86 @@
+<div class="collection-custom">
+    <h2>{{ section.settings.title }}</h2>
+    <p>{{ section.settings.description }}</p>
+  
+    <div class="product-grid">
+      {% for product in collection.products %}
+        <div class="product-item">
+          <a href="{{ product.url }}">
+            <img src="{{ product.featured_image | img_url: 'medium' }}" alt="{{ product.featured_image.alt }}">
+            <h3>{{ product.title }}</h3>
+            <p>{{ product.price | money }}</p>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  
+  {% schema %}
+  {
+    "name": "Colección personalizada",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Título de la sección",
+        "default": "Nuestra colección especial"
+      },
+      {
+        "type": "textarea",
+        "id": "description",
+        "label": "Descripción de la sección",
+        "default": "Aquí encontrarás una selección de nuestros mejores productos."
+      },
+          {
+              "type": "image_picker",
+              "id": "image",
+              "label": "Imagen de la sección"
+          },
+          {
+              "type": "color",
+              "id": "background_color",
+              "label": "Color de fondo",
+              "default": "#ffffff"
+          }
+    ],
+    "blocks": [
+      {
+        "type": "product",
+        "name": "Producto",
+      },
+          {
+              "type": "text",
+              "name": "Texto",
+              "settings": [
+                  {
+                      "type": "text",
+                      "id": "title",
+                      "label": "Titulo del bloque"
+                  },
+                  {
+                      "type": "textarea",
+                      "id": "text",
+                      "label": "Texto del bloque"
+                  }
+              ]
+          },
+          {
+              "type": "image",
+              "name": "Imagen",
+              "settings": [
+                  {
+                      "type": "image_picker",
+                      "id": "image",
+                      "label": "Imagen del bloque"
+                  }
+              ]
+          }
+    ],
+    "presets": [
+      {
+        "name": "Colección personalizada",
+        "category": "Colección"
+      }
+    ]
+  }
+  {% endschema %}
