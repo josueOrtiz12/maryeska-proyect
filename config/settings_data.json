@@ -1080,7 +1080,7 @@
             "settings": {
               "title": "Blog",
               "icon": "",
-              "button_link": "",
+              "button_link": "shopify://blogs/noticias",
               "label": "",
               "color": "#ffffff"
             }
