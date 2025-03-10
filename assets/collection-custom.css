@@ -4,3 +4,10 @@
 .page-title {
     min-height: 352px;
 }
+
+
+
+
+h2.page-title-inner {
+    padding-top: 13%;
+}
