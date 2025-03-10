@@ -23,115 +23,115 @@
       "browse_Wishlist": "Explorar lista de deseos",
       "compare": "Comparar",
       "quick_view": "Vista rápida",
-      "select_options": "",
-      "read_more": "",
-      "view": "",
-      "add_to_cart": "",
-      "facebook": "",
-      "twitter": "",
-      "google": "",
-      "email": "",
-      "pinterest": "",
-      "tumblr": "",
-      "instagram": "",
-      "youtube": "",
-      "vimeo": "",
-      "snapchat": ""
+      "select_options": "Seleccionar opciones",
+      "read_more": "Leer más",
+      "view": "Ver productos",
+      "add_to_cart": "Añadir al carrito",
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "google": "Google",
+      "email": "Correo electrónico",
+      "pinterest": "Pinterest",
+      "tumblr": "Tumblr",
+      "instagram": "Instagram",
+      "youtube": "Youtube",
+      "vimeo": "Vimeo",
+      "snapchat": "Snapchat"
     }
   },
   "general": {
     "accessibility": {
-      "skip_to_content": "",
-      "close_modal": ""
+      "skip_to_content": "Saltar al contenido",
+      "close_modal": "Cerrar"
     },
     "meta": {
-      "tags": "",
-      "page": ""
+      "tags": "Etiquetado \"{{ tags }}\"",
+      "page": "Página {{ page }}"
     },
     "suggest": {
-      "title": "",
-      "minutes_ago": "",
-      "washington": "",
-      "from": ""
+      "title": "Alguien compró un",
+      "minutes_ago": "Hace minutos",
+      "washington": "Washington",
+      "from": "De"
     },
     "login_popup": {
-      "title": "",
-      "close": "",
-      "account_text": "",
-      "register": "",
-      "login": ""
+      "title": "Iniciar sesión",
+      "close": "Cerrar",
+      "account_text": "¿Aún no tienes cuenta?",
+      "register": "Crear una cuenta",
+      "login": "Acceso"
     },
     "settings": {
-      "settings": "",
-      "currency": "",
-      "language": ""
+      "settings": "Ajustes",
+      "currency": "Divisa",
+      "language": "Idioma"
     },
     "shipping_threshold": {
-      "spend": "",
-      "more": "",
-      "free": "",
-      "days": "",
-      "continue": "",
-      "add_more": "",
-      "congratulations": ""
+      "spend": "Gastar",
+      "more": "Más",
+      "free": "Envío gratis",
+      "days": "7 - 10 días laborables",
+      "continue": "Seguir comprando",
+      "add_more": "para agregar más productos a tu carrito y recibir envío gratis en pedidos superiores a",
+      "congratulations": "¡Felicitaciones! ¡Tienes envío gratis!"
     },
     "cookiespopup": {
-      "accept": "",
-      "more": ""
+      "accept": "Aceptar",
+      "more": "Más"
     },
     "breadcrumbs": {
-      "home": ""
+      "home": "Home"
     },
     "404": {
-      "header_title": "",
-      "title": "",
-      "sub_text": ""
+      "header_title": "Extraviado",
+      "title": "Esto es un poco embarazoso, ¿no?",
+      "sub_text": "Parece que no se encontró nada en esta ubicación. ¿Quizás podrías intentar realizar una búsqueda?"
     },
     "pagination": {
-      "previous": "",
-      "next": "",
-      "current_page": ""
+      "previous": "Anterior",
+      "next": "Siguiente",
+      "current_page": "Página {{ current }} de {{ total }}"
     },
     "password_page": {
-      "opening_soon": "",
-      "login_form_heading": "",
-      "login_form_password_label": "",
-      "login_form_password_placeholder": "",
-      "login_form_submit": "",
-      "signup_form_email_label": "",
-      "signup_form_success": "",
-      "admin_link_html": "",
-      "password_link": "",
-      "powered_by_shopify_html": ""
+      "opening_soon": "Próxima apertura",
+      "login_form_heading": "Entrar a la tienda usando contraseña",
+      "login_form_password_label": "contraseña",
+      "login_form_password_placeholder": "tu contraseña",
+      "login_form_submit": "Ingresar",
+      "signup_form_email_label": "correo electrónico",
+      "signup_form_success": "¡Te enviaremos un correo electrónico justo antes de abrir!",
+      "admin_link_html": "¿Es usted el propietario de la tienda? <a href=\/admin >Inicie sesión aquí<\/a>",
+      "password_link": "Entrar usando contraseña",
+      "powered_by_shopify_html": "Esta tienda estará impulsada por {{ shopify }}"
     },
     "social": {
-      "share_on_facebook": "",
-      "share_on_twitter": "",
-      "share_on_pinterest": "",
+      "share_on_facebook": "Share ",
+      "share_on_twitter": "twitter",
+      "share_on_pinterest": "pinterest",
       "alt_text": {
-        "share_on_facebook": "",
-        "share_on_twitter": "",
-        "share_on_pinterest": ""
+        "share_on_facebook": "Share on facebook",
+        "share_on_twitter": "Share on twitter",
+        "share_on_pinterest": "Share on pinterest"
       }
     },
     "search": {
-      "blog_placeholder": "",
-      "search_submit": "",
-      "select_category": "",
-      "no_products": "",
-      "title": "",
-      "no_results_html": "",
-      "search_ajax_results": "",
-      "search_ajax__no_count_results": "",
-      "no_products_page": "",
+      "blog_placeholder": "Buscar publicaciones",
+      "search_submit": "Buscar",
+      "select_category": "Seleccionar categoría",
+      "no_products": "No se encontraron productos",
+      "title": "Busque en nuestro sitio",
+      "no_results_html": "Busque en nuestro sitio",
+      "search_ajax_results": "Ver todos los resultados ({{ count }})",
+      "search_ajax__no_count_results": "Ver todos los resultados",
+      "no_products_page": "No se encontraron productos.",
       "results_with_count": {
-        "one": "",
-        "other": ""
+        "one": "{{ count }} resultado para “{{ terms }}”",
+        "other": "{{ count }} resultados para “{{ terms }}”"
       },
-      "results_with_collection": "",
-      "placeholder": "",
-      "close_search": "",
-      "submit": ""
+      "results_with_collection": "{{ collection }} Resultados de búsqueda para “{{ terms }}”",
+      "placeholder": "Buscar productos",
+      "close_search": "cerrar",
+      "submit": "Buscar"
     },
     "newsletter_form": {
       "email_placeholder": "Correo electronico",
@@ -140,170 +140,170 @@
       "subscribing": "Suscribiendo"
     },
     "filters": {
-      "show_more": "",
-      "show_less": ""
+      "show_more": "Cargar más",
+      "show_less": "Mostrar menos"
     }
   },
   "blogs": {
     "section": {
-      "load_more": ""
+      "load_more": "Cargar más publicaciones"
     },
     "blog": {
-      "blog_title_html": "",
-      "breadcrumbs_article": ""
+      "blog_title_html": "Archivo por categoría \"{{ blog_title }}\"",
+      "breadcrumbs_article": "Blog"
     },
     "article": {
-      "posted_by": "",
-      "read_more": "",
-      "prev_post": "",
-      "next_post": ""
+      "posted_by": "por",
+      "read_more": "Leer más",
+      "prev_post": "Publicación anterior",
+      "next_post": "Siguiente publicación"
     },
     "portfolio": {
-      "project": "",
-      "filter_all": "",
-      "categories": "",
-      "clients": ""
+      "project": "Proyecto",
+      "filter_all": "todo",
+      "categories": "Categorías",
+      "clients": "Clientes"
     },
     "comments": {
-      "title_leave": "",
-      "title_reply": "",
-      "comments_title_html": "",
-      "comments_note": "",
-      "Logged": "",
-      "logout": "",
-      "says": "",
-      "name": "",
-      "email": "",
-      "message": "",
-      "post": "",
-      "moderated": "",
-      "success_moderated": "",
-      "success": "",
+      "title_leave": "Deja un comentario",
+      "title_reply": "Deja una respuesta",
+      "comments_title_html": "en “<span>{{article_title}}<\/span>”",
+      "comments_note": "Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados.",
+      "Logged": "Inició sesión como {{gl_customer}}",
+      "logout": "¿Finalizar la sesión?",
+      "says": "dice:",
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "message": "Comentario",
+      "post": "Publicar comentario",
+      "moderated": "Tenga en cuenta que los comentarios deben ser aprobados antes de ser publicados.",
+      "success_moderated": "Tu comentario se ha publicado correctamente. Lo publicaremos en breve, ya que nuestro blog está moderado.",
+      "success": "¡Tu comentario se ha publicado correctamente! ¡Gracias!",
       "with_count": {
-        "zero": "",
-        "one": "",
-        "other": ""
+        "zero": "0 comentarios",
+        "one": "1 comentario",
+        "other": "{{ count }} comentarios"
       },
       "with_count_comments": {
-        "zero": "",
-        "one": "",
-        "other": ""
+        "zero": "Cero pensamiento",
+        "one": "Un pensamiento",
+        "other": "{{ count }} pensamientos"
       }
     }
   },
   "cart": {
     "general": {
-      "title": "",
-      "total_title": "",
-      "note": "",
-      "clear": "",
-      "shipping": "",
-      "remove": "",
-      "subtotal": "",
-      "savings": "",
-      "shipping_at_checkout": "",
-      "conditions": "",
-      "link_conditions_html": "",
-      "link_conditions_emty": "",
-      "update": "",
-      "view_cart": "",
-      "checkout": "",
-      "proceed_checkout": "",
-      "empty": "",
-      "total": "",
-      "edit": "",
-      "cancel": "",
-      "empty_page": "",
-      "coupon": "",
-      "placeholder_coupon": "",
-      "guest_note_html": "",
-      "continue_shopping": ""
+      "title": "Carrito",
+      "total_title": "totales del carrito",
+      "note": "instrucciones especiales para el vendedor",
+      "clear": "Limpiar carrito",
+      "shipping": "Envío",
+      "remove": "Eliminar este artículo",
+      "subtotal": "Subtotal:",
+      "savings": "Estas ahorrando",
+      "shipping_at_checkout": "Gastos de envío e impuestos calculados al finalizar la compra",
+      "conditions": "Debes aceptar los términos y condiciones de venta para realizar el pago.",
+      "link_conditions_html": "Estoy de acuerdo con los <a href=\"{{link}}\" class=\"text-link\">términos y condiciones<\/a>.",
+      "link_conditions_emty": "Estoy de acuerdo con los términos y condiciones.",
+      "update": "Actualizar carrito",
+      "view_cart": "Ver carrito",
+      "checkout": "Checkout",
+      "proceed_checkout": "Proceder al pago",
+      "empty": "No hay productos en el carrito.",
+      "total": "Total",
+      "edit": "Editar",
+      "cancel": "Cancel",
+      "empty_page": "El carrito de juguetes está vacío actualmente.",
+      "coupon": "Cupón",
+      "placeholder_coupon": "Código de cupón por ejemplo: SALE10",
+      "guest_note_html": "Antes de proceder al pago debes añadir algunos productos a tu carrito de compras.<br \/> Encontrarás muchos productos interesantes en nuestra página &quot;Tienda&quot;.",
+      "continue_shopping": "Volver a la tienda"
     },
     "cart_popup": {
-      "title": "",
-      "related_title": "",
-      "remove": "",
-      "undo": ""
+      "title": "Su pedido",
+      "related_title": "También te puede interesar",
+      "remove": "Eliminado del carrito",
+      "undo": "¿Deshacer?"
     },
     "widget": {
-      "title": "",
-      "close": ""
+      "title": "Carrito",
+      "close": "cerca"
     },
     "page": {
-      "product": "",
-      "price": "",
-      "quantity": "",
-      "total": ""
+      "product": "Producto",
+      "price": "Precio",
+      "quantity": "Cantidad",
+      "total": "Total"
     }
   },
   "collections": {
     "general": {
-      "categories": "",
-      "title_all": "",
-      "other": "",
-      "no_matches": "",
-      "results_limit": "",
+      "categories": "Categorías",
+      "title_all": "todo",
+      "other": "Otro",
+      "no_matches": "No se encontraron productos que coincidan con su selección.",
+      "results_limit": "Mostrando todos los {{count}} resultados",
       "results_with_count": {
-        "zero": "",
-        "other": ""
+        "zero": "Mostrando todos los 0 resultados",
+        "other": "Mostrando {{count}}–{{curent_count}} de {{pr_count}} resultados"
       },
       "items_with_count": {
-        "one": "",
-        "other": ""
+        "one": "{{ count }} producto",
+        "other": "{{ count }} productos"
       }
     },
     "sorting": {
-      "title": "",
-      "show": "",
-      "featured": "",
-      "best_selling": "",
-      "az": "",
-      "za": "",
-      "price_ascending": "",
-      "price_descending": "",
-      "date_descending": "",
-      "date_ascending": ""
+      "title": "Ordenar por",
+      "show": "Mostrar:",
+      "featured": "Presentado",
+      "best_selling": "Los más vendidos",
+      "az": "Alfabéticamente, A-Z",
+      "za": "Alfabéticamente, Z-A",
+      "price_ascending": "Precio, de menor a mayor",
+      "price_descending": "Precio, de mayor a menor",
+      "date_descending": "Fecha, de nueva a antigua",
+      "date_ascending": "Fecha, de antigua a nueva"
     },
     "filters": {
-      "filters_title": "",
-      "all_reset": ""
+      "filters_title": "Filtros",
+      "all_reset": "Restablecer todos los filtros"
     }
   },
   "contact": {
     "form": {
-      "name": "",
-      "email": "",
-      "phone": "",
-      "message": "",
-      "submit": "",
-      "post_success": ""
+      "name": "Su nombre",
+      "email": "Su correo electrónico (requerido)",
+      "phone": "Tu número de teléfono",
+      "message": "Tu mensaje",
+      "submit": "ENVIAR UN MENSAJE",
+      "post_success": "Gracias por contactarnos. Nos pondremos en contacto con usted lo antes posible."
     }
   },
   "customer": {
     "account": {
-      "hello": "",
-      "title": "",
-      "dashboard": "",
-      "wishlist": "",
-      "details": "",
-      "log_out": "",
-      "sign_out": "",
-      "name": "",
-      "email": "",
-      "address": "",
-      "address_2": "",
-      "country": "",
-      "zip": "",
-      "phone": "",
-      "company": ""
+      "hello": "Hola",
+      "title": "Mi cuenta",
+      "dashboard": "Panel",
+      "wishlist": "Lista de deseos",
+      "details": "Detalles de la cuenta :",
+      "log_out": "Cerrar sesión",
+      "sign_out": "desconectar",
+      "name": "Nombre:",
+      "email": "Correo electrónico:",
+      "address": "DIRECCIÓN:",
+      "address_2": "Dirección 2:",
+      "country": "País:",
+      "zip": "Zip",
+      "phone": "Teléfono:",
+      "company": "Compañía:"
     },
     "activate_account": {
-      "title": "",
-      "subtext": "",
-      "password": "",
-      "password_confirm": "",
-      "submit": "",
-      "cancel": ""
+      "title": "Activar cuenta",
+      "subtext": "Crea tu contraseña para activar tu cuenta.",
+      "password": "Contraseña",
+      "password_confirm": "confirmar Contraseña",
+      "submit": "Activar cuenta",
+      "cancel": "Rechazar invitación"
     },
     "addresses": {
       "infor": "",

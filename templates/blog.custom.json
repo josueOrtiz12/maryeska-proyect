@@ -1,12 +1,273 @@
 {
-    "sections": {
-      "main": {
-        "type": "blog-section-custom",
-        "settings": {}
+  "sections": {
+    "slideshow_P3PmKH": {
+      "type": "slideshow",
+      "blocks": {
+        "item_GVRDnV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
+            "title": "<h1>BLOG<\/h1>\n<p>LOREM IPSUM<\/p>",
+            "title_tb": "",
+            "title_mb": "",
+            "banner_btn_title": "",
+            "banner_link": "",
+            "hide_btn_tablet": false,
+            "hide_btn_mobile": false,
+            "button_color": "white",
+            "button_style": "bordered",
+            "button_size": "default",
+            "banner_alignment": "center",
+            "banner_vertical_alignment": "top",
+            "banner_effect": "default",
+            "banner_content_style": "default",
+            "banner_color": "light",
+            "enable_increase": true
+          }
+        }
+      },
+      "block_order": [
+        "item_GVRDnV"
+      ],
+      "settings": {
+        "row_stretch": "stretch_row_content_no_spaces",
+        "silder_speed": "5000",
+        "dottime": "200",
+        "hide_pagination": true,
+        "hide_button": true,
+        "banner_color": "dark",
+        "slider_loop": false,
+        "autoplay": false,
+        "use_font": false,
+        "font_heading": "josefin_sans_n4",
+        "font_subheading": "josefin_sans_n4",
+        "font_btn": "josefin_sans_n4",
+        "use_custom_img": false,
+        "desktop": "475px",
+        "notebook": "485px",
+        "tablet": "600px",
+        "mobile": "600px",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_margin_left": "",
+        "section_margin_right": "",
+        "section_padding_top": "",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
       }
     },
-    "order": [
-      "main"
-    ]
-  }
-  
+    "main": {
+      "type": "blog-section-custom",
+      "disabled": true,
+      "settings": {}
+    },
+    "gl_section_blog_DKEfWF": {
+      "type": "gl_section_blog",
+      "custom_css": [
+        "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}",
+        ".equal-nt.ratio1_1 [class*=\"lazyload\"]:before {padding-top: 65%;}"
+      ],
+      "settings": {
+        "row_stretch": "stretch_row",
+        "title": "NEWS",
+        "sub_title": "MI BLOG",
+        "text_after_title": "",
+        "title_style": "default",
+        "title_color": "default",
+        "title_size": "default",
+        "subtitle_font": "default",
+        "title_align": "center",
+        "blog": "noticias",
+        "paginate_index": "3",
+        "use_pagination": "more_btn",
+        "use_eq_height": true,
+        "image_ratio": "ratio1_1",
+        "image_size": "nt_cover",
+        "image_position": "8",
+        "style": "masonry",
+        "columns": "3",
+        "enable_title": "show",
+        "enable_meta": "hide",
+        "enable_text": "show",
+        "enable_button": "show",
+        "enable_post_categories": "hide",
+        "enable_post_date": "show",
+        "section_bg_color": "",
+        "section_border_color": "",
+        "section_border_style": "solid",
+        "section_border": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding_top": "0px",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
+    },
+    "gl_section_title_rhRzmk": {
+      "type": "gl_section_title",
+      "custom_css": [
+        "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
+      ],
+      "settings": {
+        "row_stretch": "default",
+        "grid_width": "12",
+        "title": "MI TIENDA",
+        "sub_title": "SHOP",
+        "text_after_title": "",
+        "title_style": "default",
+        "title_color": "default",
+        "title_size": "default",
+        "subtitle_font": "default",
+        "title_align": "center",
+        "section_bg_color": "#f7f7f7",
+        "section_border_color": "",
+        "section_border_style": "solid",
+        "section_border": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding_top": "",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
+    },
+    "gl_section_product_carousel_KX7Vxi": {
+      "type": "gl_section_product_carousel",
+      "custom_css": [
+        ".gl_column-inner {padding-top: 0px !important;}"
+      ],
+      "settings": {
+        "row_stretch": "stretch_row",
+        "home_featured_products": "",
+        "paginate_index": "5",
+        "silder_speed": "5000",
+        "silder_per_view": "4",
+        "hide_pagination": true,
+        "hide_button": false,
+        "slider_loop": false,
+        "autoplay": false,
+        "products_hover": "quick",
+        "sale_countdown": false,
+        "countdown_style": "dark",
+        "use_eq_height": false,
+        "image_ratio": "ratio_nt",
+        "image_size": "nt_cover",
+        "image_position": "8",
+        "section_bg_color": "#f7f7f7",
+        "section_border_color": "",
+        "section_border_style": "solid",
+        "section_border": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding_top": "0px",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
+    },
+    "movable_block_JARYeU": {
+      "type": "movable-block",
+      "blocks": {
+        "text_image_mFdUtx": {
+          "type": "text_image",
+          "settings": {
+            "text": "NEW COLLECTION",
+            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+          }
+        },
+        "text_image_jqP9ar": {
+          "type": "text_image",
+          "settings": {
+            "text": "NEW COLLECTION",
+            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+          }
+        },
+        "text_image_i6HP6e": {
+          "type": "text_image",
+          "settings": {
+            "text": "NEW COLLECTION",
+            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+          }
+        },
+        "text_image_KPLy4m": {
+          "type": "text_image",
+          "settings": {
+            "text": "NEW COLLECTION",
+            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+          }
+        }
+      },
+      "block_order": [
+        "text_image_mFdUtx",
+        "text_image_jqP9ar",
+        "text_image_i6HP6e",
+        "text_image_KPLy4m"
+      ],
+      "settings": {
+        "speed": 22,
+        "background_color": "#ffffff",
+        "font_size": 32,
+        "padding-top": 20,
+        "padding-bottom": 40
+      }
+    },
+    "gl_instagram_ELFm6x": {
+      "type": "gl_instagram",
+      "settings": {
+        "row_stretch": "stretch_row",
+        "full_height": false,
+        "columns_position": "middle",
+        "equal_height": false,
+        "content_position": "default",
+        "show_title": true,
+        "title": "INSTAGRAM @MARYESKALOPEZ",
+        "style_title": "1",
+        "bg_title": "",
+        "get_by": "1",
+        "username": "southern_blooms",
+        "access_token": "",
+        "limit": "12",
+        "open_link": "_self",
+        "photo_design": "default",
+        "photo_per_row": "6",
+        "spaces_section": false,
+        "rounded_section": false,
+        "image_ratio": "ratio1_1",
+        "image_size": "nt_cover",
+        "image_position": "8",
+        "silder_speed": "5000",
+        "hide_pagination": false,
+        "hide_button": false,
+        "slider_loop": false,
+        "autoplay": false,
+        "style_ins_text": "1",
+        "show_ins_text": false,
+        "overlay_title": "INSTAGRAM",
+        "subtext": "",
+        "button_label": "",
+        "button_link": "",
+        "button_color": "white",
+        "button_style": "bordered",
+        "button_size": "default",
+        "section_bg_color": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding_top": "40PX",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow_P3PmKH",
+    "main",
+    "gl_section_blog_DKEfWF",
+    "gl_section_title_rhRzmk",
+    "gl_section_product_carousel_KX7Vxi",
+    "movable_block_JARYeU",
+    "gl_instagram_ELFm6x"
+  ]
+}
