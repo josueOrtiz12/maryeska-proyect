@@ -5,7 +5,9 @@
     min-height: 352px;
 }
 
-
+.header-spacing {
+    margin-bottom: 7 !important;
+}
 
 @media only screen and (max-width: 620px) and (min-width: 5px) {
 
