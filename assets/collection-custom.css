@@ -12,10 +12,13 @@
 @media only screen and (max-width: 620px) and (min-width: 5px) {
 
     h2.page-title-inner {
-        padding-top: 13%;
+        padding-top: 13% !important; 
     }
     .page-title {
-        min-height: 151px;
+        min-height: 151px !important;
+    }
+    p.page-subtitle {
+        margin-bottom: 0px !important;
     }
 }
 
