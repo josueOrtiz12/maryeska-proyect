@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "close_quick_shop": "Cerrar",
@@ -41,8 +50,8 @@
   },
   "general": {
     "accessibility": {
-      "skip_to_content": "",
-      "close_modal": ""
+      "skip_to_content": "Saltar al contenido",
+      "close_modal": "Cerrar"
     },
     "meta": {
       "tags": "",
@@ -50,40 +59,40 @@
     },
     "suggest": {
       "title": "",
-      "minutes_ago": "",
-      "washington": "",
-      "from": ""
+      "minutes_ago": "Hace minutos",
+      "washington": "Washington",
+      "from": "De"
     },
     "login_popup": {
-      "title": "",
-      "close": "",
-      "account_text": "",
-      "register": "",
-      "login": ""
+      "title": "Iniciar sesión",
+      "close": "Cerrar",
+      "account_text": "¿Aún no tienes cuenta?",
+      "register": "Crear una cuenta",
+      "login": "Acceso"
     },
     "settings": {
-      "settings": "",
-      "currency": "",
-      "language": ""
+      "settings": "Ajustes",
+      "currency": "Divisa",
+      "language": "Idioma"
     },
     "shipping_threshold": {
-      "spend": "",
-      "more": "",
-      "free": "",
-      "days": "",
-      "continue": "",
-      "add_more": "",
-      "congratulations": ""
+      "spend": "Gastar",
+      "more": "Más",
+      "free": "Envío gratis",
+      "days": "7 - 10 días laborables",
+      "continue": "Seguir comprando",
+      "add_more": "para agregar más productos a tu carrito y recibir envío gratis en pedidos superiores a",
+      "congratulations": "¡Felicitaciones! ¡Tienes envío gratis!"
     },
     "cookiespopup": {
-      "accept": "",
-      "more": ""
+      "accept": "Aceptar",
+      "more": "Más"
     },
     "breadcrumbs": {
-      "home": ""
+      "home": "Home"
     },
     "404": {
-      "header_title": "",
+      "header_title": "Extraviado",
       "title": "",
       "sub_text": ""
     },
