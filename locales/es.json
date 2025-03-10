@@ -58,7 +58,7 @@
       "page": ""
     },
     "suggest": {
-      "title": "",
+      "title": "Alguien compró un",
       "minutes_ago": "Hace minutos",
       "washington": "Washington",
       "from": "De"
@@ -93,13 +93,13 @@
     },
     "404": {
       "header_title": "Extraviado",
-      "title": "",
-      "sub_text": ""
+      "title": "Esto es un poco embarazoso, ¿no?",
+      "sub_text": "Parece que no se encontró nada en esta ubicación. ¿Quizás podrías intentar realizar una búsqueda?"
     },
     "pagination": {
       "previous": "Anterior",
       "next": "Siguiente",
-      "current_page": ""
+      "current_page": "Página {{ current }} de {{ total }}"
     },
     "password_page": {
       "opening_soon": "Próxima apertura",
@@ -108,19 +108,19 @@
       "login_form_password_placeholder": "tu contraseña",
       "login_form_submit": "Ingresar",
       "signup_form_email_label": "correo electrónico",
-      "signup_form_success": "",
-      "admin_link_html": "",
-      "password_link": "",
-      "powered_by_shopify_html": ""
+      "signup_form_success": "¡Te enviaremos un correo electrónico justo antes de abrir!",
+      "admin_link_html": "¿Es usted el propietario de la tienda? <a href=/admin >Inicie sesión aquí</a>",
+      "password_link": "Entrar usando contraseña",
+      "powered_by_shopify_html": "Esta tienda estará impulsada por {{ shopify }}"
     },
     "social": {
-      "share_on_facebook": "",
-      "share_on_twitter": "",
-      "share_on_pinterest": "",
+      "share_on_facebook": "Share ",
+      "share_on_twitter": "twitter",
+      "share_on_pinterest": "pinterest",
       "alt_text": {
-        "share_on_facebook": "",
-        "share_on_twitter": "",
-        "share_on_pinterest": ""
+        "share_on_facebook": "Share on facebook",
+        "share_on_twitter": "Share on twitter",
+        "share_on_pinterest": "Share on pinterest"
       }
     },
     "search": {
