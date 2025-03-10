@@ -1,0 +1,72 @@
+{% schema %}
+{
+  "name": "Collection Custom",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "shop_show_per_page",
+      "label": "Show products per page",
+      "default": true
+    },
+    {
+      "type": "select",
+      "id": "view_default",
+      "label": "Default View",
+      "options": [
+        {
+          "value": "grid",
+          "label": "Grid"
+        },
+        {
+          "value": "list",
+          "label": "List"
+        }
+      ],
+      "default": "grid"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "name": "Text Block",
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Heading",
+          "default": "Heading"
+        },
+        {
+          "type": "richtext",
+          "id": "text",
+          "label": "Text",
+          "default": "<p>Add your text here</p>"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "name": "Image Block",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "caption",
+          "label": "Caption",
+          "default": "Caption"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Collection Custom",
+      "category": "Collection"
+    }
+  ]
+}
+{% endschema %}
