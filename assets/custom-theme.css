@@ -238,8 +238,12 @@ redes-sociales a[href*="facebook.com"] {
     div#shopify-section-template--17993270984896__gl_section_image_text_6_7UDb9F .gl_custom_template--17993270984896__gl_section_image_text_6_7UDb9F {
         display: block !important;
     }
-    
+
     div#shopify-section-template--17993270984896__gl_section_image_text_6_4VCpdt .gl_custom_template--17993270984896__gl_section_image_text_6_4VCpdt.row-reverse-mobile.gl_row.spb_row.gl_row-fluid.gl_row-has-fill {
         display: block;
     }
+    .spb_column.gl_column_container.gl_col-sm-6.gl_col-md-5.text-center {
+        margin: auto !important;
+    }
+    
 }
