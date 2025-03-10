@@ -227,7 +227,7 @@
     "image_size_chart": "",
     "product_img_trust_seal": true,
     "img_trust_seal": "",
-    "show_real_time_visitor": true,
+    "show_real_time_visitor": false,
     "real_time_max": 100,
     "real_interval_time": 2,
     "text_real": "Real time",
