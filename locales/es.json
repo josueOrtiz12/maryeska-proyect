@@ -280,22 +280,22 @@
   },
   "contact": {
     "form": {
-      "name": "",
-      "email": "",
-      "phone": "",
-      "message": "",
-      "submit": "",
-      "post_success": ""
+      "name": "Su nombre",
+      "email": "Su correo electrónico (requerido)",
+      "phone": "Tu número de teléfono",
+      "message": "Tu mensaje",
+      "submit": "ENVIAR UN MENSAJE",
+      "post_success": "Gracias por contactarnos. Nos pondremos en contacto con usted lo antes posible."
     }
   },
   "customer": {
     "account": {
-      "hello": "",
-      "title": "",
-      "dashboard": "",
-      "wishlist": "",
-      "details": "",
-      "log_out": "",
+      "hello": "Hola",
+      "title": "Mi cuenta",
+      "dashboard": "Panel",
+      "wishlist": "Lista de deseos",
+      "details": "Detalles de la cuenta :",
+      "log_out": "Cerrar sesión",
       "sign_out": "",
       "name": "",
       "email": "",
