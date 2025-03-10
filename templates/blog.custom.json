@@ -113,11 +113,40 @@
         "section_padding_bottom": "",
         "section_padding_left": ""
       }
+    },
+    "gl_section_title_rhRzmk": {
+      "type": "gl_section_title",
+      "custom_css": [
+        "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
+      ],
+      "settings": {
+        "row_stretch": "default",
+        "grid_width": "12",
+        "title": "MI TIENDA",
+        "sub_title": "SHOP",
+        "text_after_title": "",
+        "title_style": "default",
+        "title_color": "default",
+        "title_size": "default",
+        "subtitle_font": "default",
+        "title_align": "center",
+        "section_bg_color": "",
+        "section_border_color": "",
+        "section_border_style": "solid",
+        "section_border": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding_top": "",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
     }
   },
   "order": [
     "slideshow_P3PmKH",
     "main",
-    "gl_section_blog_DKEfWF"
+    "gl_section_blog_DKEfWF",
+    "gl_section_title_rhRzmk"
   ]
 }
