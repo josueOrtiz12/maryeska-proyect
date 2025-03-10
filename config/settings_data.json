@@ -178,7 +178,7 @@
     "color_input_new": "#ffffff",
     "color_sign_up": "#212121",
     "color_sign_up_text": "#5f5f5f",
-    "use_promo_banner_collection": true,
+    "use_promo_banner_collection": false,
     "use_top_categories": true,
     "top_categories_source": "top_categories_show_all",
     "top_categories_link_list": "",
