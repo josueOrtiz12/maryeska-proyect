@@ -114,7 +114,8 @@
   <div class="page-title page-title-default title-size-{{settings.collection_title_size}} color-scheme-{{settings.collection_title_color}} title-design-centered without-title title-shop"{%- if settings.use_specify_image and collection.image %} style="{%- assign image = collection.image -%}{%- assign image_width = image.width | append:'x' -%}background-image: url({%-include 'gl_image_format',src: image , size: image_width -%})"{%- endif -%}>
      <div class="container">
         <div class="nav-shop">
-               <h1 class="page-title-inner"> {{ collection.title }} </h1>         
+               <h1 class="page-title-inner"> {{ collection.title }} </h1>
+               <p class="page-subtitle"> {{ collection.description }} </p>         
             <a href="javascript:baselThemeModule.backHistory()" class="basel-back-btn basel-tooltip"><span class="basel-tooltip-label">Back</span><span>Back</span></a>
            <a href="#" class="basel-show-categories">{{ 'collections.general.categories' | t }}</a>
            {% comment %} <ul class="basel-product-categories">
