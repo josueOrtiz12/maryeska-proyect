@@ -20,7 +20,7 @@
         ".equal-nt.ratio1_1 [class*=\"lazyload\"]:before {padding-top: 65%;}"
       ],
       "settings": {
-        "row_stretch": "default",
+        "row_stretch": "stretch_row",
         "title": "NEWS",
         "sub_title": "MI BLOG",
         "text_after_title": "",
