@@ -155,17 +155,17 @@
   },
   "blogs": {
     "section": {
-      "load_more": ""
+      "load_more": "Cargar más publicaciones"
     },
     "blog": {
-      "blog_title_html": "",
-      "breadcrumbs_article": ""
+      "blog_title_html": "Archivo por categoría \"{{ blog_title }}\"",
+      "breadcrumbs_article": "Blog"
     },
     "article": {
-      "posted_by": "",
-      "read_more": "",
-      "prev_post": "",
-      "next_post": ""
+      "posted_by": "por",
+      "read_more": "Leer más",
+      "prev_post": "Publicación anterior",
+      "next_post": "Siguiente publicación"
     },
     "portfolio": {
       "project": "",
