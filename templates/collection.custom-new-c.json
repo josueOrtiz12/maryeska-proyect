@@ -93,11 +93,59 @@
         "padding-top": 20,
         "padding-bottom": 40
       }
+    },
+    "gl_instagram_KBMzh4": {
+      "type": "gl_instagram",
+      "settings": {
+        "row_stretch": "stretch_row",
+        "full_height": false,
+        "columns_position": "middle",
+        "equal_height": false,
+        "content_position": "default",
+        "show_title": true,
+        "title": "[social-instagram] INSTAGRAM @MARYESKALOPEZ",
+        "style_title": "1",
+        "bg_title": "",
+        "get_by": "1",
+        "username": "southern_blooms",
+        "access_token": "",
+        "limit": "12",
+        "open_link": "_self",
+        "photo_design": "default",
+        "photo_per_row": "6",
+        "spaces_section": false,
+        "rounded_section": false,
+        "image_ratio": "ratio1_1",
+        "image_size": "nt_cover",
+        "image_position": "8",
+        "silder_speed": "5000",
+        "hide_pagination": false,
+        "hide_button": false,
+        "slider_loop": false,
+        "autoplay": false,
+        "style_ins_text": "1",
+        "show_ins_text": false,
+        "overlay_title": "INSTAGRAM",
+        "subtext": "Posuere eget ut sed consectetur litora lobortis cras",
+        "button_label": "",
+        "button_link": "",
+        "button_color": "white",
+        "button_style": "bordered",
+        "button_size": "default",
+        "section_bg_color": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding_top": "",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
     }
   },
   "order": [
     "main",
     "gl_section_blog_tLKFYm",
-    "movable_block_U8Ytcy"
+    "movable_block_U8Ytcy",
+    "gl_instagram_KBMzh4"
   ]
 }
