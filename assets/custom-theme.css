@@ -1,36 +1,46 @@
 .main-nav.site-navigation.basel-navigation.menu-left {
     width: 30%;
 }
+
 .main-header .right-column {
     width: 30%;
 }
+
 .header-shop .site-logo {
     width: 40%;
 }
+
 .header-shop .main-nav .menu>li>a {
     text-transform: capitalize;
     font-size: 16px;
-    
+
 }
+
 a.basel-logo.basel-main-logo:hover {
     text-decoration: none;
 }
+
 a.basel-logo.basel-main-logo {
     letter-spacing: 6px;
 }
-.header-spacing{
+
+.header-spacing {
     margin-bottom: 0px !important;
 }
+
 .banner-inner h1 {
     letter-spacing: 5px;
 }
+
 .banner-inner p {
     letter-spacing: 5px;
 }
+
 h4.title {
     font-weight: 600;
     letter-spacing: 6px;
 }
+
 span.title-subtitle.font-default {
     font-weight: 600;
     letter-spacing: 6px;
@@ -47,6 +57,7 @@ div#blockId_1547774947330 .wrapper-content-baner::before {
     height: 100%;
     background: linear-gradient(0deg, #26232363, transparent);
 }
+
 .nt_banner_img.banner-image {
     filter: saturate(1.5);
 }
@@ -54,6 +65,7 @@ div#blockId_1547774947330 .wrapper-content-baner::before {
 .visible-pc.hidden-tb.hidden-mb h1 {
     font-size: 37px;
 }
+
 /* banner pricipal */
 
 
@@ -74,12 +86,14 @@ h3.product-title a {
     font-weight: 760;
     text-transform: uppercase;
 }
+
 .owl-carousel-item-inner span.price {
     letter-spacing: 2px;
     font-weight: 500;
     text-transform: uppercase;
     color: #000000;
 }
+
 /* section products */
 
 /**section information**/
@@ -89,70 +103,103 @@ p.about-me {
     letter-spacing: 3px;
     margin-bottom: 5px;
 }
+
 h1.about-me-tilte {
     font-weight: 600;
     letter-spacing: 6px;
 }
+
 p.text-content {
     font-size: 17px;
 }
+
 a.read-more {
     font-size: 17px;
     text-decoration: underline;
 }
+
 header.entry-header .post-mask {
     text-align: left;
 }
+
 article .entry-content {
     text-align: left;
 }
 
 /*footer    */
 .footer-sidebar.widget-area.row {
-    display: flex
-;
+    display: flex;
     justify-content: space-between;
 }
+
 ul.social-icons.text-center.social-share.icons-design-default.icons-size-default {
     margin-top: 18px;
 }
+
 .redes-sociales ul {
     list-style: none;
     padding: 0;
     margin: 0;
-    display: flex; /* Muestra los elementos en línea */
-    justify-content: center; /* Centra los iconos horizontalmente (opcional) */
-  }
-  
-  .redes-sociales li {
-    margin: 0 8px; /* Espacio entre iconos */
-  }
-  
-  .redes-sociales a {
+    display: flex;
+    /* Muestra los elementos en línea */
+    justify-content: center;
+    /* Centra los iconos horizontalmente (opcional) */
+}
+
+.redes-sociales li {
+    margin: 0 8px;
+    /* Espacio entre iconos */
+}
+
+.redes-sociales a {
     color: #333;
-    font-size: 19px; /* Tamaño de los iconos */
+    font-size: 19px;
+    /* Tamaño de los iconos */
     transition: color 0.3s ease;
-  }
-  
-  .redes-sociales a:hover {
-    color: #007bff; /* Cambia el color al pasar el mouse */
-  }
-  .redes-sociales {
+}
+
+.redes-sociales a:hover {
+    color: #007bff;
+    /* Cambia el color al pasar el mouse */
+}
+
+.redes-sociales {
     margin-top: 22px;
 }
-  
-  /* Opcional: Estilos específicos para cada red social */
-  .redes-sociales a[href*="instagram.com"] { color: #E4405F; } /* Color de Instagram */
-  redes-sociales a[href*="youtube.com"] { color: #FF0000; } /* Color de YouTube */
-  redes-sociales a[href*="tiktok.com"] { color: #000000; } /* Color de TikTok */
-  redes-sociales a[href*="twitter.com"] { color: #1DA1F2; } /* Color de Twitter */
-  redes-sociales a[href*="facebook.com"] { color: #1877F2; } /* Color de Facebook */
+
+/* Opcional: Estilos específicos para cada red social */
+.redes-sociales a[href*="instagram.com"] {
+    color: #E4405F;
+}
+
+/* Color de Instagram */
+redes-sociales a[href*="youtube.com"] {
+    color: #FF0000;
+}
+
+/* Color de YouTube */
+redes-sociales a[href*="tiktok.com"] {
+    color: #000000;
+}
+
+/* Color de TikTok */
+redes-sociales a[href*="twitter.com"] {
+    color: #1DA1F2;
+}
+
+/* Color de Twitter */
+redes-sociales a[href*="facebook.com"] {
+    color: #1877F2;
+}
+
+/* Color de Facebook */
 
 
- /**aboutme page */
+/**aboutme page */
 .about-me-container {
     padding: 12px 47px 12px 20px;
 }
+
 .container-info {
     padding: 2% 9% 9% 9%;
 }
@@ -160,19 +207,21 @@ ul.social-icons.text-center.social-share.icons-design-default.icons-size-default
 
 
 
-  /* responsive */
+/* responsive */
 
-  /* home informativo */
-  /* Para 600px */  
-  @media only screen and (max-width: 620px) and (min-width: 5px) {  
+/* home informativo */
+/* Para 600px */
+@media only screen and (max-width: 620px) and (min-width: 5px) {
     #shopify-section-546d3eb2-c9ae-4f88-a440-bf7a3c6aaade .gl_row.spb_row.gl_row-fluid {
         display: block !important;
         align-items: center;
     }
-    #shopify-section-6bad6e79-ee08-4b17-bef2-1dd179d114cc .gl_row.spb_row.gl_row-fluid{
+
+    #shopify-section-6bad6e79-ee08-4b17-bef2-1dd179d114cc .gl_row.spb_row.gl_row-fluid {
         display: block !important;
         align-items: center;
     }
+
     .footer-sidebar.widget-area.row {
         display: block !important;
         text-align: center;
@@ -182,6 +231,15 @@ ul.social-icons.text-center.social-share.icons-design-default.icons-size-default
 
     /**aboutme page */
     #shopify-section-template--17993270984896__gl_section_image_with_text_RjcXcR .gl_row.spb_row.gl_row-fluid {
-        display: block !important; 
+        display: flex;
+        flex-direction: column-reverse;
     }
-}  
+
+    div#shopify-section-template--17993270984896__gl_section_image_text_6_7UDb9F .gl_custom_template--17993270984896__gl_section_image_text_6_7UDb9F {
+        display: block !important;
+    }
+    
+    div#shopify-section-template--17993270984896__gl_section_image_text_6_4VCpdt .gl_custom_template--17993270984896__gl_section_image_text_6_4VCpdt.row-reverse-mobile.gl_row.spb_row.gl_row-fluid.gl_row-has-fill {
+        display: block;
+    }
+}
