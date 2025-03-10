@@ -149,8 +149,8 @@
       "subscribing": "Suscribiendo"
     },
     "filters": {
-      "show_more": "",
-      "show_less": ""
+      "show_more": "Cargar más",
+      "show_less": "Mostrar menos"
     }
   },
   "blogs": {
@@ -274,8 +274,8 @@
       "date_ascending": ""
     },
     "filters": {
-      "filters_title": "",
-      "all_reset": ""
+      "filters_title": "Filtros",
+      "all_reset": "Restablecer todos los filtros"
     }
   },
   "contact": {
