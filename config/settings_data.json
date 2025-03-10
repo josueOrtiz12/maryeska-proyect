@@ -443,7 +443,7 @@
     "blog_portfolio": "noticias",
     "portfolio_styles": "hover",
     "portfolio_full_width": false,
-    "projects_columns": "4",
+    "projects_columns": "3",
     "projects_spacing": "2",
     "projects_per_page": "12",
     "portfolio_filters": true,
