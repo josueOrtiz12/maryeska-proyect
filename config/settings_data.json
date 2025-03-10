@@ -1725,7 +1725,7 @@
         ],
         "settings": {
           "row_stretch": "stretch_row",
-          "home_featured_products": "",
+          "home_featured_products": "shop",
           "paginate_index": "5",
           "silder_speed": "5000",
           "silder_per_view": "4",
