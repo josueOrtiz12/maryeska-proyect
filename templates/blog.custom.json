@@ -157,7 +157,7 @@
         "hide_button": false,
         "slider_loop": false,
         "autoplay": false,
-        "products_hover": "alt",
+        "products_hover": "quick",
         "sale_countdown": false,
         "countdown_style": "dark",
         "use_eq_height": false,
