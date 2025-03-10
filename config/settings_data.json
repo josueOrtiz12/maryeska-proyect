@@ -2106,7 +2106,8 @@
       "gl_section_blog_7CMVam": {
         "type": "gl_section_blog",
         "custom_css": [
-          "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
+          "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}",
+          ".equal-nt.ratio1_1 [class*=\"lazyload\"]:before {padding-top: 65%;}"
         ],
         "settings": {
           "row_stretch": "default",
