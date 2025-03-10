@@ -1070,7 +1070,7 @@
             "settings": {
               "title": "Shop",
               "icon": "",
-              "button_link": "",
+              "button_link": "shopify://collections/shop",
               "label": "",
               "color": "#ffffff"
             }
