@@ -30,6 +30,56 @@
         "id": "description",
         "label": "Descripción de la sección",
         "default": "Aquí encontrarás una selección de nuestros mejores productos."
+      },
+          {
+              "type": "image_picker",
+              "id": "image",
+              "label": "Imagen de la sección"
+          },
+          {
+              "type": "color",
+              "id": "background_color",
+              "label": "Color de fondo",
+              "default": "#ffffff"
+          }
+    ],
+    "blocks": [
+      {
+        "type": "product",
+        "name": "Producto",
+      },
+          {
+              "type": "text",
+              "name": "Texto",
+              "settings": [
+                  {
+                      "type": "text",
+                      "id": "title",
+                      "label": "Titulo del bloque"
+                  },
+                  {
+                      "type": "textarea",
+                      "id": "text",
+                      "label": "Texto del bloque"
+                  }
+              ]
+          },
+          {
+              "type": "image",
+              "name": "Imagen",
+              "settings": [
+                  {
+                      "type": "image_picker",
+                      "id": "image",
+                      "label": "Imagen del bloque"
+                  }
+              ]
+          }
+    ],
+    "presets": [
+      {
+        "name": "Colección personalizada",
+        "category": "Colección"
       }
     ]
   }
