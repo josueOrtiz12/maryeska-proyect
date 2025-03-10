@@ -102,45 +102,6 @@
 	<div class="main-page-wrapper">
 		{%- include 'page_heading', page_title:gl_blog_title -%}
 		<!-- MAIN CONTENT AREA -->
-		{%- paginate blog.articles by number_articles_per_grid_page -%}
-		<div class="container">
-			<div class="row">
-				<div class="row site-content {{class_gl}}" role="main">
-					{%- if settings.blog_design == '4' or settings.blog_design == '5' -%}<div class="masonry-container">{%- endif -%}
-						{%- for article in blog.articles -%}
-							{%- include  gl_include -%}
-							{%- if settings.blog_design != '4' or settings.blog_design != '5' -%}
-								{%- cycle '','','<div class="clearfix clearfix visible-sm-block"></div>' -%}
-		                  {%- case settings.blog_columns -%}
-		                      {%- when '2' -%}
-		                        {%- cycle '','<div class="clearfix visible-md-block visible-lg-block"></div>' -%}
-		                      {%- when '3' -%}
-		                        {%- cycle '','','<div class="clearfix visible-md-block visible-lg-block"></div>' -%}
-		                      {%- when '4' -%}
-		                        {%- cycle '','','','<div class="clearfix visible-md-block visible-lg-block"></div>' -%}
-		                     {%- when '6' -%}
-		                        {%- cycle '','','','','','<div class="clearfix visible-md-block visible-lg-block"></div>' -%}
-		                  {%- endcase -%}
-	                 {%- endif -%}
-						{%- endfor -%}
-					{%- if settings.blog_design == '4' or settings.blog_design == '5' -%}</div>{%- endif -%}
-					{%- if paginate.pages > 1 -%}
-						{%- if settings.blog_design != '4' or settings.blog_design != '5' -%}<div class="clear"></div>{%- endif -%}
-						<div class="basel-pagination blog_gl_pagination ">
-                      {%- include 'pagination',blog_ajax:true -%}
-                  </div>
-					{%- endif -%}
-				</div><!-- .site-content -->
-				{%- if settings.blog_layout != '1' -%}
-				<aside class="sidebar-container {{class_sidebar}} sidebar-{{settings.blog_layout}}" role="complementary">
-	            {% comment %} <div class="sidebar-inner">
-	               {%- section 'gl_section_sidebar_blog' -%}<!-- .widget-area -->
-	            </div><!-- .sidebar-inner --> {% endcomment %}
-	         </aside><!-- .sidebar-container -->
-				{%- endif -%}
-			</div>
-		</div>
-		{%- endpaginate -%}
 	</div>
 {%- else -%}
 	<div class="main-page-wrapper">
