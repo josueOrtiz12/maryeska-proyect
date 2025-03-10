@@ -134,8 +134,8 @@
       "search_ajax__no_count_results": "Ver todos los resultados",
       "no_products_page": "No se encontraron productos.",
       "results_with_count": {
-        "one": "",
-        "other": ""
+        "one": "{{ count }} resultado para “{{ terms }}”",
+        "other": "{{ count }} resultados para “{{ terms }}”"
       },
       "results_with_collection": "{{ collection }} Resultados de búsqueda para “{{ terms }}”",
       "placeholder": "Buscar productos",
