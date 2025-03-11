@@ -1065,8 +1065,21 @@
               "color": "#ffffff"
             }
           },
+          "dropdown_GhMYKD": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Colecciones",
+              "icon": "",
+              "button_link": "",
+              "label": "",
+              "menu": "colecciones",
+              "color": "#ffffff",
+              "menu_width": ""
+            }
+          },
           "menu_item_no_children_zf9t6M": {
             "type": "menu_item_no_children",
+            "disabled": true,
             "settings": {
               "title": "Shop",
               "icon": "",
@@ -1089,6 +1102,7 @@
         "block_order": [
           "a38ddf75-e415-46e5-80df-8b3628806253",
           "c6c7ce79-862c-4d06-ab65-1c197c418934",
+          "dropdown_GhMYKD",
           "menu_item_no_children_zf9t6M",
           "5669328c-c11c-41ff-8f0f-f7f7cd327f68"
         ],
