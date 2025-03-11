@@ -1109,7 +1109,7 @@
           "5669328c-c11c-41ff-8f0f-f7f7cd327f68"
         ],
         "settings": {
-          "active_sub_menu": "click",
+          "active_sub_menu": "hover",
           "label_1": "",
           "color_1": "#1e9ca2",
           "label_2": "",
