@@ -387,14 +387,14 @@
       "subtotal": "Subtotal"
     },
     "recover_password": {
-      "title": "",
-      "email": "",
-      "submit": "",
-      "save": "",
-      "cancel": "",
-      "subtext": "",
-      "success": "",
-      "content_success": ""
+      "title": "Restablecer su contraseña",
+      "email": "Dirección de correo electrónico",
+      "submit": "Restablecer contraseña",
+      "save": "Ahorrar",
+      "cancel": "Cancelar",
+      "subtext": "¿Olvidaste tu contraseña? Por favor, introduce tu dirección de correo electrónico. Recibirás un enlace para crear una nueva contraseña por correo electrónico.",
+      "success": "Le hemos enviado un correo electrónico con un enlace para actualizar su contraseña.",
+      "content_success": "Se ha enviado un correo electrónico para restablecer la contraseña a la dirección de correo electrónico registrada para su cuenta, pero puede tardar varios minutos en aparecer en su bandeja de entrada. Espere al menos 10 minutos antes de intentar restablecerla nuevamente."
     },
     "reset_password": {
       "title": "",
