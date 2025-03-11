@@ -453,14 +453,14 @@
       "login": "Acceso"
     },
     "jas_extra": {
-      "flash_sold": "",
-      "flash_hours": "",
-      "estimateTimer_1": "",
-      "estimateTimer_2": ""
+      "flash_sold": "vendido en el ultimo",
+      "flash_hours": "horas",
+      "estimateTimer_1": "Ordene en el próximo",
+      "estimateTimer_2": "Para conseguirlo"
     },
     "product": {
-      "wishlist-empty": "",
-      "in_stock": "",
+      "wishlist-empty": "No se agregaron productos a la lista de deseos",
+      "in_stock": "En stock",
       "will_not_ship_until": "",
       "will_be_in_stock_after": "",
       "save_js": "",
