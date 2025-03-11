@@ -503,12 +503,12 @@
     "wishlist": {
       "login_to_manage_wishlist": "Debes iniciar sesión para administrar tu lista de deseos.",
       "remove_this_product": "Eliminar este producto",
-      "login_to_wishlist": "",
-      "add_to_wishlist": "",
-      "adding_to_wishlist": "",
-      "browse_Wishlist": "",
-      "info_wishlist": "",
-      "no_products_wishlist": ""
+      "login_to_wishlist": "Inicie sesión para utilizar la lista de deseos",
+      "add_to_wishlist": "Añadir a la lista de deseos",
+      "adding_to_wishlist": "Agregar a la lista de deseos",
+      "browse_Wishlist": "Explorar lista de deseos",
+      "info_wishlist": "Inicia sesión para sincronizar tus elementos guardados en todos tus dispositivos.",
+      "no_products_wishlist": "No se agregaron productos a la lista de deseos"
     },
     "compare": {
       "description": "",
