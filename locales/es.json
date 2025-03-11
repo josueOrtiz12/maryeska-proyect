@@ -405,12 +405,12 @@
       "submit": "Entregar"
     },
     "register": {
-      "title": "",
-      "first_name": "",
-      "last_name": "",
-      "email": "",
-      "password": "",
-      "submit": ""
+      "title": "Registro",
+      "first_name": "Nombre",
+      "last_name": "Apellido",
+      "email": "Dirección de correo electrónico",
+      "password": "Contraseña",
+      "submit": "Registrar"
     }
   },
   "homepage": {
