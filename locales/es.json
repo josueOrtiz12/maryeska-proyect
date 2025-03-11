@@ -397,12 +397,12 @@
       "content_success": "Se ha enviado un correo electrónico para restablecer la contraseña a la dirección de correo electrónico registrada para su cuenta, pero puede tardar varios minutos en aparecer en su bandeja de entrada. Espere al menos 10 minutos antes de intentar restablecerla nuevamente."
     },
     "reset_password": {
-      "title": "",
-      "subtext": "",
-      "password": "",
-      "password_confirm": "",
-      "save": "",
-      "submit": ""
+      "title": "Restablecer contraseña de la cuenta",
+      "subtext": "Introduzca una nueva contraseña para {{ email }}",
+      "password": "Contraseña",
+      "password_confirm": "confirmar Contraseña",
+      "save": "Guardar",
+      "submit": "Entregar"
     },
     "register": {
       "title": "",
