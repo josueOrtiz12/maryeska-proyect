@@ -496,13 +496,13 @@
       "read_more": "Leer más",
       "view": "Ver productos",
       "stock-status": "Estado de stock",
-      "product-name": "",
-      "unit-price": "",
-      "wishlist-title": ""
+      "product-name": "Nombre del producto",
+      "unit-price": "Precio unitario",
+      "wishlist-title": "Mi lista de deseos"
     },
     "wishlist": {
-      "login_to_manage_wishlist": "",
-      "remove_this_product": "",
+      "login_to_manage_wishlist": "Debes iniciar sesión para administrar tu lista de deseos.",
+      "remove_this_product": "Eliminar este producto",
       "login_to_wishlist": "",
       "add_to_wishlist": "",
       "adding_to_wishlist": "",
