@@ -1075,7 +1075,7 @@
               "menu": "colecciones",
               "color": "#ffffff",
               "show_img": false,
-              "full_width": false,
+              "full_width": true,
               "menu_width": "750"
             }
           },
