@@ -432,16 +432,16 @@
       "collapse": "colapsar"
     },
     "customer": {
-      "my_account": "",
-      "log_out": "",
-      "log_in": "",
-      "create_account": ""
+      "my_account": "Mi cuenta",
+      "log_out": "Finalizar la sesión",
+      "log_in": "Iniciar sesión / Registrarse",
+      "create_account": "Crear una cuenta"
     },
     "footer": {
-      "theme_settings": "",
-      "instructions_for_linklist_html": "",
-      "instructions_for_text_content_html": "",
-      "social_platform": ""
+      "theme_settings": "Configuración del tema",
+      "instructions_for_linklist_html": "Seleccione una lista de enlaces para mostrar aquí en su {{ theme_settings_link }} bajo {{ theme_settings_footer_linklist_path }}.",
+      "instructions_for_text_content_html": "Agrega algún texto para mostrar aquí en tu {{ theme_settings_link }}.",
+      "social_platform": "{{ nombre }} en {{ plataforma }}"
     }
   },
   "products": {
