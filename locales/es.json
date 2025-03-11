@@ -529,14 +529,14 @@
       "expired": "Caducado el {{expiry}}",
       "active": "Caduca el {{ expiry }}",
       "redeem_html": "Utilice este código en el momento del pago para canjear su tarjeta de regalo de {{ value }}",
-      "shop_link": "",
-      "print": "",
-      "remaining_html": "",
-      "add_to_apple_wallet": ""
+      "shop_link": "Empezar a comprar",
+      "print": "Imprima esta tarjeta de regalo",
+      "remaining_html": "{{ balance }} queda",
+      "add_to_apple_wallet": "Agregar a Apple Wallet"
     }
   },
   "date_formats": {
-    "month_day_year": ""
+    "month_day_year": "%B %d, %Y"
   },
   "customer_accounts": {
     "account_information": {
