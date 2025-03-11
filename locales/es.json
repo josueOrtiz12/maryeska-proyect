@@ -415,21 +415,21 @@
   },
   "homepage": {
     "onboarding": {
-      "product_title": "",
-      "product_description": "",
-      "collection_title": "",
-      "blog_title": "",
-      "blog_excerpt": "",
-      "blog_author": "",
-      "no_content": ""
+      "product_title": "El nombre de su producto",
+      "product_description": "Esta área se utiliza para describir los detalles de su producto. Cuéntele a los clientes sobre el aspecto, la sensación y el estilo de su producto. Agregue detalles sobre el color, los materiales utilizados, el tamaño y el lugar de fabricación.",
+      "collection_title": "El nombre de tu colección",
+      "blog_title": "Título de tu publicación",
+      "blog_excerpt": "Tu tienda aún no ha publicado ninguna entrada de blog. Puedes usar un blog para hablar sobre lanzamientos de nuevos productos, consejos u otras novedades que quieras compartir con tus clientes. Puedes consultar el blog de comercio electrónico de Shopify para obtener inspiración y consejos para tu propia tienda y blog.",
+      "blog_author": "Nombre del autor",
+      "no_content": "Esta sección no incluye ningún contenido actualmente. Agrega contenido a esta sección usando la barra lateral."
     }
   },
   "layout": {
     "navigation": {
-      "search": "",
-      "toggle": "",
-      "expand": "",
-      "collapse": ""
+      "search": "Buscar",
+      "toggle": "expandir/contraer",
+      "expand": "expandir",
+      "collapse": "colapsar"
     },
     "customer": {
       "my_account": "",
