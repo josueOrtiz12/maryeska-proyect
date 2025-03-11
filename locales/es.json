@@ -523,12 +523,12 @@
   },
   "gift_cards": {
     "issued": {
-      "title_html": "",
-      "subtext": "",
-      "disabled": "",
-      "expired": "",
-      "active": "",
-      "redeem_html": "",
+      "title_html": "¡Aquí está tu tarjeta de regalo de {{ value }} para {{ shop }}!",
+      "subtext": "Tu tarjeta de regalo",
+      "disabled": "Desactivado",
+      "expired": "Caducado el {{expiry}}",
+      "active": "Caduca el {{ expiry }}",
+      "redeem_html": "Utilice este código en el momento del pago para canjear su tarjeta de regalo de {{ value }}",
       "shop_link": "",
       "print": "",
       "remaining_html": "",
