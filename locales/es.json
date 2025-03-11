@@ -446,11 +446,11 @@
   },
   "products": {
     "popup": {
-      "view_cart": "",
-      "added_to_cart": "",
-      "continue_shopping": "",
-      "info_wishlist": "",
-      "login": ""
+      "view_cart": "Ver carrito",
+      "added_to_cart": "El producto se agregó correctamente a su carrito.",
+      "continue_shopping": "Seguir comprando",
+      "info_wishlist": "Inicia sesión para sincronizar tus elementos guardados en todos tus dispositivos.",
+      "login": "Acceso"
     },
     "jas_extra": {
       "flash_sold": "",
