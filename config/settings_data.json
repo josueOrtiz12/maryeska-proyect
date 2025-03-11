@@ -320,7 +320,7 @@
     "show_sticky_img": true,
     "show_sticky_quantiny": true,
     "scrolltop": 1000,
-    "gecko_stock_countdown": true,
+    "gecko_stock_countdown": false,
     "stock_time": "8:00:00,16:00:00,23:59:59",
     "total_items": 50,
     "stock_from": 12,
