@@ -284,7 +284,7 @@
     "related_products_use": "use_collection",
     "many_related_products": 8,
     "related_products_hover": "alt",
-    "related_sale_countdown": true,
+    "related_sale_countdown": false,
     "related_countdown_style": "light",
     "use_related_eq_height": false,
     "related_img_ratio": "ratio1_1",
