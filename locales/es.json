@@ -511,14 +511,14 @@
       "no_products_wishlist": "No se agregaron productos a la lista de deseos"
     },
     "compare": {
-      "description": "",
-      "availability": "",
-      "color": "",
-      "size": "",
-      "price": "",
-      "remove": "",
-      "added_label": "",
-      "no_compare": ""
+      "description": "Descripción",
+      "availability": "Disponibilidad",
+      "color": "Color",
+      "size": "Tamaño",
+      "price": "Precio",
+      "remove": "Eliminar",
+      "added_label": "Etiqueta añadida",
+      "no_compare": "No hay productos añadidos en la tabla de comparación."
     }
   },
   "gift_cards": {
