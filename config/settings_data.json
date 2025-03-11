@@ -1065,16 +1065,18 @@
               "color": "#ffffff"
             }
           },
-          "dropdown_GhMYKD": {
-            "type": "dropdown",
+          "mega_sub_6QLN7X": {
+            "type": "mega_sub",
             "settings": {
-              "title": "Colecciones",
+              "title": "Coleciones",
               "icon": "",
               "button_link": "",
               "label": "",
               "menu": "colecciones",
               "color": "#ffffff",
-              "menu_width": ""
+              "show_img": false,
+              "full_width": false,
+              "menu_width": "750"
             }
           },
           "menu_item_no_children_zf9t6M": {
@@ -1102,7 +1104,7 @@
         "block_order": [
           "a38ddf75-e415-46e5-80df-8b3628806253",
           "c6c7ce79-862c-4d06-ab65-1c197c418934",
-          "dropdown_GhMYKD",
+          "mega_sub_6QLN7X",
           "menu_item_no_children_zf9t6M",
           "5669328c-c11c-41ff-8f0f-f7f7cd327f68"
         ],
