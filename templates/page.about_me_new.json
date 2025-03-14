@@ -409,7 +409,8 @@
       "type": "gl_section_blog",
       "custom_css": [
         "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}",
-        ".equal-nt.ratio1_1 [class*=\"lazyload\"]:before {padding-top: 65%;}"
+        ".equal-nt.ratio1_1 [class*=\"lazyload\"]:before {padding-top: 65%;}",
+        "h3.entry-title {font-size: 18px !important;}"
       ],
       "settings": {
         "row_stretch": "stretch_row",
@@ -432,7 +433,7 @@
         "columns": "3",
         "enable_title": "show",
         "enable_meta": "hide",
-        "enable_text": "show",
+        "enable_text": "hide",
         "enable_button": "show",
         "enable_post_categories": "hide",
         "enable_post_date": "show",
