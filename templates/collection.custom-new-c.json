@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -8,7 +17,8 @@
       "type": "gl_section_blog",
       "custom_css": [
         "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}",
-        ".equal-nt.ratio1_1 [class*=\"lazyload\"]:before {padding-top: 65%;}"
+        ".equal-nt.ratio1_1 [class*=\"lazyload\"]:before {padding-top: 65%;}",
+        "h3.entry-title {font-size: 18px !important;}"
       ],
       "settings": {
         "row_stretch": "stretch_row",
@@ -31,7 +41,7 @@
         "columns": "3",
         "enable_title": "show",
         "enable_meta": "hide",
-        "enable_text": "show",
+        "enable_text": "hide",
         "enable_button": "show",
         "enable_post_categories": "hide",
         "enable_post_date": "show",
@@ -54,21 +64,21 @@
           "type": "text_image",
           "settings": {
             "text": "NEW COLLECTION",
-            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
           }
         },
         "text_image_xgi9Cn": {
           "type": "text_image",
           "settings": {
             "text": "NEW COLLECTION",
-            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
           }
         },
         "text_image_dW7fix": {
           "type": "text_image",
           "settings": {
             "text": "NEW COLLECTION",
-            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
           }
         }
       },
