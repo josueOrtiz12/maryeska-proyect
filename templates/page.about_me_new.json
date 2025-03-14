@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -11,8 +20,8 @@
         "item_VVxCTL": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
-            "title": "<h1>ABOUT ME<\/h1>\n<p>LOREM IPSUM<\/p>",
+            "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
+            "title": "<h1>ABOUT ME</h1>\n<p>LOREM IPSUM</p>",
             "title_tb": "",
             "title_mb": "",
             "banner_btn_title": "",
@@ -68,13 +77,13 @@
         "image_bGfcUL": {
           "type": "image",
           "settings": {
-            "block_image_1": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg"
+            "block_image_1": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg"
           }
         },
         "text_aaC8k6": {
           "type": "text",
           "settings": {
-            "text_block": "<div class=\"about-me-container\">\n<p class=\"about-me\">ABOUT ME<\/p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM<\/h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n<\/p>\n<a class=\"read-more\">Leer más<\/a>\n<\/div>"
+            "text_block": "<div class=\"about-me-container\">\n<p class=\"about-me\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n</p>\n<a class=\"read-more\">Leer más</a>\n</div>"
           }
         }
       },
@@ -132,7 +141,7 @@
         "grid_width": "12",
         "title": "LOREM IPSUM",
         "sub_title": "ABOUT ME",
-        "text_after_title": "<div class=\"container-info\">\n<p>\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n<br><br>\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n<\/p>\n<\/div>",
+        "text_after_title": "<div class=\"container-info\">\n<p>\nNací en Caracas, Venezuela. Tuve la inmensa bendición de pasar mi infancia en el campo, donde me crié en la hacienda de mis padres rodeada de animales y flores silvestres. Fue ahí donde el contacto con la naturaleza despertó mi temprano amor e interés por las artes. Soy madre, esposa y defensora de la unión familiar.\nEstudié Leyes. En mis inicios en el mundo laboral trabajé en ExxonMobil Corporation, la empresa petrolera estadounidense más grande del mundo.\nAllí me llevé muchísimos conocimientos, lecciones de vida y aprendí sobre perspectivas empresariales con enfoque mundial y multidisciplinario. Pero el arte y la naturaleza seguían teniendo un espacio muy importante en mi corazón y nunca dejé de interesarme por ellos.\n\n<br><br>\nGracias a esta experiencia corporativa he podido desenvolverme en eventos de alto nivel diplomático donde los detalles, reglas y buen gusto son esenciales. \nActualmente, soy colaboradora del programa Portadas Al Día, el magazine más visto de la televisión venezolana, transmitido en vivo de lunes a viernes, también participé en Mundo de Mujeres en en el canal IVC, en Venevisión realicé la sección en vivo “Hazlo tú hogar” del Programa Portada 's. Asimismo, tuve una colaboración en Caraota Digital donde compartí numerosos tips de creatividad, en artículos escritos, colaboré con la revista Española El Mueble y la revista Conclase. Como interiorista, he decorado grandes cadenas hoteleras, restaurantes, casas y diversos locales comerciales, donde he utilizado el estilo que más me define creando propuestas eclécticas, orgánicas y kinestésicas.\nGracias a mi vocación por comunicar y conectar con mi comunidad  creé un canal YouTube donde publico constantemente una serie de tutoriales creativos llamado Simplificarte y un Podcast, Sobremesa by Maryeska Lopez, donde me encanta conversar sobre temas que nos hagan cuestionarnos y nos permitan alcanzar una mejor versión de nosotros mismos.\n<br><br>\nSi me preguntan cuál es mi misión, respondería con firmeza: inspirar a las familias a volver a la mesa y reavivar los valores de la unión familiar.\n¡Únete a mí en este viaje de regreso a la mesa y recuerda siempre que podemos “De lo cotidiano a lo  Extraordinario”\n\n</p>\n</div>",
         "title_style": "default",
         "title_color": "default",
         "title_size": "default",
@@ -160,7 +169,7 @@
             "hide_medium": false,
             "hide_small": false,
             "hide_extra_small": false,
-            "image": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
+            "image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
             "banner_content": "",
             "banner_btn_title": "",
             "banner_link": "",
@@ -182,7 +191,7 @@
             "position_text_block": "top",
             "enable_text_block": false,
             "heading": "Heading",
-            "text_block": "<p>Viverra rutrum fringilla curabitur.<\/p>",
+            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
             "banner_text_color": "light"
           }
         },
@@ -193,7 +202,7 @@
             "hide_medium": false,
             "hide_small": false,
             "hide_extra_small": false,
-            "image": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
+            "image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
             "banner_content": "",
             "banner_btn_title": "",
             "banner_link": "",
@@ -215,7 +224,7 @@
             "position_text_block": "top",
             "enable_text_block": false,
             "heading": "Heading",
-            "text_block": "<p>Viverra rutrum fringilla curabitur.<\/p>",
+            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
             "banner_text_color": "light"
           }
         },
@@ -226,7 +235,7 @@
             "hide_medium": false,
             "hide_small": false,
             "hide_extra_small": false,
-            "image": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
+            "image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
             "banner_content": "",
             "banner_btn_title": "",
             "banner_link": "",
@@ -248,7 +257,7 @@
             "position_text_block": "top",
             "enable_text_block": false,
             "heading": "Heading",
-            "text_block": "<p>Viverra rutrum fringilla curabitur.<\/p>",
+            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
             "banner_text_color": "light"
           }
         }
@@ -302,7 +311,7 @@
         "image_qGVP4h": {
           "type": "image",
           "settings": {
-            "block_image": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf_344ce9df-3bbb-44fd-86a5-f3145c3ef23c.webp",
+            "block_image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf_344ce9df-3bbb-44fd-86a5-f3145c3ef23c.webp",
             "image_alignment_one": "center",
             "image_style_one": "default"
           }
@@ -343,7 +352,7 @@
         "image_qG8n7D": {
           "type": "image",
           "settings": {
-            "block_image": "shopify:\/\/shop_images\/d0cccd37597f1bcdf9f98b9876c4ecbf_344ce9df-3bbb-44fd-86a5-f3145c3ef23c.webp",
+            "block_image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf_344ce9df-3bbb-44fd-86a5-f3145c3ef23c.webp",
             "image_alignment_one": "center",
             "image_style_one": "default"
           }
@@ -446,21 +455,21 @@
           "type": "text_image",
           "settings": {
             "text": "NEW COLLECTION",
-            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
           }
         },
         "text_image_XN9Twt": {
           "type": "text_image",
           "settings": {
             "text": "NEW COLLECTION",
-            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
           }
         },
         "text_image_8e7Lfw": {
           "type": "text_image",
           "settings": {
             "text": "NEW COLLECTION",
-            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
           }
         }
       },
