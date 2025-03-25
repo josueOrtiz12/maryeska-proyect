@@ -1603,7 +1603,7 @@
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
           "silder_speed": "5000",
-          "dottime": "300",
+          "dottime": "400",
           "hide_pagination": true,
           "hide_button": false,
           "banner_color": "light",
