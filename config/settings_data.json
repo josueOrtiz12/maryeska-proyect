@@ -1607,7 +1607,7 @@
           "hide_pagination": false,
           "hide_button": false,
           "banner_color": "light",
-          "slider_loop": false,
+          "slider_loop": true,
           "autoplay": true,
           "use_font": true,
           "font_heading": "josefin_sans_n4",
