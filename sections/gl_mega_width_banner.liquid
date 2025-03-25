@@ -174,7 +174,7 @@
                                 <div class="spb_wrapper">
                                   <ul class="sub-menu">
                                     <li>
-                                      <a class="sub-menu-link"href="{{ childlink.url }}"{%- if childlink.active %} class="current-menu-item"{%- endif -%}>{{ childlink.title | split: '[' | first | capitalize }}</a>
+                                      <a class="sub-menu-link" href="{{ childlink.url }}"{%- if childlink.active %} class="current-menu-item"{%- endif -%}>{{ childlink.title | split: '[' | first | capitalize }}</a>
                                       {%- assign third_list_handle = childlink.title | split: '[' | first | handleize -%}
                                       {%- if linklists[childlink.handle].links.size > 0 or linklists[third_list_handle].links != blank -%}
                                       <ul class="sub-sub-menu">
@@ -218,7 +218,7 @@
                                 <div class="spb_wrapper">
                                   <ul class="sub-menu">
                                     <li>
-                                      <a href="{{ childlink.url }}"{%- if childlink.active %} class="current-menu-item"{%- endif -%}>{{ childlink.title | split: '[' | first | capitalize }}</a>
+                                      <a class="sub-menu-link" href="{{ childlink.url }}"{%- if childlink.active %} class="current-menu-item"{%- endif -%}>{{ childlink.title | split: '[' | first | capitalize }}</a>
                                       {%- assign third_list_handle = childlink.title | split: '[' | first | handleize -%}
                                       {%- if linklists[childlink.handle].links.size > 0 or linklists[third_list_handle].links != blank -%}
                                       <ul class="sub-sub-menu">
@@ -254,7 +254,7 @@
                                 <div class="spb_wrapper">
                                   <ul class="sub-menu">
                                     <li>
-                                      <a href="{{ childlink.url }}"{%- if childlink.active %} class="current-menu-item"{%- endif -%}>{{ childlink.title | split: '[' | first | capitalize }}</a>
+                                      <a class="sub-menu-link"  href="{{ childlink.url }}"{%- if childlink.active %} class="current-menu-item"{%- endif -%}>{{ childlink.title | split: '[' | first | capitalize }}</a>
                                       {%- assign third_list_handle = childlink.title | split: '[' | first | handleize -%}
                                       {%- if linklists[childlink.handle].links.size > 0 or linklists[third_list_handle].links != blank -%}
                                       <ul class="sub-sub-menu">
