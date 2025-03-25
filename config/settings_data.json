@@ -1547,28 +1547,6 @@
       "1547774880206": {
         "type": "slideshow",
         "blocks": {
-          "1547774947330": {
-            "type": "item",
-            "settings": {
-              "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon.webp",
-              "title": "<h1>LOREM IPSUM</h1>",
-              "title_tb": "",
-              "title_mb": "",
-              "banner_btn_title": "boton de baner",
-              "banner_link": "",
-              "hide_btn_tablet": false,
-              "hide_btn_mobile": false,
-              "button_color": "default",
-              "button_style": "link",
-              "button_size": "large",
-              "banner_alignment": "left",
-              "banner_vertical_alignment": "bottom",
-              "banner_effect": "default",
-              "banner_content_style": "default",
-              "banner_color": "light",
-              "enable_increase": true
-            }
-          },
           "item_CLLMbD": {
             "type": "item",
             "settings": {
@@ -1591,11 +1569,33 @@
               "banner_color": "light",
               "enable_increase": true
             }
+          },
+          "1547774947330": {
+            "type": "item",
+            "settings": {
+              "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon.webp",
+              "title": "<h1>LOREM IPSUM</h1>",
+              "title_tb": "",
+              "title_mb": "",
+              "banner_btn_title": "boton de baner",
+              "banner_link": "",
+              "hide_btn_tablet": false,
+              "hide_btn_mobile": false,
+              "button_color": "default",
+              "button_style": "link",
+              "button_size": "large",
+              "banner_alignment": "left",
+              "banner_vertical_alignment": "bottom",
+              "banner_effect": "default",
+              "banner_content_style": "default",
+              "banner_color": "light",
+              "enable_increase": true
+            }
           }
         },
         "block_order": [
-          "1547774947330",
-          "item_CLLMbD"
+          "item_CLLMbD",
+          "1547774947330"
         ],
         "custom_css": [
           "h1 {letter-spacing: 5px;}"
@@ -1603,7 +1603,7 @@
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
           "silder_speed": "5000",
-          "dottime": "200",
+          "dottime": "300",
           "hide_pagination": true,
           "hide_button": false,
           "banner_color": "light",
