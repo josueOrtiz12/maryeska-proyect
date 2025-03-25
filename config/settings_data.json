@@ -1547,6 +1547,29 @@
       "1547774880206": {
         "type": "slideshow",
         "blocks": {
+          "item_KGixyw": {
+            "type": "item",
+            "settings": {
+              "image": "shopify://shop_images/Header-banner-desktop.webp",
+              "image_mobile": "shopify://shop_images/Header-banner-mobile.webp",
+              "title": "<h1>Decoradora, interiorista, florista y artista de mesas</h1>",
+              "title_tb": "",
+              "title_mb": "<h1>Decoradora, interiorista, florista y artista de mesas</h1>",
+              "banner_btn_title": "",
+              "banner_link": "",
+              "hide_btn_tablet": false,
+              "hide_btn_mobile": false,
+              "button_color": "white",
+              "button_style": "bordered",
+              "button_size": "default",
+              "banner_alignment": "center",
+              "banner_vertical_alignment": "top",
+              "banner_effect": "default",
+              "banner_content_style": "default",
+              "banner_color": "light",
+              "enable_increase": true
+            }
+          },
           "1547774947330": {
             "type": "item",
             "settings": {
@@ -1573,6 +1596,8 @@
             "type": "item",
             "disabled": true,
             "settings": {
+              "image": "shopify://shop_images/Header-banner-desktop.webp",
+              "image_mobile": "shopify://shop_images/Header-banner-mobile.webp",
               "title": "<h2 class=\"title\" style=\"\ntext-transform: uppercase;\n    font-weight: 700;\nline-height:1;\n    font-size: 119px;\n\">NEW STYLE</h2>\n\n<h6 style=\"\nletter-spacing: 0px;\nfont-weight: 500;\nfont-size: 73px;\n\">Boot's Collection For Men</h6>",
               "title_tb": "<h2 class=\"title\" style=\"\ntext-transform: uppercase;\n    font-weight: 700;\nline-height:1;\n    font-size: 80px;\n\">NEW STYLE</h2>\n\n<h6 style=\"\nletter-spacing: 0px;\nfont-weight: 500;\nfont-size: 60px;\n\">Boot's Collection For Men</h6>",
               "title_mb": "<h2 class=\"title\" style=\"\ntext-transform: uppercase;\n    font-weight: 700;\nline-height:1;\n    font-size: 40px;\n\">NEW STYLE</h2>\n\n<h6 style=\"\nletter-spacing: 0px;\nfont-weight: 500;\nfont-size: 30px;\n\">Boot's Collection For Men</h6>",
@@ -1593,6 +1618,7 @@
           }
         },
         "block_order": [
+          "item_KGixyw",
           "1547774947330",
           "1547774880206-1"
         ],
