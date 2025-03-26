@@ -31,7 +31,7 @@
         "subtitle_font": "default",
         "title_align": "center",
         "blog": "noticias",
-        "paginate_index": "3",
+        "paginate_index": "4",
         "use_pagination": "more_btn",
         "use_eq_height": true,
         "image_ratio": "ratio1_1",
