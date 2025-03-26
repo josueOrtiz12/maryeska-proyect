@@ -2278,7 +2278,9 @@
           "masonry_image_W4QdF6",
           "masonry_image_enmjhy"
         ],
-        "custom_css": [],
+        "custom_css": [
+          "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
+        ],
         "settings": {
           "title": "MI TIENDA",
           "sub_title": "SHOP",
