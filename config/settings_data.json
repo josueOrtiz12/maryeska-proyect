@@ -2249,12 +2249,75 @@
           "padding-top": 20,
           "padding-bottom": 40
         }
+      },
+      "gl_section_categories_furniture_zy6Bn8": {
+        "type": "gl_section_categories_furniture",
+        "blocks": {
+          "masonry_image_EVQAm3": {
+            "type": "masonry_image",
+            "settings": {
+              "id_collection": "rosso-furore",
+              "width": "3"
+            }
+          },
+          "masonry_image_K7FgKx": {
+            "type": "masonry_image",
+            "settings": {
+              "id_collection": "blue-positano",
+              "width": "3"
+            }
+          },
+          "masonry_image_W4QdF6": {
+            "type": "masonry_image",
+            "settings": {
+              "id_collection": "giallo-amalfi",
+              "width": "3"
+            }
+          },
+          "masonry_image_enmjhy": {
+            "type": "masonry_image",
+            "settings": {
+              "id_collection": "",
+              "width": "3"
+            }
+          }
+        },
+        "block_order": [
+          "masonry_image_EVQAm3",
+          "masonry_image_K7FgKx",
+          "masonry_image_W4QdF6",
+          "masonry_image_enmjhy"
+        ],
+        "settings": {
+          "title": "FEATURED CATEGORIES",
+          "sub_title": "MADE THE HARD WAY",
+          "categories_layout": "default",
+          "categories_design": "default",
+          "space_categories": "30",
+          "silder_speed": "5000",
+          "silder_per_view": "4",
+          "hide_pagination": false,
+          "hide_button": false,
+          "slider_loop": false,
+          "autoplay": false,
+          "section_bg_color": "",
+          "section_border_color": "",
+          "section_border_style": "solid",
+          "section_border": "",
+          "section_margin_top": "",
+          "section_margin_bottom": "",
+          "section_padding_top": "",
+          "section_padding_right": "",
+          "section_padding_bottom": "",
+          "section_padding_left": ""
+        }
       }
     },
     "content_for_index": [
       "1547774880206",
       "gl_section_title_LUcdj7",
       "gl_section_product_carousel_WwCzPF",
+      "gl_section_categories_furniture_zy6Bn8",
       "dca8f915-6e2a-480f-a7ae-e7002f93c861",
       "gl_section_promo_banner_f9xMjq",
       "546d3eb2-c9ae-4f88-a440-bf7a3c6aaade",
