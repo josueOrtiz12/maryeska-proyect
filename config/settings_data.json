@@ -2291,9 +2291,7 @@
           "masonry_image_W4QdF6",
           "masonry_image_enmjhy"
         ],
-        "custom_css": [
-          ".gl_column-inner {padding-top: 0px !important;}"
-        ],
+        "custom_css": [],
         "settings": {
           "title": "MI TIENDA",
           "sub_title": "SHOP",
@@ -2312,7 +2310,7 @@
           "section_border": "",
           "section_margin_top": "",
           "section_margin_bottom": "",
-          "section_padding_top": "",
+          "section_padding_top": "12%",
           "section_padding_right": "",
           "section_padding_bottom": "",
           "section_padding_left": ""
