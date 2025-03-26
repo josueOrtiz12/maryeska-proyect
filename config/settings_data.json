@@ -1079,18 +1079,6 @@
               "menu_width": "750"
             }
           },
-          "dropdown_NpekEw": {
-            "type": "dropdown",
-            "settings": {
-              "title": "Home",
-              "icon": "",
-              "button_link": "",
-              "label": "",
-              "menu": "colecciones",
-              "color": "#ffffff",
-              "menu_width": ""
-            }
-          },
           "5669328c-c11c-41ff-8f0f-f7f7cd327f68": {
             "type": "menu_item_no_children",
             "settings": {
@@ -1106,7 +1094,6 @@
           "a38ddf75-e415-46e5-80df-8b3628806253",
           "c6c7ce79-862c-4d06-ab65-1c197c418934",
           "mega_sub_6QLN7X",
-          "dropdown_NpekEw",
           "5669328c-c11c-41ff-8f0f-f7f7cd327f68"
         ],
         "settings": {
