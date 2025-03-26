@@ -12,6 +12,9 @@ div#shopify-section-gl_mega_menu a:hover {
 .header-shop .site-logo {
     width: 29%;
 }
+a.basel-logo.basel-main-logo {
+    font-size: 26px;
+}
 
 .header-shop .main-nav .menu>li>a {
     text-transform: capitalize;
