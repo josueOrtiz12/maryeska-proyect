@@ -2148,7 +2148,7 @@
           "image_size": "nt_cover",
           "image_position": "8",
           "style": "masonry",
-          "columns": "3",
+          "columns": "4",
           "enable_title": "show",
           "enable_meta": "hide",
           "enable_text": "hide",
