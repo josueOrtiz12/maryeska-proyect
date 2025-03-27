@@ -264,3 +264,12 @@ div#shopify-section-template--18018374058176__gl_section_blog_tLKFYm {
 h1.page-title-inner {
     background: #2015159e;
 }
+
+
+
+
+/* page products */
+section.related.products img.attachment-shop_catalog.size-shop_catalog.lazyautosizes.lazyloaded {
+    width: 512px;
+    height: 300px;
+}
