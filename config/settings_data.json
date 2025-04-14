@@ -2242,41 +2242,40 @@
       "gl_section_categories_furniture_zy6Bn8": {
         "type": "gl_section_categories_furniture",
         "blocks": {
-          "masonry_image_EVQAm3": {
+          "masonry_image_akfTYE": {
             "type": "masonry_image",
             "settings": {
-              "id_collection": "rosso-furore",
+              "id_collection": "arancia-sicilia",
               "width": "3"
             }
           },
-          "masonry_image_K7FgKx": {
+          "masonry_image_KgaXJp": {
             "type": "masonry_image",
             "settings": {
               "id_collection": "blue-positano",
               "width": "3"
             }
           },
-          "masonry_image_W4QdF6": {
+          "masonry_image_3wKcHd": {
             "type": "masonry_image",
             "settings": {
-              "id_collection": "giallo-amalfi",
+              "id_collection": "rosso-furore",
               "width": "3"
             }
           },
-          "masonry_image_enmjhy": {
+          "masonry_image_pdEgeL": {
             "type": "masonry_image",
             "settings": {
-              "image": "shopify://shop_images/01f91704a2b4e600300115e5701fb767.webp",
-              "id_collection": "",
+              "id_collection": "verde-toscana",
               "width": "3"
             }
           }
         },
         "block_order": [
-          "masonry_image_EVQAm3",
-          "masonry_image_K7FgKx",
-          "masonry_image_W4QdF6",
-          "masonry_image_enmjhy"
+          "masonry_image_akfTYE",
+          "masonry_image_KgaXJp",
+          "masonry_image_3wKcHd",
+          "masonry_image_pdEgeL"
         ],
         "custom_css": [
           "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
