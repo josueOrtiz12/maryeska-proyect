@@ -1094,7 +1094,7 @@
             "settings": {
               "title": "Jardineria coming soon",
               "icon": "",
-              "button_link": "",
+              "button_link": "#",
               "label": "",
               "color": "#ffffff"
             }
