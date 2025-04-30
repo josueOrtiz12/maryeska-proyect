@@ -2284,13 +2284,21 @@
               "id_collection": "verde-toscana",
               "width": "3"
             }
+          },
+          "masonry_image_GYKeUz": {
+            "type": "masonry_image",
+            "settings": {
+              "id_collection": "arancia-sicilia",
+              "width": "3"
+            }
           }
         },
         "block_order": [
           "masonry_image_akfTYE",
           "masonry_image_KgaXJp",
           "masonry_image_3wKcHd",
-          "masonry_image_pdEgeL"
+          "masonry_image_pdEgeL",
+          "masonry_image_GYKeUz"
         ],
         "custom_css": [
           "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
