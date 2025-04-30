@@ -2288,6 +2288,7 @@
           "masonry_image_GYKeUz": {
             "type": "masonry_image",
             "settings": {
+              "image": "shopify://shop_images/4cebeaec903fa6534e9b08c88647ed37.webp",
               "id_collection": "arancia-sicilia",
               "width": "3"
             }
