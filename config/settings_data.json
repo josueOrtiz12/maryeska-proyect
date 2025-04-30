@@ -2269,6 +2269,14 @@
               "width": "3"
             }
           },
+          "masonry_image_GYKeUz": {
+            "type": "masonry_image",
+            "settings": {
+              "image": "shopify://shop_images/4cebeaec903fa6534e9b08c88647ed37.webp",
+              "id_collection": "arancia-sicilia",
+              "width": "3"
+            }
+          },
           "masonry_image_3wKcHd": {
             "type": "masonry_image",
             "settings": {
@@ -2284,22 +2292,14 @@
               "id_collection": "verde-toscana",
               "width": "3"
             }
-          },
-          "masonry_image_GYKeUz": {
-            "type": "masonry_image",
-            "settings": {
-              "image": "shopify://shop_images/4cebeaec903fa6534e9b08c88647ed37.webp",
-              "id_collection": "arancia-sicilia",
-              "width": "3"
-            }
           }
         },
         "block_order": [
           "masonry_image_akfTYE",
           "masonry_image_KgaXJp",
+          "masonry_image_GYKeUz",
           "masonry_image_3wKcHd",
-          "masonry_image_pdEgeL",
-          "masonry_image_GYKeUz"
+          "masonry_image_pdEgeL"
         ],
         "custom_css": [
           "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
@@ -2313,7 +2313,7 @@
           "silder_speed": "5000",
           "silder_per_view": "4",
           "hide_pagination": true,
-          "hide_button": true,
+          "hide_button": false,
           "slider_loop": true,
           "autoplay": true,
           "section_bg_color": "",
