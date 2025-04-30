@@ -2264,6 +2264,7 @@
           "masonry_image_KgaXJp": {
             "type": "masonry_image",
             "settings": {
+              "image": "shopify://shop_images/3be024e29cbecc6954b3a89a5ebc8ca2.webp",
               "id_collection": "blue-positano",
               "width": "3"
             }
