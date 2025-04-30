@@ -2292,6 +2292,14 @@
               "id_collection": "verde-toscana",
               "width": "3"
             }
+          },
+          "masonry_image_xEkGXN": {
+            "type": "masonry_image",
+            "settings": {
+              "image": "shopify://shop_images/Giallo_Amalfi.png",
+              "id_collection": "giallo-amalfi",
+              "width": "3"
+            }
           }
         },
         "block_order": [
@@ -2299,7 +2307,8 @@
           "masonry_image_KgaXJp",
           "masonry_image_GYKeUz",
           "masonry_image_3wKcHd",
-          "masonry_image_pdEgeL"
+          "masonry_image_pdEgeL",
+          "masonry_image_xEkGXN"
         ],
         "custom_css": [
           "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
