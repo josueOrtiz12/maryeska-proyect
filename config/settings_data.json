@@ -2256,7 +2256,8 @@
           "masonry_image_akfTYE": {
             "type": "masonry_image",
             "settings": {
-              "id_collection": "arancia-sicilia",
+              "image": "shopify://shop_images/O_sole_mio.png",
+              "id_collection": "o-sole-mio",
               "width": "3"
             }
           },
@@ -2270,6 +2271,7 @@
           "masonry_image_3wKcHd": {
             "type": "masonry_image",
             "settings": {
+              "image": "shopify://shop_images/Rosso_Furore.png",
               "id_collection": "rosso-furore",
               "width": "3"
             }
@@ -2277,6 +2279,7 @@
           "masonry_image_pdEgeL": {
             "type": "masonry_image",
             "settings": {
+              "image": "shopify://shop_images/Verde_Toscano.png",
               "id_collection": "verde-toscana",
               "width": "3"
             }
