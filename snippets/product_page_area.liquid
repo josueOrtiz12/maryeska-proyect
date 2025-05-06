@@ -328,15 +328,15 @@
                            {%-else-%}
                               <div class="p_des_ex">
                                  {%- if product.metafields.meta.description_excerpt -%}
-                                  {{  product.metafields.meta.description_excerpt | strip }}
-                                {% elsif product.description contains  '[' %}
-                                  {% assign pr_des = product.description | split: '[' %}
-                                  {% assign pr_des = pr_des[1] | split: ']' | first | append:']' | prepend:'[' %}
-                                  {{ product.description | remove: pr_des | strip_html | truncatewords: prodcut_excerpt_length }}
-                                {%-else-%}
-                                  {{ product.description | strip_html | truncatewords: prodcut_excerpt_length }}
-                                {%-endif-%}
-                                </div>
+                                   {{ product.metafields.meta.description_excerpt | strip }}
+                                 {% elsif product.description contains '[' %}
+                                   {% assign pr_des = product.description | split: '[' %}
+                                   {% assign pr_des = pr_des[1] | split: ']' | first | append:']' | prepend:'[' %}
+                                   {{ product.description | remove: pr_des | strip_html | truncatewords: prodcut_excerpt_length }}
+                                 {%- else -%}
+                                   {{ product.description | truncatewords: prodcut_excerpt_length }}
+                                 {%- endif -%}
+                               </div>
                            {%-endif-%}
                         </div>
                         {%-endif-%}
