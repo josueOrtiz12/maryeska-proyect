@@ -39489,5 +39489,5 @@ button#btn_size_mfp.loading {
   text-align: left !important;
 }
 span#product-price {
-  color: #000000;
+  color: #000000 !important;
 }
