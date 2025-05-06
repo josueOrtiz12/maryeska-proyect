@@ -39483,5 +39483,5 @@ button#btn_size_mfp.loading {
     pointer-events: none;
 }
 .text-desciption {
-  text-align: start;
+  text-align: start !important;
 }
