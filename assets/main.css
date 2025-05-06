@@ -39488,3 +39488,6 @@ button#btn_size_mfp.loading {
 .p_des_ex {
   text-align: left !important;
 }
+span#product-price {
+  color: #000000;
+}
