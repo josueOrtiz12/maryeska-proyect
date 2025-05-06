@@ -326,7 +326,7 @@
                            {%- if settings.use_description_full -%}
                               {%- include 'shortcode' load: product.description -%}
                            {%-else-%}
-                              <p class="p_des_ex">
+                              <div class="p_des_ex">
                                  {%- if product.metafields.meta.description_excerpt -%}
                                   {{  product.metafields.meta.description_excerpt | strip }}
                                 {% elsif product.description contains  '[' %}
@@ -336,7 +336,7 @@
                                 {%-else-%}
                                   {{ product.description | strip_html | truncatewords: prodcut_excerpt_length }}
                                 {%-endif-%}
-                              </p>
+                                </div>
                            {%-endif-%}
                         </div>
                         {%-endif-%}
