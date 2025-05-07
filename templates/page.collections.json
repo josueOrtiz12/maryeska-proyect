@@ -71,50 +71,6 @@
         "section_padding_left": ""
       }
     },
-    "gl_section_blog_yEcMRX": {
-      "type": "gl_section_blog",
-      "custom_css": [
-        "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}",
-        ".equal-nt.ratio1_1 [class*=\"lazyload\"]:before {padding-top: 65%;}",
-        "h3.entry-title {font-size: 18px !important;}"
-      ],
-      "settings": {
-        "row_stretch": "stretch_row",
-        "title": "NEWS",
-        "sub_title": "MI BLOG",
-        "text_after_title": "",
-        "title_style": "default",
-        "title_color": "default",
-        "title_size": "default",
-        "subtitle_font": "default",
-        "title_align": "center",
-        "blog": "noticias",
-        "paginate_index": "3",
-        "use_pagination": "more_btn",
-        "use_eq_height": true,
-        "image_ratio": "ratio1_1",
-        "image_size": "nt_cover",
-        "image_position": "8",
-        "style": "masonry",
-        "columns": "3",
-        "enable_title": "show",
-        "enable_meta": "hide",
-        "enable_text": "hide",
-        "enable_button": "show",
-        "enable_post_categories": "hide",
-        "enable_post_date": "show",
-        "section_bg_color": "",
-        "section_border_color": "",
-        "section_border_style": "solid",
-        "section_border": "",
-        "section_margin_top": "",
-        "section_margin_bottom": "",
-        "section_padding_top": "",
-        "section_padding_right": "",
-        "section_padding_bottom": "",
-        "section_padding_left": ""
-      }
-    },
     "movable_block_PYX3jD": {
       "type": "movable-block",
       "blocks": {
@@ -206,7 +162,17 @@
         "masonry_image_bjF3YF": {
           "type": "masonry_image",
           "settings": {
-            "id_collection": "",
+            "image": "shopify://shop_images/4cebeaec903fa6534e9b08c88647ed37.webp",
+            "id_collection": "arancia-sicilia",
+            "width": "3",
+            "mobile_width": "6"
+          }
+        },
+        "masonry_image_wEFxFg": {
+          "type": "masonry_image",
+          "settings": {
+            "image": "shopify://shop_images/3be024e29cbecc6954b3a89a5ebc8ca2.webp",
+            "id_collection": "blue-positano",
             "width": "3",
             "mobile_width": "6"
           }
@@ -214,7 +180,8 @@
         "masonry_image_VNiWDT": {
           "type": "masonry_image",
           "settings": {
-            "id_collection": "",
+            "image": "shopify://shop_images/Giallo_Amalfi.png",
+            "id_collection": "giallo-amalfi",
             "width": "3",
             "mobile_width": "6"
           }
@@ -222,7 +189,7 @@
         "masonry_image_wnJyVE": {
           "type": "masonry_image",
           "settings": {
-            "id_collection": "",
+            "id_collection": "rosso-furore",
             "width": "3",
             "mobile_width": "6"
           }
@@ -230,6 +197,15 @@
         "masonry_image_fn384B": {
           "type": "masonry_image",
           "settings": {
+            "id_collection": "verde-toscana",
+            "width": "3",
+            "mobile_width": "6"
+          }
+        },
+        "masonry_image_beXTex": {
+          "type": "masonry_image",
+          "settings": {
+            "image": "shopify://shop_images/O_sole_mio.png",
             "id_collection": "",
             "width": "3",
             "mobile_width": "6"
@@ -238,9 +214,11 @@
       },
       "block_order": [
         "masonry_image_bjF3YF",
+        "masonry_image_wEFxFg",
         "masonry_image_VNiWDT",
         "masonry_image_wnJyVE",
-        "masonry_image_fn384B"
+        "masonry_image_fn384B",
+        "masonry_image_beXTex"
       ],
       "name": "Collection categories",
       "settings": {
@@ -270,9 +248,8 @@
   "order": [
     "main",
     "slideshow_qD4QLU",
-    "gl_section_blog_yEcMRX",
+    "gl_section_categories_6mP8hi",
     "movable_block_PYX3jD",
-    "gl_instagram_dCLtpj",
-    "gl_section_categories_6mP8hi"
+    "gl_instagram_dCLtpj"
   ]
 }
