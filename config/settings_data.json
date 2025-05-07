@@ -1988,7 +1988,9 @@
         "block_order": [
           "video_kRr3wd"
         ],
-        "custom_css": [],
+        "custom_css": [
+          ".gl_column-inner.gl_mb_4 {padding-bottom: 0px !important; padding-top: 0px !important; margin-bottom: 0px !important;}"
+        ],
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
           "full_height": false,
