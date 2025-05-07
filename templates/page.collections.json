@@ -200,10 +200,10 @@
         "section_padding_left": ""
       }
     },
-    "gl_section_categories_6mdkqK": {
+    "gl_section_categories_6mP8hi": {
       "type": "gl_section_categories",
       "blocks": {
-        "masonry_image_Dk9Ckd": {
+        "masonry_image_bjF3YF": {
           "type": "masonry_image",
           "settings": {
             "id_collection": "",
@@ -211,7 +211,7 @@
             "mobile_width": "6"
           }
         },
-        "masonry_image_B78tCJ": {
+        "masonry_image_VNiWDT": {
           "type": "masonry_image",
           "settings": {
             "id_collection": "",
@@ -219,7 +219,7 @@
             "mobile_width": "6"
           }
         },
-        "masonry_image_EYdJ6m": {
+        "masonry_image_wnJyVE": {
           "type": "masonry_image",
           "settings": {
             "id_collection": "",
@@ -227,7 +227,7 @@
             "mobile_width": "6"
           }
         },
-        "masonry_image_zVFET6": {
+        "masonry_image_fn384B": {
           "type": "masonry_image",
           "settings": {
             "id_collection": "",
@@ -237,19 +237,19 @@
         }
       },
       "block_order": [
-        "masonry_image_Dk9Ckd",
-        "masonry_image_B78tCJ",
-        "masonry_image_EYdJ6m",
-        "masonry_image_zVFET6"
+        "masonry_image_bjF3YF",
+        "masonry_image_VNiWDT",
+        "masonry_image_wnJyVE",
+        "masonry_image_fn384B"
       ],
       "name": "Collection categories",
       "settings": {
-        "row_stretch": "stretch_row_content",
+        "row_stretch": "default",
         "categories_layout": "masonry",
         "categories_design": "default",
         "space_categories": "30",
         "silder_speed": "5000",
-        "silder_per_view": "6",
+        "silder_per_view": "8",
         "hide_pagination": false,
         "hide_button": false,
         "slider_loop": false,
@@ -273,6 +273,6 @@
     "gl_section_blog_yEcMRX",
     "movable_block_PYX3jD",
     "gl_instagram_dCLtpj",
-    "gl_section_categories_6mdkqK"
+    "gl_section_categories_6mP8hi"
   ]
 }
