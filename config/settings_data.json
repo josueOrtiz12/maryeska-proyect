@@ -254,7 +254,7 @@
     "show_share_btn": false,
     "share_type": "1",
     "show_first_img": false,
-    "color_name_check": "type",
+    "color_name_check": "",
     "first_available_variant": false,
     "remove_sold_out": false,
     "btn_atc_full": false,
@@ -1573,7 +1573,7 @@
             "type": "item",
             "settings": {
               "image": "shopify://shop_images/85c6dcd26e84d679a20847ab91961923_11zon.webp",
-              "title": "<h1>LOREM IPSUM</h1>",
+              "title": "",
               "title_tb": "",
               "title_mb": "",
               "banner_btn_title": "boton de baner",
