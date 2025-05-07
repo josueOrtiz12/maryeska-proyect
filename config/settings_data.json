@@ -1865,7 +1865,7 @@
           "513e44ef-020d-40a4-8525-ee5bcaedffef": {
             "type": "text",
             "settings": {
-              "text_block": "<p class=\"about-me\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n</p>\n<a class=\"read-more\">Leer más</a>"
+              "text_block": "<p class=\"Aceca de mi\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nSoy madre, esposa y defensora de la unión familiar. \n\nNací en Caracas, Venezuela. Tuve la inmensa bendición de pasar mi infancia en el campo, donde me crié en la hacienda de mis padres rodeada de animales y flores silvestres. Fue ahí donde el contacto con la naturaleza despertó mi temprano amor e interés por las artes. \n</p>\n<a class=\"read-more\">Leer más</a>"
             }
           }
         },
