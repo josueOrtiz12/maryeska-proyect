@@ -224,7 +224,7 @@
                </form>
                {%- endif -%}
             </div>
-            {% comment %} {%- if settings.shop_filters %}{%- section 'gl_filter_area' -%}{%- endif -%} {% endcomment %}
+            {%- if settings.shop_filters %}{%- section 'gl_filter_area' -%}{%- endif -%}
             <!-- .filters-area -->
             {%- if current_tags.size > 0 -%}
                <div class="basel-active-filters">
