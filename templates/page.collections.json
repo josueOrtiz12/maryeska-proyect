@@ -249,7 +249,7 @@
         "categories_design": "default",
         "space_categories": "30",
         "silder_speed": "5000",
-        "silder_per_view": "4",
+        "silder_per_view": "6",
         "hide_pagination": false,
         "hide_button": false,
         "slider_loop": false,
