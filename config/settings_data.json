@@ -2003,7 +2003,7 @@
           "section_margin_bottom": "0px",
           "section_padding_top": "0px",
           "section_padding_right": "",
-          "section_padding_bottom": "",
+          "section_padding_bottom": "0px",
           "section_padding_left": ""
         }
       },
