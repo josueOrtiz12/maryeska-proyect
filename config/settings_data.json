@@ -1072,7 +1072,7 @@
               "icon": "",
               "button_link": "shopify://collections/dolce-far-niente",
               "label": "",
-              "menu": "colecciones",
+              "menu": "collection-new",
               "color": "#ffffff",
               "show_img": false,
               "full_width": true,
