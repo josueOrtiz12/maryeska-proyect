@@ -115,7 +115,7 @@
     "header_border": "2px",
     "header_icon_style": "line",
     "basel_menu_align": "left",
-    "header_text_ss": "Welcome to our store. Call free: 055 1233 32 55",
+    "header_text_ss": "",
     "basel_search_widget": "full-screen",
     "ajax_search": true,
     "ajax_search_mobile": true,
