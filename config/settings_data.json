@@ -1070,7 +1070,7 @@
             "settings": {
               "title": "Dolce Far Niente",
               "icon": "",
-              "button_link": "shopify://collections/dolce-far-niente",
+              "button_link": "shopify://collections",
               "label": "",
               "menu": "collection-new",
               "color": "#ffffff",
