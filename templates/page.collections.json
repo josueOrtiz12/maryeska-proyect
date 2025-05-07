@@ -71,340 +71,6 @@
         "section_padding_left": ""
       }
     },
-    "gl_section_image_with_text_RjcXcR": {
-      "type": "gl_section_image_with_text",
-      "blocks": {
-        "image_bGfcUL": {
-          "type": "image",
-          "settings": {
-            "block_image_1": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg"
-          }
-        },
-        "text_aaC8k6": {
-          "type": "text",
-          "settings": {
-            "text_block": "<div class=\"about-me-container\">\n<p class=\"about-me\">ABOUT ME</p>\n<h1 class=\"about-me-tilte\">LOREM IPSUM</h1>\n<p class=\"text-content\">\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n</p>\n<a class=\"read-more\">Leer más</a>\n</div>"
-          }
-        }
-      },
-      "block_order": [
-        "image_bGfcUL",
-        "text_aaC8k6"
-      ],
-      "custom_css": [
-        ".gl_row.spb_row.gl_row-fluid {display: flex; align-items: center;}",
-        "div#gallery_template--17993270984896__gl_section_image_with_text_RjcXcR {margin-bottom: 0px;}"
-      ],
-      "settings": {
-        "row_stretch": "default",
-        "full_height": false,
-        "columns_position": "middle",
-        "equal_height": false,
-        "content_position": "default",
-        "use_countdown": false,
-        "date": "",
-        "countdown_color_scheme": "dark",
-        "size": "small",
-        "align": "left",
-        "style": "standard",
-        "button_label": "",
-        "button_link": "",
-        "button_color": "white",
-        "button_style": "default",
-        "button_size": "default",
-        "hide_pagination": true,
-        "hide_button": true,
-        "slider_loop": true,
-        "autoplay": true,
-        "align_img": "1",
-        "color_scheme": "dark",
-        "section_bg_color": "",
-        "section_border_color": "",
-        "section_border_style": "solid",
-        "section_border": "",
-        "section_margin_top": "",
-        "section_margin_bottom": "0px",
-        "section_padding_top": "",
-        "section_padding_right": "",
-        "section_padding_bottom": "0px",
-        "section_padding_left": "",
-        "use_parallax": false
-      }
-    },
-    "gl_section_title_ngG4fW": {
-      "type": "gl_section_title",
-      "custom_css": [
-        ".container-info p {font-size: 17px !important;}"
-      ],
-      "settings": {
-        "row_stretch": "default",
-        "grid_width": "12",
-        "title": "ABOUT ME",
-        "sub_title": "",
-        "text_after_title": "<div class=\"container-info\">\n<p>\nNací en Caracas, Venezuela. Tuve la inmensa bendición de pasar mi infancia en el campo, donde me crié en la hacienda de mis padres rodeada de animales y flores silvestres. Fue ahí donde el contacto con la naturaleza despertó mi temprano amor e interés por las artes. Soy madre, esposa y defensora de la unión familiar.\nEstudié Leyes. En mis inicios en el mundo laboral trabajé en ExxonMobil Corporation, la empresa petrolera estadounidense más grande del mundo.\nAllí me llevé muchísimos conocimientos, lecciones de vida y aprendí sobre perspectivas empresariales con enfoque mundial y multidisciplinario. Pero el arte y la naturaleza seguían teniendo un espacio muy importante en mi corazón y nunca dejé de interesarme por ellos.\n\n<br><br>\nGracias a esta experiencia corporativa he podido desenvolverme en eventos de alto nivel diplomático donde los detalles, reglas y buen gusto son esenciales. \nActualmente, soy colaboradora del programa Portadas Al Día, el magazine más visto de la televisión venezolana, transmitido en vivo de lunes a viernes, también participé en Mundo de Mujeres en en el canal IVC, en Venevisión realicé la sección en vivo “Hazlo tú hogar” del Programa Portada 's. Asimismo, tuve una colaboración en Caraota Digital donde compartí numerosos tips de creatividad, en artículos escritos, colaboré con la revista Española El Mueble y la revista Conclase. Como interiorista, he decorado grandes cadenas hoteleras, restaurantes, casas y diversos locales comerciales, donde he utilizado el estilo que más me define creando propuestas eclécticas, orgánicas y kinestésicas.\nGracias a mi vocación por comunicar y conectar con mi comunidad  creé un canal YouTube donde publico constantemente una serie de tutoriales creativos llamado Simplificarte y un Podcast, Sobremesa by Maryeska Lopez, donde me encanta conversar sobre temas que nos hagan cuestionarnos y nos permitan alcanzar una mejor versión de nosotros mismos.\n<br><br>\nSi me preguntan cuál es mi misión, respondería con firmeza: inspirar a las familias a volver a la mesa y reavivar los valores de la unión familiar.\n¡Únete a mí en este viaje de regreso a la mesa y recuerda siempre que podemos “De lo cotidiano a lo  Extraordinario”\n\n</p>\n</div>",
-        "title_style": "default",
-        "title_color": "default",
-        "title_size": "default",
-        "subtitle_font": "default",
-        "title_align": "center",
-        "section_bg_color": "#f7f7f7",
-        "section_border_color": "",
-        "section_border_style": "solid",
-        "section_border": "",
-        "section_margin_top": "",
-        "section_margin_bottom": "",
-        "section_padding_top": "10%",
-        "section_padding_right": "",
-        "section_padding_bottom": "",
-        "section_padding_left": ""
-      }
-    },
-    "gl_section_promo_banner_fLUYnW": {
-      "type": "gl_section_promo_banner",
-      "blocks": {
-        "banner_ghHcCH": {
-          "type": "banner",
-          "settings": {
-            "banner_width": "4",
-            "hide_medium": false,
-            "hide_small": false,
-            "hide_extra_small": false,
-            "image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
-            "banner_content": "",
-            "banner_btn_title": "",
-            "banner_link": "",
-            "button_size": "small",
-            "button_color": "white",
-            "button_style_color": "default",
-            "banner_alignment": "center",
-            "banner_vertical_alignment": "top",
-            "banner_effect": "default",
-            "banner_content_style": "default",
-            "banner_color": "light",
-            "enable_increase": false,
-            "block_border_color": "",
-            "block_border_style": "solid",
-            "block_border": "",
-            "block_margin_top": "",
-            "block_margin_bottom": "",
-            "block_padding": "",
-            "position_text_block": "top",
-            "enable_text_block": false,
-            "heading": "Heading",
-            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
-            "banner_text_color": "light"
-          }
-        },
-        "banner_Dtqct3": {
-          "type": "banner",
-          "settings": {
-            "banner_width": "4",
-            "hide_medium": false,
-            "hide_small": false,
-            "hide_extra_small": false,
-            "image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
-            "banner_content": "",
-            "banner_btn_title": "",
-            "banner_link": "",
-            "button_size": "small",
-            "button_color": "white",
-            "button_style_color": "default",
-            "banner_alignment": "center",
-            "banner_vertical_alignment": "top",
-            "banner_effect": "default",
-            "banner_content_style": "default",
-            "banner_color": "light",
-            "enable_increase": false,
-            "block_border_color": "",
-            "block_border_style": "solid",
-            "block_border": "",
-            "block_margin_top": "",
-            "block_margin_bottom": "",
-            "block_padding": "",
-            "position_text_block": "top",
-            "enable_text_block": false,
-            "heading": "Heading",
-            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
-            "banner_text_color": "light"
-          }
-        },
-        "banner_fNBFEK": {
-          "type": "banner",
-          "settings": {
-            "banner_width": "4",
-            "hide_medium": false,
-            "hide_small": false,
-            "hide_extra_small": false,
-            "image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf.jpg",
-            "banner_content": "",
-            "banner_btn_title": "",
-            "banner_link": "",
-            "button_size": "small",
-            "button_color": "white",
-            "button_style_color": "default",
-            "banner_alignment": "center",
-            "banner_vertical_alignment": "top",
-            "banner_effect": "default",
-            "banner_content_style": "default",
-            "banner_color": "light",
-            "enable_increase": false,
-            "block_border_color": "",
-            "block_border_style": "solid",
-            "block_border": "",
-            "block_margin_top": "",
-            "block_margin_bottom": "",
-            "block_padding": "",
-            "position_text_block": "top",
-            "enable_text_block": false,
-            "heading": "Heading",
-            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
-            "banner_text_color": "light"
-          }
-        }
-      },
-      "block_order": [
-        "banner_ghHcCH",
-        "banner_Dtqct3",
-        "banner_fNBFEK"
-      ],
-      "settings": {
-        "row_stretch": "default",
-        "columns_gap": "inherit",
-        "button_label": "",
-        "button_link": "",
-        "button_color": "white",
-        "button_style": "bordered",
-        "button_size": "default",
-        "section_bg_color": "",
-        "section_border_color": "",
-        "section_border_style": "solid",
-        "section_border": "",
-        "section_margin_top": "",
-        "section_margin_bottom": "",
-        "section_padding_top": "",
-        "section_padding_right": "",
-        "section_padding_bottom": "",
-        "section_padding_left": ""
-      }
-    },
-    "gl_section_image_text_6_7UDb9F": {
-      "type": "gl_section_image_text_6",
-      "blocks": {
-        "text_DRnzwm": {
-          "type": "text",
-          "settings": {
-            "text_title": "ABOUT ME",
-            "text_heading": "LOREM IPSUM",
-            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-            "button_label": "",
-            "button_link": "",
-            "button_label_2": "",
-            "button_link_2": "",
-            "use_countdown": false,
-            "date": "",
-            "countdown_color_scheme": "light",
-            "size": "medium",
-            "align": "left",
-            "style": "standard"
-          }
-        },
-        "image_qGVP4h": {
-          "type": "image",
-          "settings": {
-            "block_image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf_344ce9df-3bbb-44fd-86a5-f3145c3ef23c.webp",
-            "image_alignment_one": "center",
-            "image_style_one": "default"
-          }
-        }
-      },
-      "block_order": [
-        "text_DRnzwm",
-        "image_qGVP4h"
-      ],
-      "custom_css": [
-        "h2.gl_custom_heading.hidden-sm.hidden-xs {font-size: 28px !important; letter-spacing: 5px; text-align: left !important;}",
-        ".gl_custom_template--17993270984896__gl_section_image_text_6_7UDb9F.row-reverse-mobile.gl_row.spb_row.gl_row-fluid {display: flex; align-items: center;}",
-        ".spb_wrapper p {text-align: left !important;}",
-        ".spb_column.gl_column_container.gl_col-sm-6.gl_col-md-5.text-center {margin-right: 9%;}",
-        ".spb_wrapper p {font-size: 17px !important;}"
-      ],
-      "settings": {
-        "row_stretch": "stretch_row",
-        "full_height": false,
-        "columns_position": "middle",
-        "equal_height": false,
-        "content_position": "default",
-        "section_bg_color": "",
-        "section_border_color": "",
-        "section_border_style": "solid",
-        "section_border": "",
-        "section_margin_top": "",
-        "section_margin_bottom": "",
-        "section_padding_top": "",
-        "section_padding_right": "",
-        "section_padding_bottom": "",
-        "section_padding_left": ""
-      }
-    },
-    "gl_section_image_text_6_4VCpdt": {
-      "type": "gl_section_image_text_6",
-      "blocks": {
-        "image_qG8n7D": {
-          "type": "image",
-          "settings": {
-            "block_image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf_344ce9df-3bbb-44fd-86a5-f3145c3ef23c.webp",
-            "image_alignment_one": "center",
-            "image_style_one": "default"
-          }
-        },
-        "text_cNmmcc": {
-          "type": "text",
-          "settings": {
-            "text_title": "ABOUT ME",
-            "text_heading": "LOREM IPSUM",
-            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-            "button_label": "",
-            "button_link": "",
-            "button_label_2": "",
-            "button_link_2": "",
-            "use_countdown": false,
-            "date": "",
-            "countdown_color_scheme": "light",
-            "size": "medium",
-            "align": "left",
-            "style": "standard"
-          }
-        }
-      },
-      "block_order": [
-        "image_qG8n7D",
-        "text_cNmmcc"
-      ],
-      "custom_css": [
-        "h2.gl_custom_heading.hidden-sm.hidden-xs {font-size: 28px !important; letter-spacing: 5px; text-align: right !important;}",
-        ".gl_custom_template--17993270984896__gl_section_image_text_6_4VCpdt.row-reverse-mobile.gl_row.spb_row.gl_row-fluid {display: flex; align-items: center;}",
-        ".spb_wrapper p {text-align: right !important;}",
-        ".spb_column.gl_column_container.gl_col-sm-6.gl_col-md-5.text-center {margin-left: 9%;}",
-        ".spb_wrapper p {font-size: 17px !important;}"
-      ],
-      "settings": {
-        "row_stretch": "stretch_row",
-        "full_height": false,
-        "columns_position": "middle",
-        "equal_height": false,
-        "content_position": "default",
-        "section_bg_color": "",
-        "section_border_color": "",
-        "section_border_style": "solid",
-        "section_border": "",
-        "section_margin_top": "",
-        "section_margin_bottom": "",
-        "section_padding_top": "",
-        "section_padding_right": "",
-        "section_padding_bottom": "",
-        "section_padding_left": ""
-      }
-    },
     "gl_section_blog_yEcMRX": {
       "type": "gl_section_blog",
       "custom_css": [
@@ -533,18 +199,80 @@
         "section_padding_bottom": "",
         "section_padding_left": ""
       }
+    },
+    "gl_section_categories_6mdkqK": {
+      "type": "gl_section_categories",
+      "blocks": {
+        "masonry_image_Dk9Ckd": {
+          "type": "masonry_image",
+          "settings": {
+            "id_collection": "",
+            "width": "3",
+            "mobile_width": "6"
+          }
+        },
+        "masonry_image_B78tCJ": {
+          "type": "masonry_image",
+          "settings": {
+            "id_collection": "",
+            "width": "3",
+            "mobile_width": "6"
+          }
+        },
+        "masonry_image_EYdJ6m": {
+          "type": "masonry_image",
+          "settings": {
+            "id_collection": "",
+            "width": "3",
+            "mobile_width": "6"
+          }
+        },
+        "masonry_image_zVFET6": {
+          "type": "masonry_image",
+          "settings": {
+            "id_collection": "",
+            "width": "3",
+            "mobile_width": "6"
+          }
+        }
+      },
+      "block_order": [
+        "masonry_image_Dk9Ckd",
+        "masonry_image_B78tCJ",
+        "masonry_image_EYdJ6m",
+        "masonry_image_zVFET6"
+      ],
+      "name": "Collection categories",
+      "settings": {
+        "row_stretch": "stretch_row_content",
+        "categories_layout": "masonry_first",
+        "categories_design": "default",
+        "space_categories": "30",
+        "silder_speed": "5000",
+        "silder_per_view": "4",
+        "hide_pagination": false,
+        "hide_button": false,
+        "slider_loop": false,
+        "autoplay": false,
+        "section_bg_color": "",
+        "section_border_color": "",
+        "section_border_style": "solid",
+        "section_border": "",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding_top": "",
+        "section_padding_right": "",
+        "section_padding_bottom": "",
+        "section_padding_left": ""
+      }
     }
   },
   "order": [
     "main",
     "slideshow_qD4QLU",
-    "gl_section_image_with_text_RjcXcR",
-    "gl_section_title_ngG4fW",
-    "gl_section_promo_banner_fLUYnW",
-    "gl_section_image_text_6_7UDb9F",
-    "gl_section_image_text_6_4VCpdt",
     "gl_section_blog_yEcMRX",
     "movable_block_PYX3jD",
-    "gl_instagram_dCLtpj"
+    "gl_instagram_dCLtpj",
+    "gl_section_categories_6mdkqK"
   ]
 }
