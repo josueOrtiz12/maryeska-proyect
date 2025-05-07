@@ -245,7 +245,7 @@
       "name": "Collection categories",
       "settings": {
         "row_stretch": "stretch_row_content",
-        "categories_layout": "masonry_first",
+        "categories_layout": "masonry",
         "categories_design": "default",
         "space_categories": "30",
         "silder_speed": "5000",
