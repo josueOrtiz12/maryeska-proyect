@@ -254,7 +254,7 @@
     "show_share_btn": false,
     "share_type": "1",
     "show_first_img": false,
-    "color_name_check": "",
+    "color_name_check": "type",
     "first_available_variant": false,
     "remove_sold_out": false,
     "btn_atc_full": false,
