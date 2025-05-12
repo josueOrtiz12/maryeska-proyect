@@ -1065,6 +1065,18 @@
               "color": "#ffffff"
             }
           },
+          "dropdown_nQWCjz": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Home",
+              "icon": "",
+              "button_link": "",
+              "label": "",
+              "menu": "collection-new",
+              "color": "#ffffff",
+              "menu_width": ""
+            }
+          },
           "mega_sub_6QLN7X": {
             "type": "mega_sub",
             "settings": {
@@ -1103,6 +1115,7 @@
         "block_order": [
           "a38ddf75-e415-46e5-80df-8b3628806253",
           "c6c7ce79-862c-4d06-ab65-1c197c418934",
+          "dropdown_nQWCjz",
           "mega_sub_6QLN7X",
           "5669328c-c11c-41ff-8f0f-f7f7cd327f68",
           "menu_item_no_children_3EKYLw"
