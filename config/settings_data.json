@@ -1124,7 +1124,7 @@
       "gl_mobile_menu": {
         "type": "gl_mobile_menu",
         "settings": {
-          "menu": "main-menu"
+          "menu": "collection-new"
         }
       },
       "gl_search-by-category": {
