@@ -278,13 +278,43 @@
             "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
             "banner_text_color": "light"
           }
+        },
+        "banner_9K9cQT": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6563.jpg",
+            "banner_content": "",
+            "banner_btn_title": "",
+            "banner_link": "",
+            "button_size": "small",
+            "button_color": "white",
+            "button_style_color": "default",
+            "banner_alignment": "center",
+            "banner_vertical_alignment": "top",
+            "banner_effect": "default",
+            "banner_content_style": "default",
+            "banner_color": "light",
+            "enable_increase": false,
+            "block_border_color": "",
+            "block_border_style": "solid",
+            "block_border": "",
+            "block_margin_top": "",
+            "block_margin_bottom": "",
+            "block_padding": "",
+            "position_text_block": "top",
+            "enable_text_block": false,
+            "heading": "Heading",
+            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+            "banner_text_color": "light"
+          }
         }
       },
       "block_order": [
         "banner_4DDkMt",
         "banner_VUUtPY",
         "banner_n88KqU",
-        "banner_JazeYg"
+        "banner_JazeYg",
+        "banner_9K9cQT"
       ],
       "name": "Promo banner Carousel",
       "settings": {
