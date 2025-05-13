@@ -2316,6 +2316,34 @@
               "id_collection": "giallo-amalfi",
               "width": "3"
             }
+          },
+          "masonry_image_VbwQEK": {
+            "type": "masonry_image",
+            "settings": {
+              "id_collection": "vacanza",
+              "width": "3"
+            }
+          },
+          "masonry_image_j6jrje": {
+            "type": "masonry_image",
+            "settings": {
+              "id_collection": "mocha",
+              "width": "3"
+            }
+          },
+          "masonry_image_JNck7W": {
+            "type": "masonry_image",
+            "settings": {
+              "id_collection": "sicilia-nel-cuore",
+              "width": "3"
+            }
+          },
+          "masonry_image_UL3rqm": {
+            "type": "masonry_image",
+            "settings": {
+              "id_collection": "o-sole-mio",
+              "width": "3"
+            }
           }
         },
         "block_order": [
@@ -2324,7 +2352,11 @@
           "masonry_image_GYKeUz",
           "masonry_image_3wKcHd",
           "masonry_image_pdEgeL",
-          "masonry_image_xEkGXN"
+          "masonry_image_xEkGXN",
+          "masonry_image_VbwQEK",
+          "masonry_image_j6jrje",
+          "masonry_image_JNck7W",
+          "masonry_image_UL3rqm"
         ],
         "custom_css": [
           "span.title-subtitle.font-default {font-size: 20px !important; color: #767676 !important;}"
