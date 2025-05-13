@@ -307,6 +307,35 @@
             "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
             "banner_text_color": "light"
           }
+        },
+        "banner_ce9NhA": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0033_1.jpg",
+            "banner_content": "",
+            "banner_btn_title": "",
+            "banner_link": "",
+            "button_size": "small",
+            "button_color": "white",
+            "button_style_color": "default",
+            "banner_alignment": "center",
+            "banner_vertical_alignment": "top",
+            "banner_effect": "default",
+            "banner_content_style": "default",
+            "banner_color": "light",
+            "enable_increase": false,
+            "block_border_color": "",
+            "block_border_style": "solid",
+            "block_border": "",
+            "block_margin_top": "",
+            "block_margin_bottom": "",
+            "block_padding": "",
+            "position_text_block": "top",
+            "enable_text_block": false,
+            "heading": "Heading",
+            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+            "banner_text_color": "light"
+          }
         }
       },
       "block_order": [
@@ -314,7 +343,8 @@
         "banner_VUUtPY",
         "banner_n88KqU",
         "banner_JazeYg",
-        "banner_9K9cQT"
+        "banner_9K9cQT",
+        "banner_ce9NhA"
       ],
       "name": "Promo banner Carousel",
       "settings": {
@@ -473,9 +503,9 @@
         "text_DRnzwm": {
           "type": "text",
           "settings": {
-            "text_title": "ABOUT ME",
-            "text_heading": "LOREM IPSUM",
-            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "text_title": "",
+            "text_heading": "Mision",
+            "content": "Si me preguntan cuál es mi misión, respondería con firmeza: inspirar a las familias a volver a la mesa y reavivar los valores de la unión familiar. \n¡Únete a mí en este viaje de regreso a la mesa y recuerda siempre que podemos “De lo cotidiano a lo Extraordinario”",
             "button_label": "",
             "button_link": "",
             "button_label_2": "",
@@ -491,7 +521,7 @@
         "image_qGVP4h": {
           "type": "image",
           "settings": {
-            "block_image": "shopify://shop_images/d0cccd37597f1bcdf9f98b9876c4ecbf_344ce9df-3bbb-44fd-86a5-f3145c3ef23c.webp",
+            "block_image": "shopify://shop_images/Foto_about_me_frase.jpg",
             "image_alignment_one": "center",
             "image_style_one": "default"
           }
@@ -560,6 +590,7 @@
         "image_qG8n7D",
         "text_cNmmcc"
       ],
+      "disabled": true,
       "custom_css": [
         "h2.gl_custom_heading.hidden-sm.hidden-xs {font-size: 28px !important; letter-spacing: 5px; text-align: right !important;}",
         ".gl_custom_template--17993270984896__gl_section_image_text_6_4VCpdt.row-reverse-mobile.gl_row.spb_row.gl_row-fluid {display: flex; align-items: center;}",
