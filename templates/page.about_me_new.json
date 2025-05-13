@@ -336,6 +336,93 @@
             "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
             "banner_text_color": "light"
           }
+        },
+        "banner_8aHmkB": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4128.jpg",
+            "banner_content": "",
+            "banner_btn_title": "",
+            "banner_link": "",
+            "button_size": "small",
+            "button_color": "white",
+            "button_style_color": "default",
+            "banner_alignment": "center",
+            "banner_vertical_alignment": "top",
+            "banner_effect": "default",
+            "banner_content_style": "default",
+            "banner_color": "light",
+            "enable_increase": false,
+            "block_border_color": "",
+            "block_border_style": "solid",
+            "block_border": "",
+            "block_margin_top": "",
+            "block_margin_bottom": "",
+            "block_padding": "",
+            "position_text_block": "top",
+            "enable_text_block": false,
+            "heading": "Heading",
+            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+            "banner_text_color": "light"
+          }
+        },
+        "banner_8qkKrE": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1925.jpg",
+            "banner_content": "",
+            "banner_btn_title": "",
+            "banner_link": "",
+            "button_size": "small",
+            "button_color": "white",
+            "button_style_color": "default",
+            "banner_alignment": "center",
+            "banner_vertical_alignment": "top",
+            "banner_effect": "default",
+            "banner_content_style": "default",
+            "banner_color": "light",
+            "enable_increase": false,
+            "block_border_color": "",
+            "block_border_style": "solid",
+            "block_border": "",
+            "block_margin_top": "",
+            "block_margin_bottom": "",
+            "block_padding": "",
+            "position_text_block": "top",
+            "enable_text_block": false,
+            "heading": "Heading",
+            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+            "banner_text_color": "light"
+          }
+        },
+        "banner_yVnG7J": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4898.jpg",
+            "banner_content": "",
+            "banner_btn_title": "",
+            "banner_link": "",
+            "button_size": "small",
+            "button_color": "white",
+            "button_style_color": "default",
+            "banner_alignment": "center",
+            "banner_vertical_alignment": "top",
+            "banner_effect": "default",
+            "banner_content_style": "default",
+            "banner_color": "light",
+            "enable_increase": false,
+            "block_border_color": "",
+            "block_border_style": "solid",
+            "block_border": "",
+            "block_margin_top": "",
+            "block_margin_bottom": "",
+            "block_padding": "",
+            "position_text_block": "top",
+            "enable_text_block": false,
+            "heading": "Heading",
+            "text_block": "<p>Viverra rutrum fringilla curabitur.</p>",
+            "banner_text_color": "light"
+          }
         }
       },
       "block_order": [
@@ -344,7 +431,10 @@
         "banner_n88KqU",
         "banner_JazeYg",
         "banner_9K9cQT",
-        "banner_ce9NhA"
+        "banner_ce9NhA",
+        "banner_8aHmkB",
+        "banner_8qkKrE",
+        "banner_yVnG7J"
       ],
       "name": "Promo banner Carousel",
       "settings": {
