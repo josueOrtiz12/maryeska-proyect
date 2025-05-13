@@ -67,9 +67,9 @@ div#shopify-section-1547774880206 .wrapper-content-baner::before {
     background: linear-gradient(0deg, #1d1919cf, #00000000);
 }
 
-.nt_banner_img.banner-image {
+/* .nt_banner_img.banner-image {
     filter: saturate(1.5);
-}
+} */
 
 .visible-pc.hidden-tb.hidden-mb h1 {
     font-size: 37px;
