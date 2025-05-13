@@ -166,7 +166,7 @@
         "banner_4DDkMt": {
           "type": "banner",
           "settings": {
-            "image": "shopify://shop_images/Header-banner-mobile.webp",
+            "image": "shopify://shop_images/IMG_0794.jpg",
             "banner_content": "",
             "banner_btn_title": "",
             "banner_link": "",
@@ -195,7 +195,7 @@
         "banner_VUUtPY": {
           "type": "banner",
           "settings": {
-            "image": "shopify://shop_images/Header-banner-mobile.webp",
+            "image": "shopify://shop_images/IMG_1903_1.jpg",
             "banner_content": "",
             "banner_btn_title": "",
             "banner_link": "",
@@ -224,7 +224,7 @@
         "banner_n88KqU": {
           "type": "banner",
           "settings": {
-            "image": "shopify://shop_images/Header-banner-mobile.webp",
+            "image": "shopify://shop_images/575cab21-fe4f-4759-a5bd-32a9f54d5b51.jpg",
             "banner_content": "",
             "banner_btn_title": "",
             "banner_link": "",
@@ -253,7 +253,7 @@
         "banner_JazeYg": {
           "type": "banner",
           "settings": {
-            "image": "shopify://shop_images/Header-banner-mobile.webp",
+            "image": "shopify://shop_images/IMG_5739.jpg",
             "banner_content": "",
             "banner_btn_title": "",
             "banner_link": "",
@@ -292,8 +292,8 @@
         "columns_gap": "inherit",
         "silder_speed": "5000",
         "silder_per_view": "3",
-        "hide_pagination": false,
-        "hide_button": false,
+        "hide_pagination": true,
+        "hide_button": true,
         "slider_loop": true,
         "autoplay": true,
         "section_bg_color": "",
