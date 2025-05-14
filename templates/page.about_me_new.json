@@ -21,7 +21,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Banner-About-me_1.png",
-            "title": "<h1>ABOUT ME</h1>\n<p>LOREM IPSUM</p>",
+            "title": "<h1>ABOUT ME</h1>",
             "title_tb": "",
             "title_mb": "",
             "banner_btn_title": "",
