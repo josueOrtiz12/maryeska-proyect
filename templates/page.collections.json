@@ -161,6 +161,22 @@
             "width": "3",
             "mobile_width": "6"
           }
+        },
+        "masonry_image_cgLcrT": {
+          "type": "masonry_image",
+          "settings": {
+            "id_collection": "sicilia-nel-cuore",
+            "width": "3",
+            "mobile_width": "6"
+          }
+        },
+        "masonry_image_yaLLNN": {
+          "type": "masonry_image",
+          "settings": {
+            "id_collection": "vacanza",
+            "width": "3",
+            "mobile_width": "6"
+          }
         }
       },
       "block_order": [
@@ -170,7 +186,9 @@
         "masonry_image_wnJyVE",
         "masonry_image_fn384B",
         "masonry_image_beXTex",
-        "masonry_image_bkGwLL"
+        "masonry_image_bkGwLL",
+        "masonry_image_cgLcrT",
+        "masonry_image_yaLLNN"
       ],
       "name": "Collection categories",
       "settings": {
