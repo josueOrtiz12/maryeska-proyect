@@ -595,7 +595,7 @@
           "settings": {
             "text_title": "",
             "text_heading": "Mision",
-            "content": "Si me preguntan cuál es mi misión, respondería con firmeza: inspirar a las familias a volver a la mesa y reavivar los valores de la unión familiar. \n¡Únete a mí en este viaje de regreso a la mesa y recuerda siempre que podemos “De lo cotidiano a lo Extraordinario”",
+            "content": "<p style=\"font-size: 17px;\">Si me preguntan cuál es mi misión, respondería con firmeza: inspirar a las familias a volver a la mesa y reavivar los valores de la unión familiar. \n¡Únete a mí en este viaje de regreso a la mesa y recuerda siempre que podemos “De lo cotidiano a lo Extraordinario”</p>",
             "button_label": "",
             "button_link": "",
             "button_label_2": "",
@@ -626,7 +626,7 @@
         ".gl_custom_template--17993270984896__gl_section_image_text_6_7UDb9F.row-reverse-mobile.gl_row.spb_row.gl_row-fluid {display: flex; align-items: center;}",
         ".spb_wrapper p {text-align: left !important;}",
         ".spb_column.gl_column_container.gl_col-sm-6.gl_col-md-5.text-center {margin-right: 9%;}",
-        ".spb_wrapper p {font-size: 17px !important;}"
+        ".pr.gl_single_image-wrapper.gl_box_border_grey.default img {width: 60%;}"
       ],
       "settings": {
         "row_stretch": "stretch_row",
@@ -670,7 +670,7 @@
             "use_countdown": false,
             "date": "",
             "countdown_color_scheme": "light",
-            "size": "medium",
+            "size": "large",
             "align": "left",
             "style": "standard"
           }
