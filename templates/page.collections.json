@@ -147,7 +147,7 @@
           "type": "masonry_image",
           "settings": {
             "image": "shopify://shop_images/O_sole_mio.png",
-            "id_collection": "",
+            "id_collection": "o-sole-mio",
             "width": "3",
             "mobile_width": "6"
           }
