@@ -130,6 +130,7 @@
         "masonry_image_wnJyVE": {
           "type": "masonry_image",
           "settings": {
+            "image": "shopify://shop_images/Rosso_Furore_8e45021a-9f32-4791-aeec-5f4e3bc501d8.png",
             "id_collection": "rosso-furore",
             "width": "3",
             "mobile_width": "6"
@@ -138,6 +139,7 @@
         "masonry_image_fn384B": {
           "type": "masonry_image",
           "settings": {
+            "image": "shopify://shop_images/Verde_Toscano_e248babb-05ac-4516-baf4-6961a454922a.png",
             "id_collection": "verde-toscana",
             "width": "3",
             "mobile_width": "6"
