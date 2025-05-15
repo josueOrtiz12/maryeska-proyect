@@ -2281,7 +2281,7 @@
           "masonry_image_KgaXJp": {
             "type": "masonry_image",
             "settings": {
-              "image": "shopify://shop_images/3be024e29cbecc6954b3a89a5ebc8ca2.webp",
+              "image": "shopify://shop_images/Blue_positano_1x1_bfbc00d1-55d7-4df1-a398-d75b06811e99.png",
               "id_collection": "blue-positano",
               "width": "3"
             }
@@ -2289,7 +2289,7 @@
           "masonry_image_GYKeUz": {
             "type": "masonry_image",
             "settings": {
-              "image": "shopify://shop_images/4cebeaec903fa6534e9b08c88647ed37.webp",
+              "image": "shopify://shop_images/Arancia_Sicilia_1x1_c064b4ef-53cc-495e-bfc4-12d2796c72cf.png",
               "id_collection": "arancia-sicilia",
               "width": "3"
             }
@@ -2297,7 +2297,7 @@
           "masonry_image_3wKcHd": {
             "type": "masonry_image",
             "settings": {
-              "image": "shopify://shop_images/Rosso_Furore.png",
+              "image": "shopify://shop_images/Rosso_furore_1x1_1c316726-a402-4d86-8b31-fe553b397487.png",
               "id_collection": "rosso-furore",
               "width": "3"
             }
@@ -2305,7 +2305,7 @@
           "masonry_image_pdEgeL": {
             "type": "masonry_image",
             "settings": {
-              "image": "shopify://shop_images/Verde_Toscano_e248babb-05ac-4516-baf4-6961a454922a.png",
+              "image": "shopify://shop_images/Verde_toscana_1x1_77cd8539-680d-421a-a9e5-9f63fc579833.png",
               "id_collection": "verde-toscana",
               "width": "3"
             }
@@ -2313,7 +2313,7 @@
           "masonry_image_xEkGXN": {
             "type": "masonry_image",
             "settings": {
-              "image": "shopify://shop_images/Giallo_Amalfi.png",
+              "image": "shopify://shop_images/Giallo_amalfi_1x1_343f2772-bc61-445a-a4e0-30a6ab60e6a1.png",
               "id_collection": "giallo-amalfi",
               "width": "3"
             }
@@ -2321,6 +2321,7 @@
           "masonry_image_VbwQEK": {
             "type": "masonry_image",
             "settings": {
+              "image": "shopify://shop_images/Vacanza_1x1_c3339668-d8eb-4d0c-8514-b19058d7da98.png",
               "id_collection": "vacanza",
               "width": "3"
             }
@@ -2328,6 +2329,7 @@
           "masonry_image_j6jrje": {
             "type": "masonry_image",
             "settings": {
+              "image": "shopify://shop_images/Mocha_1x1_c20c262d-4173-4f74-9f15-1f096e28c5b4.png",
               "id_collection": "mocha",
               "width": "3"
             }
@@ -2335,6 +2337,7 @@
           "masonry_image_JNck7W": {
             "type": "masonry_image",
             "settings": {
+              "image": "shopify://shop_images/Sicilia_nel_cuore_1x1_5af8581c-989f-4da7-8161-9b0909826834.png",
               "id_collection": "sicilia-nel-cuore",
               "width": "3"
             }
@@ -2342,6 +2345,7 @@
           "masonry_image_UL3rqm": {
             "type": "masonry_image",
             "settings": {
+              "image": "shopify://shop_images/O_sole_mio_1x1_a12ff1c9-6568-4ccb-a542-141d7c122ecb.png",
               "id_collection": "o-sole-mio",
               "width": "3"
             }
