@@ -2300,8 +2300,8 @@
       {
         "type": "checkbox",
         "id": "use_title",
-        "label": "Use Promo Banner collection",
-        "info": "Colocar ti",
+        "label": "Use title collection",
+        "info": "You can also specify other title for particular collection",
         "default": true
       },
       {
