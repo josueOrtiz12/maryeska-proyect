@@ -2299,7 +2299,7 @@
     "settings": [
       {
         "type": "checkbox",
-        "id": "use_title",
+        "id": "use_title_collection",
         "label": "Use title collection",
         "info": "You can also specify other title for particular collection",
         "default": true
