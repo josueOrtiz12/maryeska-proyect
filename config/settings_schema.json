@@ -2299,6 +2299,13 @@
     "settings": [
       {
         "type": "checkbox",
+        "id": "use_title",
+        "label": "Use Promo Banner collection",
+        "info": "Colocar ti",
+        "default": true
+      },
+      {
+        "type": "checkbox",
         "id": "use_promo_banner_collection",
         "label": "Use Promo Banner collection",
         "info": "You can also specify other image for particular collection",
