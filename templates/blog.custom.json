@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_P3PmKH": {
@@ -6,8 +15,8 @@
         "item_GVRDnV": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/85c6dcd26e84d679a20847ab91961923_11zon_-_copia.webp",
-            "title": "<h1>BLOG<\/h1>\n<p>LOREM IPSUM<\/p>",
+            "image": "shopify://shop_images/Banner-blog_1.png",
+            "title": "",
             "title_tb": "",
             "title_mb": "",
             "banner_btn_title": "",
@@ -174,28 +183,28 @@
           "type": "text_image",
           "settings": {
             "text": "NEW COLLECTION",
-            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
           }
         },
         "text_image_jqP9ar": {
           "type": "text_image",
           "settings": {
             "text": "NEW COLLECTION",
-            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
           }
         },
         "text_image_i6HP6e": {
           "type": "text_image",
           "settings": {
             "text": "NEW COLLECTION",
-            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
           }
         },
         "text_image_KPLy4m": {
           "type": "text_image",
           "settings": {
             "text": "NEW COLLECTION",
-            "image": "shopify:\/\/shop_images\/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
+            "image": "shopify://shop_images/Screenshot_1_89b04ef9-8c55-40a2-b250-88609bab24fd.png"
           }
         }
       },
