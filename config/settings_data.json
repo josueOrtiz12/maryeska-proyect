@@ -2270,14 +2270,6 @@
       "gl_section_categories_furniture_zy6Bn8": {
         "type": "gl_section_categories_furniture",
         "blocks": {
-          "masonry_image_akfTYE": {
-            "type": "masonry_image",
-            "settings": {
-              "image": "shopify://shop_images/O_sole_mio.png",
-              "id_collection": "o-sole-mio",
-              "width": "3"
-            }
-          },
           "masonry_image_KgaXJp": {
             "type": "masonry_image",
             "settings": {
@@ -2352,7 +2344,6 @@
           }
         },
         "block_order": [
-          "masonry_image_akfTYE",
           "masonry_image_KgaXJp",
           "masonry_image_GYKeUz",
           "masonry_image_3wKcHd",
