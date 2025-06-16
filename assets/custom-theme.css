@@ -286,4 +286,7 @@ section.related.products img.attachment-shop_catalog.size-shop_catalog.lazyautos
   h1.text-banner {
     display: none !important;
   }
+  h1.texto-cursivo {
+     display: none !important;
+  }
 }
