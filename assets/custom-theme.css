@@ -284,6 +284,6 @@ section.related.products img.attachment-shop_catalog.size-shop_catalog.lazyautos
 
 @media only screen and (max-width: 767px) and (min-width: 5px) {
   h1.text-banner {
-    display: none !;
+    display: none !important;
   }
 }
