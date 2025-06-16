@@ -1565,7 +1565,7 @@
             "settings": {
               "image": "shopify://shop_images/Home-Banner_desktop.png",
               "image_mobile": "shopify://shop_images/Home-Banner-mobile.png",
-              "title": "<h1>Amante de las mesas, las flores, unión familiar y el buen vivir.</h1><h1 style=\"font-style: italic\">De lo cotidiano a lo extraordinario.</h1>",
+              "title": "<h1>Amante de las mesas, las flores, unión familiar y el buen vivir.</h1><h1 class=\"texto-cursivo\" style=\"font-style: italic\">De lo cotidiano a lo extraordinario.</h1>",
               "title_tb": "",
               "title_mb": "",
               "banner_btn_title": "boton de baner",
