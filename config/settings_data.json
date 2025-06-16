@@ -1612,7 +1612,8 @@
           "1547774947330"
         ],
         "custom_css": [
-          "h1 {letter-spacing: 5px;}"
+          "h1 {letter-spacing: 5px;}",
+          ".texto-cursivo {font-family: \"Edu NSW ACT Cursive\", cursive !important; font-optical-sizing: auto; font-weight: 400; font-style: normal; }"
         ],
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
