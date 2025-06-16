@@ -1614,7 +1614,7 @@
         "custom_css": [
           "h1 {letter-spacing: 5px;}",
           ".texto-cursivo {font-family: \"Edu NSW ACT Cursive\", cursive !important; font-optical-sizing: auto; font-weight: 400; font-style: normal;}",
-          " /* Para 320px */@media only screen and (max-width: 767px) and (min-width: 5px) {}"
+          " /* Para 320px */@media only screen and (max-width: 767px) and (min-width: 5px) {h1.text-banner {display: none;}}"
         ],
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
