@@ -1565,7 +1565,7 @@
             "settings": {
               "image": "shopify://shop_images/Home-Banner_desktop.png",
               "image_mobile": "shopify://shop_images/Home-Banner-mobile-texto.png",
-              "title": "<h1>Amante de las mesas, las flores, unión familiar y el buen vivir.</h1><h1 class=\"texto-cursivo\" style=\"font-style: italic\">De lo cotidiano a lo extraordinario.</h1>",
+              "title": "<h1 class=\"text-banner\">Amante de las mesas, las flores, unión familiar y el buen vivir.</h1><h1 class=\"texto-cursivo\" style=\"font-style: italic\">De lo cotidiano a lo extraordinario.</h1>",
               "title_tb": "",
               "title_mb": "",
               "banner_btn_title": "boton de baner",
@@ -1614,7 +1614,7 @@
         "custom_css": [
           "h1 {letter-spacing: 5px;}",
           ".texto-cursivo {font-family: \"Edu NSW ACT Cursive\", cursive !important; font-optical-sizing: auto; font-weight: 400; font-style: normal;}",
-          "/* Para 320px */@media only screen and (max-width: 767px) and (min-width: 5px) {}"
+          " /* Para 320px */@media only screen and (max-width: 767px) and (min-width: 5px) {}"
         ],
         "settings": {
           "row_stretch": "stretch_row_content_no_spaces",
