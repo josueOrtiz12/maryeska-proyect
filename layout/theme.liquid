@@ -82,6 +82,10 @@
   {{ '//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js' | script_tag }}
  {%- comment -%} <script src="{{ 'jquery_migrate.min.js' | asset_url }}"></script>{%- endcomment -%}
   {{ content_for_header }}
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap" rel="stylesheet">
 </head>
 {%- include 'class_body_theme' -%}
 <body class="sticky-toolbar-{{settings.sticky_toolbar}} {%- if settings.ajax_shop -%}basel-ajax-shop-on{%- endif %} template-{{ template | split: '.' | first }} {{header_class }} {{footer_layout}} {{ general_layout }} {{ search_layout }} {{ tab_class }} {{ design_products }} global-header-{{settings.header_design}} global-cart-design-{{settings.cart_design}}{%- if customer %} logged-in{%- endif %}{%- if catalog_mode %} catalog-mode-on{%- else %} catalog-mode-off{%- endif %}{%- unless template contains 'index' %} shopify shopify-page{%- endunless %}{%- if template contains '404' %} error404{%- endif-%}">
