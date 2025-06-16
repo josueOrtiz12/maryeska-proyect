@@ -280,3 +280,10 @@ section.related.products img.attachment-shop_catalog.size-shop_catalog.lazyautos
     width: 512px;
     height: 300px;
 }
+
+
+@media only screen and (max-width: 767px) and (min-width: 5px) {
+  h1.text-banner {
+    display: none !;
+  }
+}
