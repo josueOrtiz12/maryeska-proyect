@@ -2359,7 +2359,7 @@
         ],
         "settings": {
           "title": "MI TIENDA",
-          "sub_title": "SHOP",
+          "sub_title": "",
           "categories_layout": "carousel",
           "categories_design": "alt",
           "space_categories": "30",
