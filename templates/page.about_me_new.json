@@ -892,8 +892,8 @@
           "type": "text",
           "settings": {
             "text_title": "",
-            "text_heading": "Mision",
-            "content": "<p style=\"font-size: 17px;\">Si me preguntan cuál es mi misión, respondería con firmeza: inspirar a las familias a volver a la mesa y reavivar los valores de la unión familiar. \n¡Únete a mí en este viaje de regreso a la mesa y recuerda siempre que podemos “De lo cotidiano a lo Extraordinario”</p>",
+            "text_heading": "",
+            "content": "<p style=\"font-size: 20px;\">Si me preguntan cuál es mi misión, respondería con firmeza: inspirar a las familias a volver a la mesa y reavivar los valores de la unión familiar. \n¡Únete a mí en este viaje de regreso a la mesa y recuerda siempre que podemos “De lo cotidiano a lo Extraordinario”</p>",
             "button_label": "",
             "button_link": "",
             "button_label_2": "",
