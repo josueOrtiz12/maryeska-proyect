@@ -39491,3 +39491,11 @@ button#btn_size_mfp.loading {
 span#product-price {
   color: #000000 !important;
 }
+
+/* Define la clase para el texto especial */
+        .texto-cursivo {
+            font-family: "Edu NSW ACT Cursive", cursive;
+            font-optical-sizing: auto;
+            font-weight: 400; /* Puedes ajustar este valor entre 400 y 700 */
+            font-style: normal;
+        }
