@@ -263,7 +263,7 @@
     "show_grouped_variant_image": false,
     "use_view_360": true,
     "use_clicking_variant_image": true,
-    "product_quantity_message": true,
+    "product_quantity_message": false,
     "ck_inventory": 10,
     "use_description_excerpt": true,
     "use_description_full": false,
