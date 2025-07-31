@@ -1325,7 +1325,7 @@
             "type": "menu",
             "settings": {
               "title": "Términos y condiciones",
-              "menu": "shop",
+              "menu": "terminos-y-condiciones",
               "width": "16%",
               "width_tablet": "16%",
               "width_mobile": "100%"
