@@ -2437,6 +2437,8 @@
     }
   },
   "platform_customizations": {
-    "custom_css": []
+    "custom_css": [
+      ".shopify-policy__container {max-width: 92ch !important; margin: auto !important; padding-left: 8px !important; padding-right: 8px !important;}"
+    ]
   }
 }
