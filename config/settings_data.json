@@ -1107,6 +1107,16 @@
             "settings": {
               "title": "Jardineria coming soon",
               "icon": "",
+              "button_link": "",
+              "label": "",
+              "color": "#ffffff"
+            }
+          },
+          "menu_item_no_children_JNJ9Dq": {
+            "type": "menu_item_no_children",
+            "settings": {
+              "title": "Cursos",
+              "icon": "",
               "button_link": "shopify://collections/cursos",
               "label": "",
               "color": "#ffffff"
@@ -1119,7 +1129,8 @@
           "dropdown_nQWCjz",
           "mega_sub_6QLN7X",
           "5669328c-c11c-41ff-8f0f-f7f7cd327f68",
-          "menu_item_no_children_3EKYLw"
+          "menu_item_no_children_3EKYLw",
+          "menu_item_no_children_JNJ9Dq"
         ],
         "settings": {
           "active_sub_menu": "hover",
