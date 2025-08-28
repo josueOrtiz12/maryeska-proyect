@@ -1107,7 +1107,7 @@
             "settings": {
               "title": "Jardineria coming soon",
               "icon": "",
-              "button_link": "#",
+              "button_link": "shopify://collections/cursos",
               "label": "",
               "color": "#ffffff"
             }
