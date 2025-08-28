@@ -39500,3 +39500,7 @@ span#product-price {
     padding-left: 8px !important;
     padding-right: 8px !important;
 }
+
+.title-shop.without-title.title-size-large{
+      margin-top: 0% !important;
+}
