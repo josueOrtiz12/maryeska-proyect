@@ -648,7 +648,6 @@
         "blocks": {
           "1497870185984": {
             "type": "description",
-            "disabled": true,
             "settings": {
               "title": "Description"
             }
@@ -682,6 +681,9 @@
           "1497870204981",
           "1497870197904",
           "1497870213063"
+        ],
+        "custom_css": [
+          ".product-tabs-wrapper {display: none;}"
         ],
         "settings": {}
       },
