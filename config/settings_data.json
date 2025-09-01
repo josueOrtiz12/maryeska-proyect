@@ -683,7 +683,7 @@
           "1497870213063"
         ],
         "custom_css": [
-          ".product-tabs-wrapper {display: none;}"
+          ".product-tabs-wrapper {display: none !important;}"
         ],
         "settings": {}
       },
