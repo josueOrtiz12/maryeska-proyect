@@ -648,18 +648,21 @@
         "blocks": {
           "1497870185984": {
             "type": "description",
+            "disabled": true,
             "settings": {
               "title": "Description"
             }
           },
           "1497870204981": {
             "type": "additional",
+            "disabled": true,
             "settings": {
               "title": "Additional Information"
             }
           },
           "1497870197904": {
             "type": "review",
+            "disabled": true,
             "settings": {
               "title": "Reviews",
               "use_count_reviews": true
@@ -667,6 +670,7 @@
           },
           "1497870213063": {
             "type": "html",
+            "disabled": true,
             "settings": {
               "title": "Shipping & Delivery",
               "code": "<img src=\"//cdn.shopify.com/s/files/1/1933/6253/files/shipping.jpg?2957050064640912120\" class=\"alignleft\"> \n<p>Vestibulum curae torquent diam diam commodo parturient penatibus nunc dui adipiscing convallis bulum parturient suspendisse parturient a.Parturient in parturient scelerisque nibh lectus quam a natoque adipiscing a vestibulum hendrerit et pharetra fames.Consequat net</p>\n<p>Vestibulum parturient suspendisse parturient a.Parturient in parturient scelerisque  nibh lectus quam a natoque adipiscing a vestibulum hendrerit et pharetra fames.Consequat netus.</p>\n<p>Scelerisque adipiscing bibendum sem vestibulum et in a a a purus lectus faucibus lobortis tincidunt purus lectus nisl class eros.Condimentum a et ullamcorper dictumst mus et tristique elementum nam inceptos hac vestibulum amet elit</p>\n<div class=\"clearfix\"></div>"
