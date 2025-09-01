@@ -344,7 +344,7 @@
     "use_agree_checkbox_page": true,
     "link_conditions": "",
     "show_custom_css": true,
-    "global_custom_css": ".page-title.page-title-default.title-size-large.color-scheme-light.title-design-centered.without-title.title-shop {\n    margin-top: 0% !important;\n}",
+    "global_custom_css": ".page-title.page-title-default.title-size-large.color-scheme-light.title-design-centered.without-title.title-shop {\n    margin-top: 0% !important;\n}\n.product-tabs-wrapper {\n  display: none !important;\n}",
     "desktop_custom_css": "",
     "tablet_custom_css": "",
     "landscape_custom_css": "",
@@ -682,9 +682,7 @@
           "1497870197904",
           "1497870213063"
         ],
-        "custom_css": [
-          ".product-tabs-wrapper {display: none !important;}"
-        ],
+        "custom_css": [],
         "settings": {}
       },
       "gl_section_sidebar_product": {
