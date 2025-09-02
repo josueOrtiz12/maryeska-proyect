@@ -2421,6 +2421,13 @@
         "type": "shopify://apps/dondy-whatsapp-chat-marketing/blocks/app-block/7f5a70cb-e171-4cc7-ac02-e2220203abd6",
         "disabled": false,
         "settings": {}
+      },
+      "2399026625676879482": {
+        "type": "shopify://apps/tevello-courses-communities/blocks/app-embed/6af98c2b-ad4a-443c-872d-d116e2eac923",
+        "disabled": false,
+        "settings": {
+          "account_page_position": "top"
+        }
       }
     }
   },
