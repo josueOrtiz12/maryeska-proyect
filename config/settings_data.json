@@ -424,7 +424,7 @@
     "sales_popup_color": "dark",
     "sales_popup_bg": "#fff",
     "sales_popup_image": "",
-    "login_register_enable": false,
+    "login_register_enable": true,
     "login_tabs_enable": true,
     "account_header_enable": false,
     "login_side": false,
