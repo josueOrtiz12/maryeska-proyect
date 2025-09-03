@@ -341,7 +341,7 @@
     "login": {
       "title": "Acceso",
       "email": "Dirección de correo electrónico",
-      "password": "PasswordContraseña",
+      "password": "Contraseña",
       "forgot_password": "¿Perdiste tu contraseña?",
       "sign_in": "Acceso",
       "error": "Error:",
