@@ -1890,8 +1890,9 @@
         "blocks": {
           "6bd26ab1-cb98-4425-85c1-1e5d581e5dbb": {
             "type": "image",
+            "disabled": true,
             "settings": {
-              "block_image_1": "shopify://shop_images/IMG_3750.jpg"
+              "block_image_1": "shopify://shop_images/38BC7328-ECD6-4ED2-8C90-902DC64C2608.jpg"
             }
           },
           "513e44ef-020d-40a4-8525-ee5bcaedffef": {
