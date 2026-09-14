@@ -304,7 +304,7 @@
                         {%- if check_external and product.variants.size == 1 -%}
                            <p class="cart"><a href="{{ check }}" rel="nofollow" class="single_add_to_cart_button button alt">{{ product.metafields.external | first | first }}</a></p>
                         {%- else -%}
-                           {% capture "form_classes" -%}
+                           {% capture form_classes -%}
                             add-to-cart-form cart{%- if product.variants.size > 1 %} variations_form{%-endif %}{%- if settings.show_watch_products %} swatch-color-single{%- endif %}{%- if settings.btn_atc_full %} nt_full{%- endif -%}
                           {%- endcapture %}
                           {%- form 'product', product, id: "cart-form-quick", class: form_classes -%}
@@ -983,4 +983,13 @@ Shopify.linkOptionSelectors = function(product) {
     {%- endif -%}
    }(jQuery));
 </script>
-{%- endunless -%}
+{%- endunless -%}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: '{% capture "form_classes" -%}'
+  to: "{% capture form_classes -%}"
+  position: 27004..27031
+{%- endcomment -%}
